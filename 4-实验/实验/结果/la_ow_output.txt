@@ -1,0 +1,6000 @@
+Simulation 1
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 1 simulation)
+    POMCPOW: 
+        AVG_ADR: -19.881589415593282
+Simulation 2
+    POMCPOW: 
+        ADR: -15.728127759608743
+Cumulative Statistics (for 2 simulation)
+    POMCPOW: 
+        AVG_ADR: -17.80485858760101
+Simulation 3
+    POMCPOW: 
+        ADR: -17.16595267586785
+Cumulative Statistics (for 3 simulation)
+    POMCPOW: 
+        AVG_ADR: -17.591889950356624
+Simulation 4
+    POMCPOW: 
+        ADR: 2.0527567187499987
+Cumulative Statistics (for 4 simulation)
+    POMCPOW: 
+        AVG_ADR: -12.680728283079969
+Simulation 5
+    POMCPOW: 
+        ADR: -17.691650741698584
+Cumulative Statistics (for 5 simulation)
+    POMCPOW: 
+        AVG_ADR: -13.682912774803691
+Simulation 6
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 6 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.716025548268624
+Simulation 7
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 7 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.453963243600716
+Simulation 8
+    POMCPOW: 
+        ADR: -19.290513002353077
+Cumulative Statistics (for 8 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.933531963444763
+Simulation 9
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 9 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.372205013683487
+Simulation 10
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 10 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.723143453874467
+Simulation 11
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 11 simulation)
+    POMCPOW: 
+        AVG_ADR: -17.010274904939816
+Simulation 12
+    POMCPOW: 
+        ADR: 4.435187499999998
+Cumulative Statistics (for 12 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.223153037861499
+Simulation 13
+    POMCPOW: 
+        ADR: -15.266623556353178
+Cumulative Statistics (for 13 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.22649692389932
+Simulation 14
+    POMCPOW: 
+        ADR: -17.016792290387215
+Cumulative Statistics (for 14 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.354375164362741
+Simulation 15
+    POMCPOW: 
+        ADR: -17.807068204613653
+Cumulative Statistics (for 15 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.517888033712802
+Simulation 16
+    POMCPOW: 
+        ADR: -6.796199940447029
+Cumulative Statistics (for 16 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.972782527883691
+Simulation 17
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 17 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.261535874219549
+Simulation 18
+    POMCPOW: 
+        ADR: -17.807068204613653
+Cumulative Statistics (for 18 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.40295433701922
+Simulation 19
+    POMCPOW: 
+        ADR: -12.489677307726334
+Cumulative Statistics (for 19 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.249623967056436
+Simulation 20
+    POMCPOW: 
+        ADR: 3.213428124999999
+Cumulative Statistics (for 20 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.326471362453614
+Simulation 21
+    POMCPOW: 
+        ADR: -12.09439716602772
+Cumulative Statistics (for 21 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.22018211500476
+Simulation 22
+    POMCPOW: 
+        ADR: -14.188655466244956
+Cumulative Statistics (for 22 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.218749085515679
+Simulation 23
+    POMCPOW: 
+        ADR: -19.083090622600253
+Cumulative Statistics (for 23 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.430242195823704
+Simulation 24
+    POMCPOW: 
+        ADR: -15.503292378535518
+Cumulative Statistics (for 24 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.47495262010336
+Simulation 25
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 25 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.691218091922957
+Simulation 26
+    POMCPOW: 
+        ADR: -16.144635303046886
+Cumulative Statistics (for 26 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.747118753889263
+Simulation 27
+    POMCPOW: 
+        ADR: -16.144635303046886
+Cumulative Statistics (for 27 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.798878626080285
+Simulation 28
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 28 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.980404011420035
+Simulation 29
+    POMCPOW: 
+        ADR: -16.694506692949826
+Cumulative Statistics (for 29 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.039511000438303
+Simulation 30
+    POMCPOW: 
+        ADR: -17.16595267586785
+Cumulative Statistics (for 30 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.110392389619287
+Simulation 31
+    POMCPOW: 
+        ADR: -18.387993620517765
+Cumulative Statistics (for 31 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.216121461583755
+Simulation 32
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 32 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.361917335146552
+Simulation 33
+    POMCPOW: 
+        ADR: -17.807068204613653
+Cumulative Statistics (for 33 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.436012816039494
+Simulation 34
+    POMCPOW: 
+        ADR: 3.213428124999999
+Cumulative Statistics (for 34 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.887499847185392
+Simulation 35
+    POMCPOW: 
+        ADR: 5.721249999999999
+Cumulative Statistics (for 35 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.298678422980094
+Simulation 36
+    POMCPOW: 
+        ADR: -2.935997231706203
+Cumulative Statistics (for 36 simulation)
+    POMCPOW: 
+        AVG_ADR: -13.983048389889154
+Simulation 37
+    POMCPOW: 
+        ADR: -18.54516424251728
+Cumulative Statistics (for 37 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.106348818338562
+Simulation 38
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 38 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.25832883405579
+Simulation 39
+    POMCPOW: 
+        ADR: -16.694506692949826
+Cumulative Statistics (for 39 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.320794933001793
+Simulation 40
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 40 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.459814795066581
+Simulation 41
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 41 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.59205320044528
+Simulation 42
+    POMCPOW: 
+        ADR: -18.617906030391417
+Cumulative Statistics (for 42 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.68790683925352
+Simulation 43
+    POMCPOW: 
+        ADR: -2.0378918228486356
+Cumulative Statistics (for 43 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.393720443523176
+Simulation 44
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 44 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.518444738342948
+Simulation 45
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 45 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.637625731170733
+Simulation 46
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 46 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.751624941701657
+Simulation 47
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 47 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.860773121997221
+Simulation 48
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 48 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.965373461447138
+Simulation 49
+    POMCPOW: 
+        ADR: -9.245422327743729
+Cumulative Statistics (for 49 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.848639764840946
+Simulation 50
+    POMCPOW: 
+        ADR: -16.337403537894545
+Cumulative Statistics (for 50 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.87841504030202
+Simulation 51
+    POMCPOW: 
+        ADR: -13.882795227626268
+Cumulative Statistics (for 51 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.85889308319073
+Simulation 52
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 52 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.955483397275394
+Simulation 53
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 53 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.04842879384743
+Simulation 54
+    POMCPOW: 
+        ADR: -19.792837583776
+Cumulative Statistics (for 54 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.136288215883143
+Simulation 55
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 55 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.222566419514235
+Simulation 56
+    POMCPOW: 
+        ADR: -17.307655042074458
+Cumulative Statistics (for 56 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.259800144917095
+Simulation 57
+    POMCPOW: 
+        ADR: -9.245422327743729
+Cumulative Statistics (for 57 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.15428474461581
+Simulation 58
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 58 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.235789997563698
+Simulation 59
+    POMCPOW: 
+        ADR: -18.46859393949188
+Cumulative Statistics (for 59 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.290583284715021
+Simulation 60
+    POMCPOW: 
+        ADR: -6.1012630952074
+Cumulative Statistics (for 60 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.137427948223229
+Simulation 61
+    POMCPOW: 
+        ADR: -16.144635303046886
+Cumulative Statistics (for 61 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.153939544203945
+Simulation 62
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 62 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.230191961484417
+Simulation 63
+    POMCPOW: 
+        ADR: 7.075
+Cumulative Statistics (for 63 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.876141295429107
+Simulation 64
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 64 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.954351422306672
+Simulation 65
+    POMCPOW: 
+        ADR: 2.0527567187499987
+Cumulative Statistics (for 65 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.692703604751955
+Simulation 66
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 66 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.7713230867344
+Simulation 67
+    POMCPOW: 
+        ADR: -16.694506692949826
+Cumulative Statistics (for 67 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.80002731966299
+Simulation 68
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 68 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.874756174014905
+Simulation 69
+    POMCPOW: 
+        ADR: -17.807068204613653
+Cumulative Statistics (for 69 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.917253449820684
+Simulation 70
+    POMCPOW: 
+        ADR: -18.617906030391417
+Cumulative Statistics (for 70 simulation)
+    POMCPOW: 
+        AVG_ADR: -14.97011991525741
+Simulation 71
+    POMCPOW: 
+        ADR: -19.635790466568185
+Cumulative Statistics (for 71 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.03583358499418
+Simulation 72
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 72 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.103135749308056
+Simulation 73
+    POMCPOW: 
+        ADR: -19.52931183002708
+Cumulative Statistics (for 73 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.163768298359003
+Simulation 74
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 74 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.227522637781085
+Simulation 75
+    POMCPOW: 
+        ADR: -10.779293968249277
+Cumulative Statistics (for 75 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.168212922187328
+Simulation 76
+    POMCPOW: 
+        ADR: -18.930562032483166
+Cumulative Statistics (for 76 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.217717515743852
+Simulation 77
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 77 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.27828728067696
+Simulation 78
+    POMCPOW: 
+        ADR: -19.745658899211648
+Cumulative Statistics (for 78 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.335561275786377
+Simulation 79
+    POMCPOW: 
+        ADR: -18.213843346834093
+Cumulative Statistics (for 79 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.371995226052803
+Simulation 80
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 80 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.428365153422058
+Simulation 81
+    POMCPOW: 
+        ADR: -18.617906030391417
+Cumulative Statistics (for 81 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.467742201285876
+Simulation 82
+    POMCPOW: 
+        ADR: -19.52931183002708
+Cumulative Statistics (for 82 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.517273538221746
+Simulation 83
+    POMCPOW: 
+        ADR: -12.489677307726334
+Cumulative Statistics (for 83 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.48079647520373
+Simulation 84
+    POMCPOW: 
+        ADR: -16.85978135830233
+Cumulative Statistics (for 84 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.497212961907286
+Simulation 85
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 85 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.548793861362414
+Simulation 86
+    POMCPOW: 
+        ADR: -10.779293968249277
+Cumulative Statistics (for 86 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.493334560279703
+Simulation 87
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 87 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.543774271260318
+Simulation 88
+    POMCPOW: 
+        ADR: -19.59644373026946
+Cumulative Statistics (for 88 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.589827333294512
+Simulation 89
+    POMCPOW: 
+        ADR: -11.240329269836812
+Cumulative Statistics (for 89 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.54095656853656
+Simulation 90
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 90 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.589185822392746
+Simulation 91
+    POMCPOW: 
+        ADR: -12.489677307726334
+Cumulative Statistics (for 91 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.555125289264545
+Simulation 92
+    POMCPOW: 
+        ADR: -8.083570446253443
+Cumulative Statistics (for 92 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.473912736623118
+Simulation 93
+    POMCPOW: 
+        ADR: -10.779293968249277
+Cumulative Statistics (for 93 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.423432964920174
+Simulation 94
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 94 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.470860161203928
+Simulation 95
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 95 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.5172888901975
+Simulation 96
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 96 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.562750354003706
+Simulation 97
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 97 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.607274468040712
+Simulation 98
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 98 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.650889926689207
+Simulation 99
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 99 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.693624264960965
+Simulation 100
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 100 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.735503916467287
+Simulation 101
+    POMCPOW: 
+        ADR: -17.807068204613653
+Cumulative Statistics (for 101 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.756014453973687
+Simulation 102
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 102 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.796461267322897
+Simulation 103
+    POMCPOW: 
+        ADR: -17.807068204613653
+Cumulative Statistics (for 103 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.81598172302475
+Simulation 104
+    POMCPOW: 
+        ADR: -19.50453876844956
+Cumulative Statistics (for 104 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.851448617692295
+Simulation 105
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 105 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.889830911005637
+Simulation 106
+    POMCPOW: 
+        ADR: -18.984033930859006
+Cumulative Statistics (for 106 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.919021505532555
+Simulation 107
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 107 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.956054850486394
+Simulation 108
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 108 simulation)
+    POMCPOW: 
+        AVG_ADR: -15.992402392755901
+Simulation 109
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 109 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.028083007644316
+Simulation 110
+    POMCPOW: 
+        ADR: -18.54516424251728
+Cumulative Statistics (for 110 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.05096556432498
+Simulation 111
+    POMCPOW: 
+        ADR: -19.813035919357837
+Cumulative Statistics (for 111 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.084858090045998
+Simulation 112
+    POMCPOW: 
+        ADR: -18.984033930859006
+Cumulative Statistics (for 112 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.110743588624683
+Simulation 113
+    POMCPOW: 
+        ADR: -19.745658899211648
+Cumulative Statistics (for 113 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.142910980753772
+Simulation 114
+    POMCPOW: 
+        ADR: -13.560837081711863
+Cumulative Statistics (for 114 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.120261209709543
+Simulation 115
+    POMCPOW: 
+        ADR: -19.391703585392463
+Cumulative Statistics (for 115 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.14870853471548
+Simulation 116
+    POMCPOW: 
+        ADR: -19.451012485816694
+Cumulative Statistics (for 116 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.177176672224974
+Simulation 117
+    POMCPOW: 
+        ADR: -18.30315117949239
+Cumulative Statistics (for 117 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.195347394509312
+Simulation 118
+    POMCPOW: 
+        ADR: -11.240329269836812
+Cumulative Statistics (for 118 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.153355715486665
+Simulation 119
+    POMCPOW: 
+        ADR: -14.188655466244956
+Cumulative Statistics (for 119 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.136845629358582
+Simulation 120
+    POMCPOW: 
+        ADR: -18.617906030391417
+Cumulative Statistics (for 120 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.157521132700523
+Simulation 121
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 121 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.18829855652608
+Simulation 122
+    POMCPOW: 
+        ADR: -19.422118406122838
+Cumulative Statistics (for 122 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.214805276604743
+Simulation 123
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 123 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.244616529767253
+Simulation 124
+    POMCPOW: 
+        ADR: -18.119835101930626
+Cumulative Statistics (for 124 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.259739260187924
+Simulation 125
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 125 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.28871406143117
+Simulation 126
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 126 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.31722894519436
+Simulation 127
+    POMCPOW: 
+        ADR: -19.8031957045872
+Cumulative Statistics (for 127 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.344677502354934
+Simulation 128
+    POMCPOW: 
+        ADR: 8.5
+Cumulative Statistics (for 128 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.150578459367786
+Simulation 129
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 129 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.179501024919922
+Simulation 130
+    POMCPOW: 
+        ADR: -18.75266019242825
+Cumulative Statistics (for 130 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.199294556977677
+Simulation 131
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 131 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.227403678035813
+Simulation 132
+    POMCPOW: 
+        ADR: -17.016792290387215
+Cumulative Statistics (for 132 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.23338389479605
+Simulation 133
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 133 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.26081401149377
+Simulation 134
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 134 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.287834723464663
+Simulation 135
+    POMCPOW: 
+        ADR: -19.575203926599436
+Cumulative Statistics (for 135 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.312185606450846
+Simulation 136
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 136 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.33843122269454
+Simulation 137
+    POMCPOW: 
+        ADR: -2.935997231706203
+Cumulative Statistics (for 137 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.240603237358858
+Simulation 138
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 138 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.26698719517215
+Simulation 139
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 139 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.292991527693164
+Simulation 140
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 140 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.318624369749596
+Simulation 141
+    POMCPOW: 
+        ADR: -6.1012630952074
+Cumulative Statistics (for 141 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.246160814610995
+Simulation 142
+    POMCPOW: 
+        ADR: -19.552846238525724
+Cumulative Statistics (for 142 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.26944733168082
+Simulation 143
+    POMCPOW: 
+        ADR: -2.0378918228486356
+Cumulative Statistics (for 143 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.16992596448619
+Simulation 144
+    POMCPOW: 
+        ADR: -16.85978135830233
+Cumulative Statistics (for 144 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.174716626943244
+Simulation 145
+    POMCPOW: 
+        ADR: -16.694506692949826
+Cumulative Statistics (for 145 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.17830138601915
+Simulation 146
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 146 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.203666372523085
+Simulation 147
+    POMCPOW: 
+        ADR: -2.0378918228486356
+Cumulative Statistics (for 147 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.10730055925999
+Simulation 148
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 148 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.132802510991972
+Simulation 149
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 149 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.157962154647013
+Simulation 150
+    POMCPOW: 
+        ADR: -16.85978135830233
+Cumulative Statistics (for 150 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.16264094933805
+Simulation 151
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 151 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.187269747127818
+Simulation 152
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 152 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.211574481788777
+Simulation 153
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 153 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.235561507499916
+Simulation 154
+    POMCPOW: 
+        ADR: -16.520533360999817
+Cumulative Statistics (for 154 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.237411974081084
+Simulation 155
+    POMCPOW: 
+        ADR: -19.422118406122838
+Cumulative Statistics (for 155 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.25795846719103
+Simulation 156
+    POMCPOW: 
+        ADR: -12.489677307726334
+Cumulative Statistics (for 156 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.233802818732922
+Simulation 157
+    POMCPOW: 
+        ADR: -18.984033930859006
+Cumulative Statistics (for 157 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.251320214351562
+Simulation 158
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 158 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.27429660170119
+Simulation 159
+    POMCPOW: 
+        ADR: -10.779293968249277
+Cumulative Statistics (for 159 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.23973683671093
+Simulation 160
+    POMCPOW: 
+        ADR: -19.25317158142429
+Cumulative Statistics (for 160 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.25857080386539
+Simulation 161
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 161 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.281074025056245
+Simulation 162
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 162 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.303299428701536
+Simulation 163
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 163 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.32525212800762
+Simulation 164
+    POMCPOW: 
+        ADR: -17.44227228997073
+Cumulative Statistics (for 164 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.332063226556173
+Simulation 165
+    POMCPOW: 
+        ADR: -14.479222692932707
+Cumulative Statistics (for 165 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.32083388998876
+Simulation 166
+    POMCPOW: 
+        ADR: -18.687010728871844
+Cumulative Statistics (for 166 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.33508796733143
+Simulation 167
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 167 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.35632450294976
+Simulation 168
+    POMCPOW: 
+        ADR: -19.745658899211648
+Cumulative Statistics (for 168 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.37649911245132
+Simulation 169
+    POMCPOW: 
+        ADR: -19.290513002353077
+Cumulative Statistics (for 169 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.393741798190387
+Simulation 170
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 170 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.41425854888099
+Simulation 171
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 171 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.434535337575213
+Simulation 172
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 172 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.454576349656715
+Simulation 173
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 173 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.474385673737274
+Simulation 174
+    POMCPOW: 
+        ADR: -16.694506692949826
+Cumulative Statistics (for 174 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.47565073706608
+Simulation 175
+    POMCPOW: 
+        ADR: -19.718181605774685
+Cumulative Statistics (for 175 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.494179484887272
+Simulation 176
+    POMCPOW: 
+        ADR: -17.91671479438297
+Cumulative Statistics (for 176 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.502262071873044
+Simulation 177
+    POMCPOW: 
+        ADR: -18.874275823666494
+Cumulative Statistics (for 177 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.515663279510292
+Simulation 178
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 178 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.534572976904016
+Simulation 179
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 179 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.553271392762618
+Simulation 180
+    POMCPOW: 
+        ADR: -17.016792290387215
+Cumulative Statistics (for 180 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.55584650886053
+Simulation 181
+    POMCPOW: 
+        ADR: -19.67130089607778
+Cumulative Statistics (for 181 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.573058964038527
+Simulation 182
+    POMCPOW: 
+        ADR: -5.369750626534104
+Cumulative Statistics (for 182 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.511502324821468
+Simulation 183
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 183 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.529918101273772
+Simulation 184
+    POMCPOW: 
+        ADR: -19.422118406122838
+Cumulative Statistics (for 184 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.54563658119143
+Simulation 185
+    POMCPOW: 
+        ADR: -19.813035919357837
+Cumulative Statistics (for 185 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.56329819923557
+Simulation 186
+    POMCPOW: 
+        ADR: -6.1012630952074
+Cumulative Statistics (for 186 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.50705069867628
+Simulation 187
+    POMCPOW: 
+        ADR: -19.083090622600253
+Cumulative Statistics (for 187 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.52082631324272
+Simulation 188
+    POMCPOW: 
+        ADR: -14.479222692932707
+Cumulative Statistics (for 188 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.509966719517664
+Simulation 189
+    POMCPOW: 
+        ADR: -13.221933770223014
+Cumulative Statistics (for 189 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.492569719785948
+Simulation 190
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 190 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.510406665553354
+Simulation 191
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 191 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.52805683701953
+Simulation 192
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 192 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.545523152532937
+Simulation 193
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 193 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.56280846995812
+Simulation 194
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 194 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.579915588234588
+Simulation 195
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 195 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.59684724888771
+Simulation 196
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 196 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.61360613749335
+Simulation 197
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 197 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.630194885097918
+Simulation 198
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 198 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.64661606959537
+Simulation 199
+    POMCPOW: 
+        ADR: -9.783151211356543
+Cumulative Statistics (for 199 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.61212629643839
+Simulation 200
+    POMCPOW: 
+        ADR: -14.188655466244956
+Cumulative Statistics (for 200 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.600008942287424
+Simulation 201
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 201 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.616335213298896
+Simulation 202
+    POMCPOW: 
+        ADR: -19.391703585392463
+Cumulative Statistics (for 202 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.630074660685498
+Simulation 203
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 203 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.646091974749083
+Simulation 204
+    POMCPOW: 
+        ADR: -19.77045715653851
+Cumulative Statistics (for 204 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.66140749034609
+Simulation 205
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 205 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.67711569485949
+Simulation 206
+    POMCPOW: 
+        ADR: -8.67939192394077
+Cumulative Statistics (for 206 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.638291793058915
+Simulation 207
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 207 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.653959897515602
+Simulation 208
+    POMCPOW: 
+        ADR: -12.489677307726334
+Cumulative Statistics (for 208 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.633939308141613
+Simulation 209
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 209 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.64947830387105
+Simulation 210
+    POMCPOW: 
+        ADR: -17.16595267586785
+Cumulative Statistics (for 210 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.65193770564246
+Simulation 211
+    POMCPOW: 
+        ADR: -18.54516424251728
+Cumulative Statistics (for 211 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.66091034325798
+Simulation 212
+    POMCPOW: 
+        ADR: -19.25317158142429
+Cumulative Statistics (for 212 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.673137990607824
+Simulation 213
+    POMCPOW: 
+        ADR: -13.882795227626268
+Cumulative Statistics (for 213 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.66003778984265
+Simulation 214
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 214 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.675091769402233
+Simulation 215
+    POMCPOW: 
+        ADR: -8.67939192394077
+Cumulative Statistics (for 215 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.637902467795435
+Simulation 216
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 216 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.6529195369982
+Simulation 217
+    POMCPOW: 
+        ADR: -11.67831280634497
+Cumulative Statistics (for 217 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.629995082018233
+Simulation 218
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 218 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.644910652355733
+Simulation 219
+    POMCPOW: 
+        ADR: -17.91671479438297
+Cumulative Statistics (for 219 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.650717977205172
+Simulation 220
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 220 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.665403756470575
+Simulation 221
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 221 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.679956632756195
+Simulation 222
+    POMCPOW: 
+        ADR: -19.718181605774685
+Cumulative Statistics (for 222 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.693642330832855
+Simulation 223
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 223 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.707938057670347
+Simulation 224
+    POMCPOW: 
+        ADR: -12.09439716602772
+Cumulative Statistics (for 224 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.687341892975514
+Simulation 225
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 225 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.701538548631593
+Simulation 226
+    POMCPOW: 
+        ADR: -17.307655042074458
+Cumulative Statistics (for 226 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.704220480018506
+Simulation 227
+    POMCPOW: 
+        ADR: -17.91671479438297
+Cumulative Statistics (for 227 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.709561864663286
+Simulation 228
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 228 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.72347426620245
+Simulation 229
+    POMCPOW: 
+        ADR: -15.017498480371765
+Cumulative Statistics (for 229 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.716024590281794
+Simulation 230
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 230 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.729787915609233
+Simulation 231
+    POMCPOW: 
+        ADR: -12.09439716602772
+Cumulative Statistics (for 231 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.70972128898767
+Simulation 232
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 232 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.72339313436097
+Simulation 233
+    POMCPOW: 
+        ADR: -19.172489286896724
+Cumulative Statistics (for 233 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.73390427664653
+Simulation 234
+    POMCPOW: 
+        ADR: -16.694506692949826
+Cumulative Statistics (for 234 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.733735910904233
+Simulation 235
+    POMCPOW: 
+        ADR: 2.0527567187499987
+Cumulative Statistics (for 235 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.65379338907592
+Simulation 236
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 236 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.667470490883197
+Simulation 237
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 237 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.68103217410982
+Simulation 238
+    POMCPOW: 
+        ADR: -19.478461861525858
+Cumulative Statistics (for 238 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.69278608035947
+Simulation 239
+    POMCPOW: 
+        ADR: -14.188655466244956
+Cumulative Statistics (for 239 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.6823085464092
+Simulation 240
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 240 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.695638883364133
+Simulation 241
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 241 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.70885859511612
+Simulation 242
+    POMCPOW: 
+        ADR: -19.745658899211648
+Cumulative Statistics (for 242 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.721407356703292
+Simulation 243
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 243 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.734412221143167
+Simulation 244
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 244 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.747310488333536
+Simulation 245
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 245 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.76010346354684
+Simulation 246
+    POMCPOW: 
+        ADR: -18.75266019242825
+Cumulative Statistics (for 246 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.768203287647985
+Simulation 247
+    POMCPOW: 
+        ADR: -14.479222692932707
+Cumulative Statistics (for 247 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.75893615973416
+Simulation 248
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 248 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.771527503507784
+Simulation 249
+    POMCPOW: 
+        ADR: 8.5
+Cumulative Statistics (for 249 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.670035425180444
+Simulation 250
+    POMCPOW: 
+        ADR: -9.783151211356543
+Cumulative Statistics (for 250 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.642487888325146
+Simulation 251
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 251 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.655392675286375
+Simulation 252
+    POMCPOW: 
+        ADR: -19.034832234316053
+Cumulative Statistics (for 252 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.664834895758716
+Simulation 253
+    POMCPOW: 
+        ADR: -19.792837583776
+Cumulative Statistics (for 253 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.67719854274693
+Simulation 254
+    POMCPOW: 
+        ADR: -13.882795227626268
+Cumulative Statistics (for 254 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.666196954892122
+Simulation 255
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 255 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.67880633709095
+Simulation 256
+    POMCPOW: 
+        ADR: -19.25317158142429
+Cumulative Statistics (for 256 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.688862451326624
+Simulation 257
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 257 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.701285513444393
+Simulation 258
+    POMCPOW: 
+        ADR: 4.435187499999998
+Cumulative Statistics (for 258 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.619361199438796
+Simulation 259
+    POMCPOW: 
+        ADR: -16.694506692949826
+Cumulative Statistics (for 259 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.61965133647938
+Simulation 260
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 260 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.63219725216828
+Simulation 261
+    POMCPOW: 
+        ADR: -17.91671479438297
+Cumulative Statistics (for 261 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.637118775318523
+Simulation 262
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 262 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.649502251044765
+Simulation 263
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 263 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.661791555852933
+Simulation 264
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 264 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.6739877598671
+Simulation 265
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 265 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.68609191705852
+Simulation 266
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 266 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.698105065549253
+Simulation 267
+    POMCPOW: 
+        ADR: -18.213843346834093
+Cumulative Statistics (for 267 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.703781987951068
+Simulation 268
+    POMCPOW: 
+        ADR: -18.984033930859006
+Cumulative Statistics (for 268 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.712290390723116
+Simulation 269
+    POMCPOW: 
+        ADR: -9.245422327743729
+Cumulative Statistics (for 269 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.684532516883042
+Simulation 270
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 270 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.69637346835975
+Simulation 271
+    POMCPOW: 
+        ADR: 0.9501188828124985
+Cumulative Statistics (for 271 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.63125726042184
+Simulation 272
+    POMCPOW: 
+        ADR: -18.213843346834093
+Cumulative Statistics (for 272 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.637075591621887
+Simulation 273
+    POMCPOW: 
+        ADR: 0.9501188828124985
+Cumulative Statistics (for 273 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.572653633840076
+Simulation 274
+    POMCPOW: 
+        ADR: -19.758375954251065
+Cumulative Statistics (for 274 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.584280357637198
+Simulation 275
+    POMCPOW: 
+        ADR: -19.59644373026946
+Cumulative Statistics (for 275 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.595233678992223
+Simulation 276
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 276 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.6071407649944
+Simulation 277
+    POMCPOW: 
+        ADR: -11.240329269836812
+Cumulative Statistics (for 277 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.587765994253758
+Simulation 278
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 278 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.59961427994203
+Simulation 279
+    POMCPOW: 
+        ADR: -18.687010728871844
+Cumulative Statistics (for 279 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.607095987644286
+Simulation 280
+    POMCPOW: 
+        ADR: -18.30315117949239
+Cumulative Statistics (for 280 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.613153327615173
+Simulation 281
+    POMCPOW: 
+        ADR: -18.687010728871844
+Cumulative Statistics (for 281 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.620533603064484
+Simulation 282
+    POMCPOW: 
+        ADR: -16.520533360999817
+Cumulative Statistics (for 282 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.62017899227702
+Simulation 283
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 283 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.63170341073397
+Simulation 284
+    POMCPOW: 
+        ADR: -13.221933770223014
+Cumulative Statistics (for 284 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.619697179605406
+Simulation 285
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 285 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.631142415521154
+Simulation 286
+    POMCPOW: 
+        ADR: -14.188655466244956
+Cumulative Statistics (for 286 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.622602251362846
+Simulation 287
+    POMCPOW: 
+        ADR: -7.456389943424676
+Cumulative Statistics (for 287 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.590664229383965
+Simulation 288
+    POMCPOW: 
+        ADR: -19.290513002353077
+Cumulative Statistics (for 288 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.600038704290107
+Simulation 289
+    POMCPOW: 
+        ADR: -18.687010728871844
+Cumulative Statistics (for 289 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.607260060776547
+Simulation 290
+    POMCPOW: 
+        ADR: -16.85978135830233
+Cumulative Statistics (for 290 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.608130823871463
+Simulation 291
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 291 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.619379822468446
+Simulation 292
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 292 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.63055177312983
+Simulation 293
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 293 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.641647464742334
+Simulation 294
+    POMCPOW: 
+        ADR: -17.91671479438297
+Cumulative Statistics (for 294 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.645984428448592
+Simulation 295
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 295 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.65695258094739
+Simulation 296
+    POMCPOW: 
+        ADR: -16.694506692949826
+Cumulative Statistics (for 296 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.6570794529474
+Simulation 297
+    POMCPOW: 
+        ADR: -17.807068204613653
+Cumulative Statistics (for 297 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.660951468946276
+Simulation 298
+    POMCPOW: 
+        ADR: -19.745658899211648
+Cumulative Statistics (for 298 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.67130283616193
+Simulation 299
+    POMCPOW: 
+        ADR: -19.359687984623648
+Cumulative Statistics (for 299 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.68029409083906
+Simulation 300
+    POMCPOW: 
+        ADR: 2.0527567187499987
+Cumulative Statistics (for 300 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.61785058814043
+Simulation 301
+    POMCPOW: 
+        ADR: -19.781934298711583
+Cumulative Statistics (for 301 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.628362494155617
+Simulation 302
+    POMCPOW: 
+        ADR: -17.807068204613653
+Cumulative Statistics (for 302 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.63226549319687
+Simulation 303
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 303 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.64298933452491
+Simulation 304
+    POMCPOW: 
+        ADR: -19.73227252548595
+Cumulative Statistics (for 304 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.65315145028465
+Simulation 305
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 305 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.66373649279386
+Simulation 306
+    POMCPOW: 
+        ADR: -14.188655466244956
+Cumulative Statistics (for 306 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.6556479927071
+Simulation 307
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 307 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.66615594522464
+Simulation 308
+    POMCPOW: 
+        ADR: 4.435187499999998
+Cumulative Statistics (for 308 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.597645089883002
+Simulation 309
+    POMCPOW: 
+        ADR: -13.221933770223014
+Cumulative Statistics (for 309 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.586720457780544
+Simulation 310
+    POMCPOW: 
+        ADR: -8.083570446253443
+Cumulative Statistics (for 310 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.559290941614325
+Simulation 311
+    POMCPOW: 
+        ADR: -3.7891973701208936
+Cumulative Statistics (for 311 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.518229547493767
+Simulation 312
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 312 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.52900954707101
+Simulation 313
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 313 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.539720664861814
+Simulation 314
+    POMCPOW: 
+        ADR: -3.7891973701208936
+Cumulative Statistics (for 314 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.499113902776653
+Simulation 315
+    POMCPOW: 
+        ADR: -19.083090622600253
+Cumulative Statistics (for 315 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.507317003474505
+Simulation 316
+    POMCPOW: 
+        ADR: -15.728127759608743
+Cumulative Statistics (for 316 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.50485121472809
+Simulation 317
+    POMCPOW: 
+        ADR: -14.188655466244956
+Cumulative Statistics (for 317 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.49754460353414
+Simulation 318
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 318 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.508186253886528
+Simulation 319
+    POMCPOW: 
+        ADR: -17.307655042074458
+Cumulative Statistics (for 319 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.510692425636332
+Simulation 320
+    POMCPOW: 
+        ADR: -19.813035919357837
+Cumulative Statistics (for 320 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.521012249054213
+Simulation 321
+    POMCPOW: 
+        ADR: -19.52931183002708
+Cumulative Statistics (for 321 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.530383898839172
+Simulation 322
+    POMCPOW: 
+        ADR: -15.941721371628304
+Cumulative Statistics (for 322 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.52855575434473
+Simulation 323
+    POMCPOW: 
+        ADR: -19.616621543755986
+Cumulative Statistics (for 323 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.538116329544145
+Simulation 324
+    POMCPOW: 
+        ADR: 0.9501188828124985
+Cumulative Statistics (for 324 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.484140294938104
+Simulation 325
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 325 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.49459398454012
+Simulation 326
+    POMCPOW: 
+        ADR: -19.635790466568185
+Cumulative Statistics (for 326 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.50422955657088
+Simulation 327
+    POMCPOW: 
+        ADR: -16.85978135830233
+Cumulative Statistics (for 327 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.505316870949265
+Simulation 328
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 328 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.515610384804887
+Simulation 329
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 329 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.525841324108196
+Simulation 330
+    POMCPOW: 
+        ADR: -12.865193442340017
+Cumulative Statistics (for 330 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.514748451739198
+Simulation 331
+    POMCPOW: 
+        ADR: -19.687735851273892
+Cumulative Statistics (for 331 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.52433451639036
+Simulation 332
+    POMCPOW: 
+        ADR: 8.5
+Cumulative Statistics (for 332 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.448960014834967
+Simulation 333
+    POMCPOW: 
+        ADR: -12.489677307726334
+Cumulative Statistics (for 333 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.43707027697578
+Simulation 334
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 334 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.447383208528528
+Simulation 335
+    POMCPOW: 
+        ADR: -5.369750626534104
+Cumulative Statistics (for 335 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.414315648582278
+Simulation 336
+    POMCPOW: 
+        ADR: -2.935997231706203
+Cumulative Statistics (for 336 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.37420160567491
+Simulation 337
+    POMCPOW: 
+        ADR: -7.456389943424676
+Cumulative Statistics (for 337 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.347739256528765
+Simulation 338
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 338 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.35819443451416
+Simulation 339
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 339 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.36858793003357
+Simulation 340
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 340 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.378920287344037
+Simulation 341
+    POMCPOW: 
+        ADR: -17.570158675472197
+Cumulative Statistics (for 341 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.38241365505116
+Simulation 342
+    POMCPOW: 
+        ADR: -12.489677307726334
+Cumulative Statistics (for 342 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.37103138502974
+Simulation 343
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 343 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.381266248092608
+Simulation 344
+    POMCPOW: 
+        ADR: -19.792837583776
+Cumulative Statistics (for 344 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.391183606626573
+Simulation 345
+    POMCPOW: 
+        ADR: -8.67939192394077
+Cumulative Statistics (for 345 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.36883058725647
+Simulation 346
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 346 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.37898306941929
+Simulation 347
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 347 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.38907703583478
+Simulation 348
+    POMCPOW: 
+        ADR: -18.30315117949239
+Cumulative Statistics (for 348 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.394577248891267
+Simulation 349
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 349 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.40456868776434
+Simulation 350
+    POMCPOW: 
+        ADR: -19.422118406122838
+Cumulative Statistics (for 350 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.41319025838822
+Simulation 351
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 351 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.423071737468575
+Simulation 352
+    POMCPOW: 
+        ADR: -15.728127759608743
+Cumulative Statistics (for 352 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.421097464804202
+Simulation 353
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 353 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.43090055814921
+Simulation 354
+    POMCPOW: 
+        ADR: -5.369750626534104
+Cumulative Statistics (for 354 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.39965437190171
+Simulation 355
+    POMCPOW: 
+        ADR: -2.0378918228486356
+Cumulative Statistics (for 355 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.35919870274945
+Simulation 356
+    POMCPOW: 
+        ADR: -12.09439716602772
+Cumulative Statistics (for 356 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.347218923151917
+Simulation 357
+    POMCPOW: 
+        ADR: -10.293993650788714
+Cumulative Statistics (for 357 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.330263110064067
+Simulation 358
+    POMCPOW: 
+        ADR: -13.560837081711863
+Cumulative Statistics (for 358 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.32252728316923
+Simulation 359
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 359 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.33244110526512
+Simulation 360
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 360 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.342299850571585
+Simulation 361
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 361 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.35210397679048
+Simulation 362
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 362 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.361853936566177
+Simulation 363
+    POMCPOW: 
+        ADR: -12.489677307726334
+Cumulative Statistics (for 363 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.351186783318685
+Simulation 364
+    POMCPOW: 
+        ADR: -19.687735851273892
+Cumulative Statistics (for 364 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.36035312691197
+Simulation 365
+    POMCPOW: 
+        ADR: -19.813035919357837
+Cumulative Statistics (for 365 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.369812531822777
+Simulation 366
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 366 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.379407550630894
+Simulation 367
+    POMCPOW: 
+        ADR: -18.387993620517765
+Cumulative Statistics (for 367 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.384880537197343
+Simulation 368
+    POMCPOW: 
+        ADR: -19.758375954251065
+Cumulative Statistics (for 368 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.394047644308902
+Simulation 369
+    POMCPOW: 
+        ADR: -14.75526155828607
+Cumulative Statistics (for 369 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.389606489604233
+Simulation 370
+    POMCPOW: 
+        ADR: 3.213428124999999
+Cumulative Statistics (for 370 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.33662531497017
+Simulation 371
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 371 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.34618047427104
+Simulation 372
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 372 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.35568426174771
+Simulation 373
+    POMCPOW: 
+        ADR: -19.67130089607778
+Cumulative Statistics (for 373 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.364573314386668
+Simulation 374
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 374 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.373977100753528
+Simulation 375
+    POMCPOW: 
+        ADR: 8.5
+Cumulative Statistics (for 375 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.30764649515152
+Simulation 376
+    POMCPOW: 
+        ADR: 5.721249999999999
+Cumulative Statistics (for 376 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.249059004472926
+Simulation 377
+    POMCPOW: 
+        ADR: -13.560837081711863
+Cumulative Statistics (for 377 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.241928442343585
+Simulation 378
+    POMCPOW: 
+        ADR: -19.758375954251065
+Cumulative Statistics (for 378 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.25123121353911
+Simulation 379
+    POMCPOW: 
+        ADR: 5.721249999999999
+Cumulative Statistics (for 379 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.19325632907067
+Simulation 380
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 380 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.202962468772046
+Simulation 381
+    POMCPOW: 
+        ADR: -15.728127759608743
+Cumulative Statistics (for 381 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.201716183446155
+Simulation 382
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 382 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.21134935944654
+Simulation 383
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 383 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.2209322316558
+Simulation 384
+    POMCPOW: 
+        ADR: -19.8031957045872
+Cumulative Statistics (for 384 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.230261042783226
+Simulation 385
+    POMCPOW: 
+        ADR: -17.691650741698584
+Cumulative Statistics (for 385 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.234056860183006
+Simulation 386
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 386 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.24350642638873
+Simulation 387
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 387 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.252907157626986
+Simulation 388
+    POMCPOW: 
+        ADR: -17.16595267586785
+Cumulative Statistics (for 388 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.255260367725544
+Simulation 389
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 389 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.264582550367876
+Simulation 390
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 390 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.273856926945378
+Simulation 391
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 391 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.283083864256497
+Simulation 392
+    POMCPOW: 
+        ADR: -13.221933770223014
+Cumulative Statistics (for 392 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.275274807894167
+Simulation 393
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 393 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.284451180941748
+Simulation 394
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 394 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.293580973415484
+Simulation 395
+    POMCPOW: 
+        ADR: -13.560837081711863
+Cumulative Statistics (for 395 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.286662634449144
+Simulation 396
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 396 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.295740732381326
+Simulation 397
+    POMCPOW: 
+        ADR: -19.575203926599436
+Cumulative Statistics (for 397 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.304001344961218
+Simulation 398
+    POMCPOW: 
+        ADR: -12.09439716602772
+Cumulative Statistics (for 398 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.293424450039275
+Simulation 399
+    POMCPOW: 
+        ADR: -18.984033930859006
+Cumulative Statistics (for 399 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.30016783219672
+Simulation 400
+    POMCPOW: 
+        ADR: -8.083570446253443
+Cumulative Statistics (for 400 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.279626338731862
+Simulation 401
+    POMCPOW: 
+        ADR: -19.781934298711583
+Cumulative Statistics (for 401 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.288360273794154
+Simulation 402
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 402 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.297298654743905
+Simulation 403
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 403 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.306192676482983
+Simulation 404
+    POMCPOW: 
+        ADR: -13.560837081711863
+Cumulative Statistics (for 404 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.29939724184246
+Simulation 405
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 405 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.308242160789995
+Simulation 406
+    POMCPOW: 
+        ADR: -15.266623556353178
+Cumulative Statistics (for 406 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.30567659772488
+Simulation 407
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 407 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.314462624304408
+Simulation 408
+    POMCPOW: 
+        ADR: -17.016792290387215
+Cumulative Statistics (for 408 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.316184020544807
+Simulation 409
+    POMCPOW: 
+        ADR: -12.09439716602772
+Cumulative Statistics (for 409 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.3058618032966
+Simulation 410
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 410 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.31458309015586
+Simulation 411
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 411 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.323261937663005
+Simulation 412
+    POMCPOW: 
+        ADR: -1.0925177082617212
+Cumulative Statistics (for 412 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.286294111863487
+Simulation 413
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 413 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.294999427368886
+Simulation 414
+    POMCPOW: 
+        ADR: -8.083570446253443
+Cumulative Statistics (for 414 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.275165057849286
+Simulation 415
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 415 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.28385523702457
+Simulation 416
+    POMCPOW: 
+        ADR: -19.616621543755986
+Cumulative Statistics (for 416 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.291866694492676
+Simulation 417
+    POMCPOW: 
+        ADR: -6.796199940447029
+Cumulative Statistics (for 417 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.26909531138945
+Simulation 418
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 418 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.27773764178228
+Simulation 419
+    POMCPOW: 
+        ADR: 8.5
+Cumulative Statistics (for 419 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.218602229749386
+Simulation 420
+    POMCPOW: 
+        ADR: -18.815027182806837
+Cumulative Statistics (for 420 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.224784193923334
+Simulation 421
+    POMCPOW: 
+        ADR: -17.307655042074458
+Cumulative Statistics (for 421 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.227356333705167
+Simulation 422
+    POMCPOW: 
+        ADR: -13.221933770223014
+Cumulative Statistics (for 422 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.22023447928933
+Simulation 423
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 423 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.228890164717946
+Simulation 424
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 424 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.23750502144171
+Simulation 425
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 425 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.246079337663243
+Simulation 426
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 426 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.25461339887904
+Simulation 427
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 427 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.263107487911157
+Simulation 428
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 428 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.271561884938453
+Simulation 429
+    POMCPOW: 
+        ADR: -12.865193442340017
+Cumulative Statistics (for 429 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.2636216321585
+Simulation 430
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 430 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.272035510724628
+Simulation 431
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 431 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.280410345770726
+Simulation 432
+    POMCPOW: 
+        ADR: -19.083090622600253
+Cumulative Statistics (for 432 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.28689803159672
+Simulation 433
+    POMCPOW: 
+        ADR: 3.213428124999999
+Cumulative Statistics (for 433 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.241862636315897
+Simulation 434
+    POMCPOW: 
+        ADR: -15.017498480371765
+Cumulative Statistics (for 434 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.239041520749204
+Simulation 435
+    POMCPOW: 
+        ADR: -2.0378918228486356
+Cumulative Statistics (for 435 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.206395199604607
+Simulation 436
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 436 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.21482454413669
+Simulation 437
+    POMCPOW: 
+        ADR: -18.387993620517765
+Cumulative Statistics (for 437 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.21979747108493
+Simulation 438
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 438 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.228157726666
+Simulation 439
+    POMCPOW: 
+        ADR: -19.25317158142429
+Cumulative Statistics (for 439 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.235048418818067
+Simulation 440
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 440 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.243336011992557
+Simulation 441
+    POMCPOW: 
+        ADR: -15.017498480371765
+Cumulative Statistics (for 441 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.240556335050105
+Simulation 442
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 442 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.24879396645405
+Simulation 443
+    POMCPOW: 
+        ADR: -14.188655466244956
+Cumulative Statistics (for 443 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.24414354094568
+Simulation 444
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 444 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.2523359866093
+Simulation 445
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 445 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.26049161229241
+Simulation 446
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 446 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.268610665663036
+Simulation 447
+    POMCPOW: 
+        ADR: -2.0378918228486356
+Cumulative Statistics (for 447 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.236774605612
+Simulation 448
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 448 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.244910352955706
+Simulation 449
+    POMCPOW: 
+        ADR: -18.46859393949188
+Cumulative Statistics (for 449 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.249862877647324
+Simulation 450
+    POMCPOW: 
+        ADR: -2.935997231706203
+Cumulative Statistics (for 450 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.220276509545233
+Simulation 451
+    POMCPOW: 
+        ADR: -8.67939192394077
+Cumulative Statistics (for 451 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.203556144610413
+Simulation 452
+    POMCPOW: 
+        ADR: -18.387993620517765
+Cumulative Statistics (for 452 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.208388970884542
+Simulation 453
+    POMCPOW: 
+        ADR: -5.369750626534104
+Cumulative Statistics (for 453 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.184462616923504
+Simulation 454
+    POMCPOW: 
+        ADR: -10.293993650788714
+Cumulative Statistics (for 454 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.171488015676513
+Simulation 455
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 455 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.17964208468732
+Simulation 456
+    POMCPOW: 
+        ADR: -6.1012630952074
+Cumulative Statistics (for 456 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.157540376377057
+Simulation 457
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 457 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.165689280182782
+Simulation 458
+    POMCPOW: 
+        ADR: -19.575203926599436
+Cumulative Statistics (for 458 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.17313363530596
+Simulation 459
+    POMCPOW: 
+        ADR: -19.745658899211648
+Cumulative Statistics (for 459 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.18091691474802
+Simulation 460
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 460 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.18896185496725
+Simulation 461
+    POMCPOW: 
+        ADR: -18.874275823666494
+Cumulative Statistics (for 461 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.194786831038183
+Simulation 462
+    POMCPOW: 
+        ADR: -19.32598735223542
+Cumulative Statistics (for 462 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.201564321343803
+Simulation 463
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 463 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.209512539689914
+Simulation 464
+    POMCPOW: 
+        ADR: -19.451012485816694
+Cumulative Statistics (for 464 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.21649853095312
+Simulation 465
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 465 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.224380446834065
+Simulation 466
+    POMCPOW: 
+        ADR: -15.266623556353178
+Cumulative Statistics (for 466 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.222325174536895
+Simulation 467
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 467 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.23016085813659
+Simulation 468
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 468 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.23796305590893
+Simulation 469
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 469 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.245731982048984
+Simulation 470
+    POMCPOW: 
+        ADR: -17.44227228997073
+Cumulative Statistics (for 470 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.24827781249137
+Simulation 471
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 471 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.25599184986526
+Simulation 472
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 472 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.263673200640106
+Simulation 473
+    POMCPOW: 
+        ADR: -18.54516424251728
+Cumulative Statistics (for 473 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.268496648931603
+Simulation 474
+    POMCPOW: 
+        ADR: -18.815027182806837
+Cumulative Statistics (for 474 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.273869076218258
+Simulation 475
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 475 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.28146427693273
+Simulation 476
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 476 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.289027565039163
+Simulation 477
+    POMCPOW: 
+        ADR: -14.75526155828607
+Cumulative Statistics (for 477 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.285812122676997
+Simulation 478
+    POMCPOW: 
+        ADR: -16.144635303046886
+Cumulative Statistics (for 478 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.285516773681955
+Simulation 479
+    POMCPOW: 
+        ADR: -14.75526155828607
+Cumulative Statistics (for 479 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.282322086384678
+Simulation 480
+    POMCPOW: 
+        ADR: -12.865193442340017
+Cumulative Statistics (for 480 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.27520306837625
+Simulation 481
+    POMCPOW: 
+        ADR: -7.456389943424676
+Cumulative Statistics (for 481 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.256868737555145
+Simulation 482
+    POMCPOW: 
+        ADR: -19.575203926599436
+Cumulative Statistics (for 482 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.263753250395485
+Simulation 483
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 483 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.27124359442281
+Simulation 484
+    POMCPOW: 
+        ADR: -11.240329269836812
+Cumulative Statistics (for 484 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.26084914333895
+Simulation 485
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 485 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.26831458719927
+Simulation 486
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 486 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.275749309068395
+Simulation 487
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 487 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.283153498198836
+Simulation 488
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 488 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.290527342291856
+Simulation 489
+    POMCPOW: 
+        ADR: -19.172489286896724
+Cumulative Statistics (for 489 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.29642092500066
+Simulation 490
+    POMCPOW: 
+        ADR: -2.935997231706203
+Cumulative Statistics (for 490 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.26915475419802
+Simulation 491
+    POMCPOW: 
+        ADR: -18.46859393949188
+Cumulative Statistics (for 491 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.27363426374037
+Simulation 492
+    POMCPOW: 
+        ADR: -15.266623556353178
+Cumulative Statistics (for 492 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.271587494009907
+Simulation 493
+    POMCPOW: 
+        ADR: -10.293993650788714
+Cumulative Statistics (for 493 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.25946255720824
+Simulation 494
+    POMCPOW: 
+        ADR: 7.075
+Cumulative Statistics (for 494 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.21222680304385
+Simulation 495
+    POMCPOW: 
+        ADR: -15.728127759608743
+Cumulative Statistics (for 495 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.211248825178327
+Simulation 496
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 496 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.218648705400938
+Simulation 497
+    POMCPOW: 
+        ADR: -8.083570446253443
+Cumulative Statistics (for 497 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.202280338682332
+Simulation 498
+    POMCPOW: 
+        ADR: -18.46859393949188
+Cumulative Statistics (for 498 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.206831169206044
+Simulation 499
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 499 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.214195414188787
+Simulation 500
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 500 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.221530202191595
+Simulation 501
+    POMCPOW: 
+        ADR: -18.30315117949239
+Cumulative Statistics (for 501 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.225685134282013
+Simulation 502
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 502 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.232967812133232
+Simulation 503
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 503 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.240221533014864
+Simulation 504
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 504 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.24744646928982
+Simulation 505
+    POMCPOW: 
+        ADR: -7.456389943424676
+Cumulative Statistics (for 505 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.230038436565334
+Simulation 506
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 506 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.23725494047646
+Simulation 507
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 507 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.244442976916535
+Simulation 508
+    POMCPOW: 
+        ADR: -18.30315117949239
+Cumulative Statistics (for 508 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.248495552118456
+Simulation 509
+    POMCPOW: 
+        ADR: -12.865193442340017
+Cumulative Statistics (for 509 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.241848593160146
+Simulation 510
+    POMCPOW: 
+        ADR: -18.930562032483166
+Cumulative Statistics (for 510 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.247120580296073
+Simulation 511
+    POMCPOW: 
+        ADR: -7.456389943424676
+Cumulative Statistics (for 511 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.229917584920592
+Simulation 512
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 512 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.237049756464877
+Simulation 513
+    POMCPOW: 
+        ADR: -0.09738706132812691
+Cumulative Statistics (for 513 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.20558842567514
+Simulation 514
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 514 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.212740178573814
+Simulation 515
+    POMCPOW: 
+        ADR: -13.221933770223014
+Cumulative Statistics (for 515 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.206932787489638
+Simulation 516
+    POMCPOW: 
+        ADR: -16.85978135830233
+Cumulative Statistics (for 516 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.20819799789819
+Simulation 517
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 517 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.215303203735125
+Simulation 518
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 518 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.22238097634489
+Simulation 519
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 519 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.229431474301055
+Simulation 520
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 520 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.236454854957387
+Simulation 521
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 521 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.24345127445957
+Simulation 522
+    POMCPOW: 
+        ADR: -17.307655042074458
+Cumulative Statistics (for 522 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.245489978995227
+Simulation 523
+    POMCPOW: 
+        ADR: 3.213428124999999
+Cumulative Statistics (for 523 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.208283634628124
+Simulation 524
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 524 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.215293760164318
+Simulation 525
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 525 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.222277180460377
+Simulation 526
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 526 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.22923404782755
+Simulation 527
+    POMCPOW: 
+        ADR: -13.221933770223014
+Cumulative Statistics (for 527 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.223527595687884
+Simulation 528
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 528 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.230455743074067
+Simulation 529
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 529 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.237357697086395
+Simulation 530
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 530 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.24423360598924
+Simulation 531
+    POMCPOW: 
+        ADR: -19.781934298711583
+Cumulative Statistics (for 531 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.250895942510372
+Simulation 532
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 532 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.257720554301883
+Simulation 533
+    POMCPOW: 
+        ADR: -18.617906030391417
+Cumulative Statistics (for 533 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.26214866964164
+Simulation 534
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 534 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.268926648566644
+Simulation 535
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 535 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.275679289252675
+Simulation 536
+    POMCPOW: 
+        ADR: -8.083570446253443
+Cumulative Statistics (for 536 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.260395504097826
+Simulation 537
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 537 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.267138881959085
+Simulation 538
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 538 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.273857191501158
+Simulation 539
+    POMCPOW: 
+        ADR: -18.387993620517765
+Cumulative Statistics (for 539 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.277779522538296
+Simulation 540
+    POMCPOW: 
+        ADR: -13.221933770223014
+Cumulative Statistics (for 540 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.272120548922896
+Simulation 541
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 541 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.278792395256854
+Simulation 542
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 542 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.285439622231646
+Simulation 543
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 543 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.29206236586583
+Simulation 544
+    POMCPOW: 
+        ADR: -18.815027182806837
+Cumulative Statistics (for 544 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.29670016883815
+Simulation 545
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 545 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.303277947272562
+Simulation 546
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 546 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.309831631280478
+Simulation 547
+    POMCPOW: 
+        ADR: -7.456389943424676
+Cumulative Statistics (for 547 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.293646180297195
+Simulation 548
+    POMCPOW: 
+        ADR: 2.0527567187499987
+Cumulative Statistics (for 548 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.260167342890178
+Simulation 549
+    POMCPOW: 
+        ADR: -17.691650741698584
+Cumulative Statistics (for 549 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.262774780775075
+Simulation 550
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 550 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.269354443747474
+Simulation 551
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 551 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.275910224095654
+Simulation 552
+    POMCPOW: 
+        ADR: -19.781934298711583
+Cumulative Statistics (for 552 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.28226171698445
+Simulation 553
+    POMCPOW: 
+        ADR: -19.359687984623648
+Cumulative Statistics (for 553 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.28782668311038
+Simulation 554
+    POMCPOW: 
+        ADR: -0.09738706132812691
+Cumulative Statistics (for 554 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.258602062854457
+Simulation 555
+    POMCPOW: 
+        ADR: 0.9501188828124985
+Cumulative Statistics (for 555 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.22759535844785
+Simulation 556
+    POMCPOW: 
+        ADR: -2.0378918228486356
+Cumulative Statistics (for 556 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.20207430892339
+Simulation 557
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 557 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.208680260640932
+Simulation 558
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 558 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.215262535112174
+Simulation 559
+    POMCPOW: 
+        ADR: -6.796199940447029
+Cumulative Statistics (for 559 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.198412691472345
+Simulation 560
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 560 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.20498979276542
+Simulation 561
+    POMCPOW: 
+        ADR: -12.489677307726334
+Cumulative Statistics (for 561 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.198367132364282
+Simulation 562
+    POMCPOW: 
+        ADR: 7.075
+Cumulative Statistics (for 562 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.156955447075376
+Simulation 563
+    POMCPOW: 
+        ADR: -8.67939192394077
+Cumulative Statistics (for 563 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.14367380671457
+Simulation 564
+    POMCPOW: 
+        ADR: -16.694506692949826
+Cumulative Statistics (for 564 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.144650460768176
+Simulation 565
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 565 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.151264512015654
+Simulation 566
+    POMCPOW: 
+        ADR: -6.1012630952074
+Cumulative Statistics (for 566 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.13350832576688
+Simulation 567
+    POMCPOW: 
+        ADR: 8.5
+Cumulative Statistics (for 567 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.090062984804327
+Simulation 568
+    POMCPOW: 
+        ADR: -19.552846238525724
+Cumulative Statistics (for 568 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.096159434194682
+Simulation 569
+    POMCPOW: 
+        ADR: -15.941721371628304
+Cumulative Statistics (for 569 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.095888014049574
+Simulation 570
+    POMCPOW: 
+        ADR: -19.745658899211648
+Cumulative Statistics (for 570 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.102291120865647
+Simulation 571
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 571 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.108909856933476
+Simulation 572
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 572 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.115505450567497
+Simulation 573
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 573 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.12207802293229
+Simulation 574
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 574 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.128627694348076
+Simulation 575
+    POMCPOW: 
+        ADR: -18.874275823666494
+Cumulative Statistics (for 575 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.13340273457298
+Simulation 576
+    POMCPOW: 
+        ADR: -18.119835101930626
+Cumulative Statistics (for 576 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.13685140187742
+Simulation 577
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 577 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.14334141576601
+Simulation 578
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 578 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.149808972859137
+Simulation 579
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 579 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.156254189513255
+Simulation 580
+    POMCPOW: 
+        ADR: -19.616621543755986
+Cumulative Statistics (for 580 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.162220340124016
+Simulation 581
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 581 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.168622008068027
+Simulation 582
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 582 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.175001677153123
+Simulation 583
+    POMCPOW: 
+        ADR: -17.16595267586785
+Cumulative Statistics (for 583 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.176701421576308
+Simulation 584
+    POMCPOW: 
+        ADR: -19.8031957045872
+Cumulative Statistics (for 584 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.182911172060916
+Simulation 585
+    POMCPOW: 
+        ADR: -13.882795227626268
+Cumulative Statistics (for 585 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.178979349933677
+Simulation 586
+    POMCPOW: 
+        ADR: -19.52931183002708
+Cumulative Statistics (for 586 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.184696640855336
+Simulation 587
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 587 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.19099458425353
+Simulation 588
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 588 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.197271106075537
+Simulation 589
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 589 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.20352631542956
+Simulation 590
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 590 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.209760320684076
+Simulation 591
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 591 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.21597322947411
+Simulation 592
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 592 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.22216514870742
+Simulation 593
+    POMCPOW: 
+        ADR: 0.9501188828124985
+Cumulative Statistics (for 593 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.193206828249544
+Simulation 594
+    POMCPOW: 
+        ADR: -17.016792290387215
+Cumulative Statistics (for 594 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.19459333576156
+Simulation 595
+    POMCPOW: 
+        ADR: -12.865193442340017
+Cumulative Statistics (for 595 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.188997705688582
+Simulation 596
+    POMCPOW: 
+        ADR: -2.935997231706203
+Cumulative Statistics (for 596 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.166761127712103
+Simulation 597
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 597 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.17298362065663
+Simulation 598
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 598 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.179185302587964
+Simulation 599
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 599 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.185366277734886
+Simulation 600
+    POMCPOW: 
+        ADR: -4.599737501614848
+Cumulative Statistics (for 600 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.16605689644135
+Simulation 601
+    POMCPOW: 
+        ADR: -19.451012485816694
+Cumulative Statistics (for 601 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.17152271272983
+Simulation 602
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 602 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.177685614229603
+Simulation 603
+    POMCPOW: 
+        ADR: -8.67939192394077
+Cumulative Statistics (for 603 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.165250632985344
+Simulation 604
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 604 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.1714035117645
+Simulation 605
+    POMCPOW: 
+        ADR: -19.8031957045872
+Cumulative Statistics (for 605 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.177406474066686
+Simulation 606
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 606 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.183518987171514
+Simulation 607
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 607 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.189611360200217
+Simulation 608
+    POMCPOW: 
+        ADR: -16.694506692949826
+Cumulative Statistics (for 608 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.190441780155396
+Simulation 609
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 609 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.196502777914738
+Simulation 610
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 610 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.20254390355028
+Simulation 611
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 611 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.20856525463382
+Simulation 612
+    POMCPOW: 
+        ADR: -19.034832234316053
+Cumulative Statistics (for 612 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.213183337933955
+Simulation 613
+    POMCPOW: 
+        ADR: -10.293993650788714
+Cumulative Statistics (for 613 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.203527237302396
+Simulation 614
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 614 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.209517566583003
+Simulation 615
+    POMCPOW: 
+        ADR: -15.017498480371765
+Cumulative Statistics (for 615 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.2075793241664
+Simulation 616
+    POMCPOW: 
+        ADR: -19.32598735223542
+Cumulative Statistics (for 616 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.212641674861313
+Simulation 617
+    POMCPOW: 
+        ADR: 0.9501188828124985
+Cumulative Statistics (for 617 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.18482520718275
+Simulation 618
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 618 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.190807026290212
+Simulation 619
+    POMCPOW: 
+        ADR: -10.293993650788714
+Cumulative Statistics (for 619 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.18128067188714
+Simulation 620
+    POMCPOW: 
+        ADR: -19.12893609147024
+Cumulative Statistics (for 620 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.186034954821952
+Simulation 621
+    POMCPOW: 
+        ADR: -18.46859393949188
+Cumulative Statistics (for 621 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.189710573154752
+Simulation 622
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 622 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.195646069686006
+Simulation 623
+    POMCPOW: 
+        ADR: -18.617906030391417
+Cumulative Statistics (for 623 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.199534127407844
+Simulation 624
+    POMCPOW: 
+        ADR: -2.935997231706203
+Cumulative Statistics (for 624 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.17827845930576
+Simulation 625
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 625 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.18420375683582
+Simulation 626
+    POMCPOW: 
+        ADR: -7.456389943424676
+Cumulative Statistics (for 626 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.17026156224571
+Simulation 627
+    POMCPOW: 
+        ADR: 0.9501188828124985
+Cumulative Statistics (for 627 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.14295633027592
+Simulation 628
+    POMCPOW: 
+        ADR: -19.8031957045872
+Cumulative Statistics (for 628 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.148784736922913
+Simulation 629
+    POMCPOW: 
+        ADR: -18.46859393949188
+Cumulative Statistics (for 629 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.15247282786499
+Simulation 630
+    POMCPOW: 
+        ADR: -16.144635303046886
+Cumulative Statistics (for 630 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.152460387349407
+Simulation 631
+    POMCPOW: 
+        ADR: -12.865193442340017
+Cumulative Statistics (for 631 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.147250772539564
+Simulation 632
+    POMCPOW: 
+        ADR: -19.213864822551887
+Cumulative Statistics (for 632 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.15210300996047
+Simulation 633
+    POMCPOW: 
+        ADR: -13.560837081711863
+Cumulative Statistics (for 633 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.148009382901627
+Simulation 634
+    POMCPOW: 
+        ADR: -11.67831280634497
+Cumulative Statistics (for 634 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.14095938830138
+Simulation 635
+    POMCPOW: 
+        ADR: 8.5
+Cumulative Statistics (for 635 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.10215472784736
+Simulation 636
+    POMCPOW: 
+        ADR: -18.874275823666494
+Cumulative Statistics (for 636 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.10651340881563
+Simulation 637
+    POMCPOW: 
+        ADR: -19.575203926599436
+Cumulative Statistics (for 637 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.111958762846687
+Simulation 638
+    POMCPOW: 
+        ADR: -18.984033930859006
+Cumulative Statistics (for 638 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.116460448063005
+Simulation 639
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 639 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.12235266866947
+Simulation 640
+    POMCPOW: 
+        ADR: -19.359687984623648
+Cumulative Statistics (for 640 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.12741100510065
+Simulation 641
+    POMCPOW: 
+        ADR: -6.1012630952074
+Cumulative Statistics (for 641 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.111769588704565
+Simulation 642
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 642 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.117641582204392
+Simulation 643
+    POMCPOW: 
+        ADR: -19.8031957045872
+Cumulative Statistics (for 643 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.123373392659108
+Simulation 644
+    POMCPOW: 
+        ADR: -12.865193442340017
+Cumulative Statistics (for 644 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.118314107021966
+Simulation 645
+    POMCPOW: 
+        ADR: -13.221933770223014
+Cumulative Statistics (for 645 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.113823594871892
+Simulation 646
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 646 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.11965604970273
+Simulation 647
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 647 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.12547047530689
+Simulation 648
+    POMCPOW: 
+        ADR: -18.874275823666494
+Cumulative Statistics (for 648 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.12971245886917
+Simulation 649
+    POMCPOW: 
+        ADR: -17.807068204613653
+Cumulative Statistics (for 649 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.132296982360305
+Simulation 650
+    POMCPOW: 
+        ADR: -12.489677307726334
+Cumulative Statistics (for 650 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.126692952091638
+Simulation 651
+    POMCPOW: 
+        ADR: -16.694506692949826
+Cumulative Statistics (for 651 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.12756516981953
+Simulation 652
+    POMCPOW: 
+        ADR: -19.781934298711583
+Cumulative Statistics (for 652 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.133170030446667
+Simulation 653
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 653 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.138910335783798
+Simulation 654
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 654 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.144633086670357
+Simulation 655
+    POMCPOW: 
+        ADR: -19.635790466568185
+Cumulative Statistics (for 655 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.149963097937377
+Simulation 656
+    POMCPOW: 
+        ADR: -19.391703585392463
+Cumulative Statistics (for 656 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.154904775509717
+Simulation 657
+    POMCPOW: 
+        ADR: -19.687735851273892
+Cumulative Statistics (for 657 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.160281991758975
+Simulation 658
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 658 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.16593747416602
+Simulation 659
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 659 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.171575792741784
+Simulation 660
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 660 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.17719702550368
+Simulation 661
+    POMCPOW: 
+        ADR: -19.478461861525858
+Cumulative Statistics (for 661 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.182191374726106
+Simulation 662
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 662 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.187779589289352
+Simulation 663
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 663 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.19335094649343
+Simulation 664
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 664 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.198905522501114
+Simulation 665
+    POMCPOW: 
+        ADR: -14.75526155828607
+Cumulative Statistics (for 665 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.196734629321842
+Simulation 666
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 666 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.202267444316245
+Simulation 667
+    POMCPOW: 
+        ADR: -19.718181605774685
+Cumulative Statistics (for 667 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.20753867994062
+Simulation 668
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 668 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.213038755892196
+Simulation 669
+    POMCPOW: 
+        ADR: -2.935997231706203
+Cumulative Statistics (for 669 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.193192654959187
+Simulation 670
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 670 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.198697724751177
+Simulation 671
+    POMCPOW: 
+        ADR: 2.0527567187499987
+Cumulative Statistics (for 671 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.17149734555073
+Simulation 672
+    POMCPOW: 
+        ADR: -19.172489286896724
+Cumulative Statistics (for 672 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.17596310736821
+Simulation 673
+    POMCPOW: 
+        ADR: -15.728127759608743
+Cumulative Statistics (for 673 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.17529767594509
+Simulation 674
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 674 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.180796625113707
+Simulation 675
+    POMCPOW: 
+        ADR: -19.575203926599436
+Cumulative Statistics (for 675 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.185825376671463
+Simulation 676
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 676 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.19129248323792
+Simulation 677
+    POMCPOW: 
+        ADR: -14.479222692932707
+Cumulative Statistics (for 677 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.188763576605268
+Simulation 678
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 678 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.194210222385486
+Simulation 679
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 679 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.199640825026442
+Simulation 680
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 680 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.205055455306688
+Simulation 681
+    POMCPOW: 
+        ADR: -19.359687984623648
+Cumulative Statistics (for 681 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.20968780850686
+Simulation 682
+    POMCPOW: 
+        ADR: -8.67939192394077
+Cumulative Statistics (for 682 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.19864631894005
+Simulation 683
+    POMCPOW: 
+        ADR: -19.635790466568185
+Cumulative Statistics (for 683 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.2036787408253
+Simulation 684
+    POMCPOW: 
+        ADR: -8.083570446253443
+Cumulative Statistics (for 684 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.191807237470663
+Simulation 685
+    POMCPOW: 
+        ADR: -14.188655466244956
+Cumulative Statistics (for 685 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.18888292831559
+Simulation 686
+    POMCPOW: 
+        ADR: -17.16595267586785
+Cumulative Statistics (for 686 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.19030722823914
+Simulation 687
+    POMCPOW: 
+        ADR: -10.779293968249277
+Cumulative Statistics (for 687 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.182430935284277
+Simulation 688
+    POMCPOW: 
+        ADR: -3.7891973701208936
+Cumulative Statistics (for 688 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.16441751440468
+Simulation 689
+    POMCPOW: 
+        ADR: -19.73227252548595
+Cumulative Statistics (for 689 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.169595823564446
+Simulation 690
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 690 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.17497552442246
+Simulation 691
+    POMCPOW: 
+        ADR: -19.745658899211648
+Cumulative Statistics (for 691 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.180142938857756
+Simulation 692
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 692 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.185491849951305
+Simulation 693
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 693 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.190825324072
+Simulation 694
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 694 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.196143427950275
+Simulation 695
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 695 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.201446227932497
+Simulation 696
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 696 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.206733789983737
+Simulation 697
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 697 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.212006179690494
+Simulation 698
+    POMCPOW: 
+        ADR: -18.387993620517765
+Cumulative Statistics (for 698 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.215123640207437
+Simulation 699
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 699 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.220368941745903
+Simulation 700
+    POMCPOW: 
+        ADR: -18.75266019242825
+Cumulative Statistics (for 700 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.223986500675448
+Simulation 701
+    POMCPOW: 
+        ADR: -16.337403537894545
+Cumulative Statistics (for 701 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.224148293881182
+Simulation 702
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 702 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.22935832396909
+Simulation 703
+    POMCPOW: 
+        ADR: -19.703349058710195
+Cumulative Statistics (for 703 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.234299989310117
+Simulation 704
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 704 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.239480798154272
+Simulation 705
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 705 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.244646909668372
+Simulation 706
+    POMCPOW: 
+        ADR: -17.16595267586785
+Cumulative Statistics (for 706 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.245951875342875
+Simulation 707
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 707 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.25109421981282
+Simulation 708
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 708 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.25622203788596
+Simulation 709
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 709 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.261335391028002
+Simulation 710
+    POMCPOW: 
+        ADR: -18.930562032483166
+Cumulative Statistics (for 710 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.265094865170894
+Simulation 711
+    POMCPOW: 
+        ADR: -14.75526155828607
+Cumulative Statistics (for 711 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.262971330280763
+Simulation 712
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 712 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.26805365905227
+Simulation 713
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 713 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.27312173164209
+Simulation 714
+    POMCPOW: 
+        ADR: -17.807068204613653
+Cumulative Statistics (for 714 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.275270116058017
+Simulation 715
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 715 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.280313919274153
+Simulation 716
+    POMCPOW: 
+        ADR: -19.813035919357837
+Cumulative Statistics (for 716 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.285247888548014
+Simulation 717
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 717 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.290263706577367
+Simulation 718
+    POMCPOW: 
+        ADR: -17.91671479438297
+Cumulative Statistics (for 718 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.292528958788793
+Simulation 719
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 719 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.297520697949857
+Simulation 720
+    POMCPOW: 
+        ADR: 8.5
+Cumulative Statistics (for 720 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.263079696980483
+Simulation 721
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 721 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.268098434454288
+Simulation 722
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 722 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.27310326960822
+Simulation 723
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 723 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.278094260128256
+Simulation 724
+    POMCPOW: 
+        ADR: -19.67130089607778
+Cumulative Statistics (for 724 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.282781009625424
+Simulation 725
+    POMCPOW: 
+        ADR: -19.635790466568185
+Cumulative Statistics (for 725 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.28740585025569
+Simulation 726
+    POMCPOW: 
+        ADR: -0.09738706132812691
+Cumulative Statistics (for 726 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.265105548893533
+Simulation 727
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 727 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.270080079659284
+Simulation 728
+    POMCPOW: 
+        ADR: -19.718181605774685
+Cumulative Statistics (for 728 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.274816482854497
+Simulation 729
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 729 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.2797640451765
+Simulation 730
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 730 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.284698052533233
+Simulation 731
+    POMCPOW: 
+        ADR: -13.560837081711863
+Cumulative Statistics (for 731 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.280971840534846
+Simulation 732
+    POMCPOW: 
+        ADR: 2.0527567187499987
+Cumulative Statistics (for 732 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.255925763268067
+Simulation 733
+    POMCPOW: 
+        ADR: -6.796199940447029
+Cumulative Statistics (for 733 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.243020271013194
+Simulation 734
+    POMCPOW: 
+        ADR: -16.694506692949826
+Cumulative Statistics (for 734 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.24363537513027
+Simulation 735
+    POMCPOW: 
+        ADR: -19.781934298711583
+Cumulative Statistics (for 735 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.2484493872712
+Simulation 736
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 736 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.25338571883142
+Simulation 737
+    POMCPOW: 
+        ADR: 2.0527567187499987
+Cumulative Statistics (for 737 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.22854699096496
+Simulation 738
+    POMCPOW: 
+        ADR: -15.728127759608743
+Cumulative Statistics (for 738 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.227868916125725
+Simulation 739
+    POMCPOW: 
+        ADR: -14.188655466244956
+Cumulative Statistics (for 739 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.225109493324805
+Simulation 740
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 740 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.23005068240895
+Simulation 741
+    POMCPOW: 
+        ADR: -17.691650741698584
+Cumulative Statistics (for 741 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.232023152124594
+Simulation 742
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 742 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.23694170504032
+Simulation 743
+    POMCPOW: 
+        ADR: -19.083090622600253
+Cumulative Statistics (for 743 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.24077232269518
+Simulation 744
+    POMCPOW: 
+        ADR: -19.77045715653851
+Cumulative Statistics (for 744 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.24551652274067
+Simulation 745
+    POMCPOW: 
+        ADR: -19.792837583776
+Cumulative Statistics (for 745 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.250278027520583
+Simulation 746
+    POMCPOW: 
+        ADR: -19.654000943239772
+Cumulative Statistics (for 746 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.254840658774896
+Simulation 747
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 747 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.25969574412539
+Simulation 748
+    POMCPOW: 
+        ADR: -9.783151211356543
+Cumulative Statistics (for 748 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.25103726212971
+Simulation 749
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 749 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.25588446126651
+Simulation 750
+    POMCPOW: 
+        ADR: -19.718181605774685
+Cumulative Statistics (for 750 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.26050085745919
+Simulation 751
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 751 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.265322546617824
+Simulation 752
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 752 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.27013141213508
+Simulation 753
+    POMCPOW: 
+        ADR: -19.73227252548595
+Cumulative Statistics (for 753 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.27472920909836
+Simulation 754
+    POMCPOW: 
+        ADR: -14.479222692932707
+Cumulative Statistics (for 754 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.272347900721485
+Simulation 755
+    POMCPOW: 
+        ADR: -18.213843346834093
+Cumulative Statistics (for 755 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.274919417868652
+Simulation 756
+    POMCPOW: 
+        ADR: -15.728127759608743
+Cumulative Statistics (for 756 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.27419614847942
+Simulation 757
+    POMCPOW: 
+        ADR: 5.721249999999999
+Cumulative Statistics (for 757 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.245140076949063
+Simulation 758
+    POMCPOW: 
+        ADR: -11.67831280634497
+Cumulative Statistics (for 758 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.239115238861196
+Simulation 759
+    POMCPOW: 
+        ADR: -17.016792290387215
+Cumulative Statistics (for 759 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.240139846307212
+Simulation 760
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 760 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.24493122731943
+Simulation 761
+    POMCPOW: 
+        ADR: -9.245422327743729
+Cumulative Statistics (for 761 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.235733449527608
+Simulation 762
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 762 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.240518037409586
+Simulation 763
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 763 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.2452900837768
+Simulation 764
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 764 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.25004963787604
+Simulation 765
+    POMCPOW: 
+        ADR: -19.654000943239772
+Cumulative Statistics (for 765 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.25449924742553
+Simulation 766
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 766 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.259234352083716
+Simulation 767
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 767 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.26395710966326
+Simulation 768
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 768 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.268667568394942
+Simulation 769
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 769 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.27336577625866
+Simulation 770
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 770 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.27805178098507
+Simulation 771
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 771 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.282725630057193
+Simulation 772
+    POMCPOW: 
+        ADR: -9.783151211356543
+Cumulative Statistics (for 772 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.27430649220914
+Simulation 773
+    POMCPOW: 
+        ADR: -19.745658899211648
+Cumulative Statistics (for 773 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.2787972456464
+Simulation 774
+    POMCPOW: 
+        ADR: -18.30315117949239
+Cumulative Statistics (for 774 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.28141269000537
+Simulation 775
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 775 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.286058079328715
+Simulation 776
+    POMCPOW: 
+        ADR: 8.5
+Cumulative Statistics (for 776 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.254117282834734
+Simulation 777
+    POMCPOW: 
+        ADR: -17.570158675472197
+Cumulative Statistics (for 777 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.255811029800807
+Simulation 778
+    POMCPOW: 
+        ADR: -19.781934298711583
+Cumulative Statistics (for 778 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.260343321920228
+Simulation 779
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 779 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.264991904838936
+Simulation 780
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 780 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.269628568314264
+Simulation 781
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 781 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.274253358131524
+Simulation 782
+    POMCPOW: 
+        ADR: -15.017498480371765
+Cumulative Statistics (for 782 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.27264625470728
+Simulation 783
+    POMCPOW: 
+        ADR: -18.75266019242825
+Cumulative Statistics (for 783 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.275813577743957
+Simulation 784
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 784 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.280412781618768
+Simulation 785
+    POMCPOW: 
+        ADR: -17.91671479438297
+Cumulative Statistics (for 785 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.282497242781524
+Simulation 786
+    POMCPOW: 
+        ADR: -19.781934298711583
+Cumulative Statistics (for 786 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.286949452776344
+Simulation 787
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 787 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.29151697496544
+Simulation 788
+    POMCPOW: 
+        ADR: -9.245422327743729
+Cumulative Statistics (for 788 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.28257523048927
+Simulation 789
+    POMCPOW: 
+        ADR: -11.67831280634497
+Cumulative Statistics (for 789 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.276739663411774
+Simulation 790
+    POMCPOW: 
+        ADR: -19.73227252548595
+Cumulative Statistics (for 790 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.28111375564225
+Simulation 791
+    POMCPOW: 
+        ADR: -19.654000943239772
+Cumulative Statistics (for 791 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.28537783552543
+Simulation 792
+    POMCPOW: 
+        ADR: -15.941721371628304
+Cumulative Statistics (for 792 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.284943925848793
+Simulation 793
+    POMCPOW: 
+        ADR: -10.779293968249277
+Cumulative Statistics (for 793 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.278001113796332
+Simulation 794
+    POMCPOW: 
+        ADR: -19.391703585392463
+Cumulative Statistics (for 794 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.281922653433103
+Simulation 795
+    POMCPOW: 
+        ADR: 4.435187499999998
+Cumulative Statistics (for 795 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.255863395378473
+Simulation 796
+    POMCPOW: 
+        ADR: -19.52931183002708
+Cumulative Statistics (for 796 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.25997576778381
+Simulation 797
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 797 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.26451982505835
+Simulation 798
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 798 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.26905249371817
+Simulation 799
+    POMCPOW: 
+        ADR: -16.85978135830233
+Cumulative Statistics (for 799 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.269791828967964
+Simulation 800
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 800 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.274306575951247
+Simulation 801
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 801 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.27881005015804
+Simulation 802
+    POMCPOW: 
+        ADR: -19.50453876844956
+Cumulative Statistics (for 802 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.28283215579182
+Simulation 803
+    POMCPOW: 
+        ADR: -2.0378918228486356
+Cumulative Statistics (for 803 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.2650925040696
+Simulation 804
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 804 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.26959063455657
+Simulation 805
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 805 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.274077589564072
+Simulation 806
+    POMCPOW: 
+        ADR: -19.654000943239772
+Cumulative Statistics (for 806 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.27827104285647
+Simulation 807
+    POMCPOW: 
+        ADR: -18.54516424251728
+Cumulative Statistics (for 807 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.281080080278606
+Simulation 808
+    POMCPOW: 
+        ADR: 5.721249999999999
+Cumulative Statistics (for 808 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.253849473743607
+Simulation 809
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 809 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.258333701113013
+Simulation 810
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 810 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.262806856316075
+Simulation 811
+    POMCPOW: 
+        ADR: -2.0378918228486356
+Cumulative Statistics (for 811 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.24526688710095
+Simulation 812
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 812 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.249745116815845
+Simulation 813
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 813 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.254212329975473
+Simulation 814
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 814 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.25866856718139
+Simulation 815
+    POMCPOW: 
+        ADR: -20.164039469246177
+Cumulative Statistics (for 815 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.263460433318894
+Simulation 816
+    POMCPOW: 
+        ADR: -19.813035919357837
+Cumulative Statistics (for 816 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.267810403277277
+Simulation 817
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 817 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.27223363340251
+Simulation 818
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 818 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.276646048784162
+Simulation 819
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 819 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.28104768903668
+Simulation 820
+    POMCPOW: 
+        ADR: -18.213843346834093
+Cumulative Statistics (for 820 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.28340475691204
+Simulation 821
+    POMCPOW: 
+        ADR: -14.188655466244956
+Cumulative Statistics (for 821 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.28085329614387
+Simulation 822
+    POMCPOW: 
+        ADR: -18.930562032483166
+Cumulative Statistics (for 822 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.284076786090758
+Simulation 823
+    POMCPOW: 
+        ADR: -16.144635303046886
+Cumulative Statistics (for 823 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.283907355370168
+Simulation 824
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 824 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.288273474375295
+Simulation 825
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 825 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.2926290088495
+Simulation 826
+    POMCPOW: 
+        ADR: -17.691650741698584
+Cumulative Statistics (for 826 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.29432273976094
+Simulation 827
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 827 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.29866042618879
+Simulation 828
+    POMCPOW: 
+        ADR: -16.520533360999817
+Cumulative Statistics (for 828 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.298928388670443
+Simulation 829
+    POMCPOW: 
+        ADR: -6.796199940447029
+Cumulative Statistics (for 829 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.287465507550753
+Simulation 830
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 830 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.291795777319482
+Simulation 831
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 831 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.29611562525964
+Simulation 832
+    POMCPOW: 
+        ADR: -19.50453876844956
+Cumulative Statistics (for 832 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.299971903075978
+Simulation 833
+    POMCPOW: 
+        ADR: -16.520533360999817
+Cumulative Statistics (for 833 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.30023668273735
+Simulation 834
+    POMCPOW: 
+        ADR: -8.083570446253443
+Cumulative Statistics (for 834 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.2903845649478
+Simulation 835
+    POMCPOW: 
+        ADR: -9.783151211356543
+Cumulative Statistics (for 835 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.282591471111164
+Simulation 836
+    POMCPOW: 
+        ADR: -17.691650741698584
+Cumulative Statistics (for 836 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.28427694870756
+Simulation 837
+    POMCPOW: 
+        ADR: -4.599737501614848
+Cumulative Statistics (for 837 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.27031692547328
+Simulation 838
+    POMCPOW: 
+        ADR: -10.779293968249277
+Cumulative Statistics (for 838 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.263764392111437
+Simulation 839
+    POMCPOW: 
+        ADR: -5.369750626534104
+Cumulative Statistics (for 839 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.250779870340786
+Simulation 840
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 840 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.255102262656564
+Simulation 841
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 841 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.259414375799178
+Simulation 842
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 842 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.263716246392757
+Simulation 843
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 843 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.268007910887658
+Simulation 844
+    POMCPOW: 
+        ADR: -16.337403537894545
+Cumulative Statistics (for 844 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.26809013319454
+Simulation 845
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 845 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.272366463706256
+Simulation 846
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 846 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.276632684689574
+Simulation 847
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 847 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.28088883195156
+Simulation 848
+    POMCPOW: 
+        ADR: -17.44227228997073
+Cumulative Statistics (for 848 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.282258387916208
+Simulation 849
+    POMCPOW: 
+        ADR: -19.32598735223542
+Cumulative Statistics (for 849 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.285843463256985
+Simulation 850
+    POMCPOW: 
+        ADR: -18.930562032483166
+Cumulative Statistics (for 850 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.28895489686784
+Simulation 851
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 851 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.293176559052004
+Simulation 852
+    POMCPOW: 
+        ADR: -18.213843346834093
+Cumulative Statistics (for 852 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.295430862793534
+Simulation 853
+    POMCPOW: 
+        ADR: -16.85978135830233
+Cumulative Statistics (for 853 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.296092469470565
+Simulation 854
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 854 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.300290943646353
+Simulation 855
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 855 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.304479596829918
+Simulation 856
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 856 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.308658463440622
+Simulation 857
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 857 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.312827577737185
+Simulation 858
+    POMCPOW: 
+        ADR: -17.16595267586785
+Cumulative Statistics (for 858 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.313821896033375
+Simulation 859
+    POMCPOW: 
+        ADR: -19.575203926599436
+Cumulative Statistics (for 859 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.31761861551017
+Simulation 860
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 860 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.32176276760329
+Simulation 861
+    POMCPOW: 
+        ADR: -19.083090622600253
+Cumulative Statistics (for 861 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.324969884740337
+Simulation 862
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 862 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.329095893476826
+Simulation 863
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 863 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.33321234020002
+Simulation 864
+    POMCPOW: 
+        ADR: -2.0378918228486356
+Cumulative Statistics (for 864 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.316666830341976
+Simulation 865
+    POMCPOW: 
+        ADR: -15.017498480371765
+Cumulative Statistics (for 865 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.315164901613688
+Simulation 866
+    POMCPOW: 
+        ADR: -18.213843346834093
+Cumulative Statistics (for 866 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.31735737094997
+Simulation 867
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 867 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.32146836523445
+Simulation 868
+    POMCPOW: 
+        ADR: -6.796199940447029
+Cumulative Statistics (for 868 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.310494553685153
+Simulation 869
+    POMCPOW: 
+        ADR: -13.882795227626268
+Cumulative Statistics (for 869 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.307700883574615
+Simulation 870
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 870 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.31180880142751
+Simulation 871
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 871 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.315907286633212
+Simulation 872
+    POMCPOW: 
+        ADR: -17.16595267586785
+Cumulative Statistics (for 872 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.31688210932729
+Simulation 873
+    POMCPOW: 
+        ADR: -14.75526155828607
+Cumulative Statistics (for 873 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.315093311445228
+Simulation 874
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 874 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.31917397060329
+Simulation 875
+    POMCPOW: 
+        ADR: -19.59644373026946
+Cumulative Statistics (for 875 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.3229194217572
+Simulation 876
+    POMCPOW: 
+        ADR: -18.984033930859006
+Cumulative Statistics (for 876 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.325957223708226
+Simulation 877
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 877 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.33001153635576
+Simulation 878
+    POMCPOW: 
+        ADR: -19.552846238525724
+Cumulative Statistics (for 878 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.33368219091404
+Simulation 879
+    POMCPOW: 
+        ADR: -18.930562032483166
+Cumulative Statistics (for 879 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.33663654795792
+Simulation 880
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 880 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.340664903489323
+Simulation 881
+    POMCPOW: 
+        ADR: -18.02087905466382
+Cumulative Statistics (for 881 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.342572070516763
+Simulation 882
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 882 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.346584561837712
+Simulation 883
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 883 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.3505879648431
+Simulation 884
+    POMCPOW: 
+        ADR: -17.44227228997073
+Cumulative Statistics (for 884 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.351822901862473
+Simulation 885
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 885 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.355811338601153
+Simulation 886
+    POMCPOW: 
+        ADR: -17.91671479438297
+Cumulative Statistics (for 886 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.35757308065057
+Simulation 887
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 887 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.361546041569333
+Simulation 888
+    POMCPOW: 
+        ADR: -19.687735851273892
+Cumulative Statistics (for 888 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.365291750814496
+Simulation 889
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 889 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.369247091269816
+Simulation 890
+    POMCPOW: 
+        ADR: -8.67939192394077
+Cumulative Statistics (for 890 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.360606804564952
+Simulation 891
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 891 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.364558524667117
+Simulation 892
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 892 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.368501384410308
+Simulation 893
+    POMCPOW: 
+        ADR: -19.083090622600253
+Cumulative Statistics (for 893 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.37154123798051
+Simulation 894
+    POMCPOW: 
+        ADR: -14.75526155828607
+Cumulative Statistics (for 894 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.369733318875706
+Simulation 895
+    POMCPOW: 
+        ADR: -9.245422327743729
+Cumulative Statistics (for 895 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.361773194863268
+Simulation 896
+    POMCPOW: 
+        ADR: -0.09738706132812691
+Cumulative Statistics (for 896 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.343620978196377
+Simulation 897
+    POMCPOW: 
+        ADR: -15.941721371628304
+Cumulative Statistics (for 897 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.34317292958259
+Simulation 898
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 898 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.347113259745186
+Simulation 899
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 899 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.3510448238785
+Simulation 900
+    POMCPOW: 
+        ADR: -19.73227252548595
+Cumulative Statistics (for 900 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.35480174354695
+Simulation 901
+    POMCPOW: 
+        ADR: -19.12893609147024
+Cumulative Statistics (for 901 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.357880693988598
+Simulation 902
+    POMCPOW: 
+        ADR: 3.213428124999999
+Cumulative Statistics (for 902 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.336183012371094
+Simulation 903
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 903 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.340109265309327
+Simulation 904
+    POMCPOW: 
+        ADR: -18.387993620517765
+Cumulative Statistics (for 904 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.342374624109336
+Simulation 905
+    POMCPOW: 
+        ADR: -18.46859393949188
+Cumulative Statistics (for 905 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.34472403771749
+Simulation 906
+    POMCPOW: 
+        ADR: -18.387993620517765
+Cumulative Statistics (for 906 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.346979302157667
+Simulation 907
+    POMCPOW: 
+        ADR: -15.728127759608743
+Cumulative Statistics (for 907 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.34629699615706
+Simulation 908
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 908 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.35019049001107
+Simulation 909
+    POMCPOW: 
+        ADR: -8.083570446253443
+Cumulative Statistics (for 909 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.34109629854379
+Simulation 910
+    POMCPOW: 
+        ADR: -13.882795227626268
+Cumulative Statistics (for 910 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.338394868795525
+Simulation 911
+    POMCPOW: 
+        ADR: -10.293993650788714
+Cumulative Statistics (for 911 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.33175996076259
+Simulation 912
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 912 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.335652317620955
+Simulation 913
+    POMCPOW: 
+        ADR: -18.02087905466382
+Cumulative Statistics (for 913 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.33749813003831
+Simulation 914
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 914 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.34137569161988
+Simulation 915
+    POMCPOW: 
+        ADR: -2.0378918228486356
+Cumulative Statistics (for 915 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.32574346881248
+Simulation 916
+    POMCPOW: 
+        ADR: -11.240329269836812
+Cumulative Statistics (for 916 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.320191706586524
+Simulation 917
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 917 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.324075455451307
+Simulation 918
+    POMCPOW: 
+        ADR: -9.245422327743729
+Cumulative Statistics (for 918 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.3163645043318
+Simulation 919
+    POMCPOW: 
+        ADR: -15.017498480371765
+Cumulative Statistics (for 919 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.3149511571893
+Simulation 920
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 920 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.318827937904956
+Simulation 921
+    POMCPOW: 
+        ADR: -13.560837081711863
+Cumulative Statistics (for 921 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.315833376714735
+Simulation 922
+    POMCPOW: 
+        ADR: -19.083090622600253
+Cumulative Statistics (for 922 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.318834740321986
+Simulation 923
+    POMCPOW: 
+        ADR: -10.779293968249277
+Cumulative Statistics (for 923 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.31283307101313
+Simulation 924
+    POMCPOW: 
+        ADR: -19.391703585392463
+Cumulative Statistics (for 924 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.31616518195943
+Simulation 925
+    POMCPOW: 
+        ADR: -7.456389943424676
+Cumulative Statistics (for 925 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.30658704656642
+Simulation 926
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 926 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.310447740269474
+Simulation 927
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 927 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.314300104536276
+Simulation 928
+    POMCPOW: 
+        ADR: -17.307655042074458
+Cumulative Statistics (for 928 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.315370530115516
+Simulation 929
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 929 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.319209301789876
+Simulation 930
+    POMCPOW: 
+        ADR: -19.359687984623648
+Cumulative Statistics (for 930 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.3224786337069
+Simulation 931
+    POMCPOW: 
+        ADR: -2.0378918228486356
+Cumulative Statistics (for 931 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.30713536108514
+Simulation 932
+    POMCPOW: 
+        ADR: -19.478461861525858
+Cumulative Statistics (for 932 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.310538071922526
+Simulation 933
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 933 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.314365565324103
+Simulation 934
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 934 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.318184862808334
+Simulation 935
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 935 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.321995990672274
+Simulation 936
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 936 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.32579897510061
+Simulation 937
+    POMCPOW: 
+        ADR: -9.245422327743729
+Cumulative Statistics (for 937 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.31824254324644
+Simulation 938
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 938 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.32204142050907
+Simulation 939
+    POMCPOW: 
+        ADR: -19.213864822551887
+Cumulative Statistics (for 939 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.3251211046433
+Simulation 940
+    POMCPOW: 
+        ADR: -16.144635303046886
+Cumulative Statistics (for 940 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.32492909847139
+Simulation 941
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 941 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.328708758744632
+Simulation 942
+    POMCPOW: 
+        ADR: -16.85978135830233
+Cumulative Statistics (for 942 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.329272530081745
+Simulation 943
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 943 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.33303956813637
+Simulation 944
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 944 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.33679862517817
+Simulation 945
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 945 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.34054972654369
+Simulation 946
+    POMCPOW: 
+        ADR: -2.935997231706203
+Cumulative Statistics (for 946 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.3263800093187
+Simulation 947
+    POMCPOW: 
+        ADR: -14.479222692932707
+Cumulative Statistics (for 947 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.32442947360974
+Simulation 948
+    POMCPOW: 
+        ADR: -19.792837583776
+Cumulative Statistics (for 948 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.3280881319538
+Simulation 949
+    POMCPOW: 
+        ADR: -15.266623556353178
+Cumulative Statistics (for 949 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.32696962344421
+Simulation 950
+    POMCPOW: 
+        ADR: 8.5
+Cumulative Statistics (for 950 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.300835971209004
+Simulation 951
+    POMCPOW: 
+        ADR: -19.172489286896724
+Cumulative Statistics (for 951 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.30385558563139
+Simulation 952
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 952 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.30761370940236
+Simulation 953
+    POMCPOW: 
+        ADR: -15.728127759608743
+Cumulative Statistics (for 953 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.30700564439733
+Simulation 954
+    POMCPOW: 
+        ADR: -16.520533360999817
+Cumulative Statistics (for 954 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.307229467999637
+Simulation 955
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 955 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.310972253285076
+Simulation 956
+    POMCPOW: 
+        ADR: -16.337403537894545
+Cumulative Statistics (for 956 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.310999901072325
+Simulation 957
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 957 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.31473092459847
+Simulation 958
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 958 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.318454158931452
+Simulation 959
+    POMCPOW: 
+        ADR: -19.8031957045872
+Cumulative Statistics (for 959 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.322087883170926
+Simulation 960
+    POMCPOW: 
+        ADR: -19.552846238525724
+Cumulative Statistics (for 960 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.325453256457756
+Simulation 961
+    POMCPOW: 
+        ADR: -18.54516424251728
+Cumulative Statistics (for 961 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.327763049367288
+Simulation 962
+    POMCPOW: 
+        ADR: -18.46859393949188
+Cumulative Statistics (for 962 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.329988445302966
+Simulation 963
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 963 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.333676504462147
+Simulation 964
+    POMCPOW: 
+        ADR: -17.691650741698584
+Cumulative Statistics (for 964 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.335085191430235
+Simulation 965
+    POMCPOW: 
+        ADR: -19.635790466568185
+Cumulative Statistics (for 965 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.33850561140447
+Simulation 966
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 966 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.342173400021643
+Simulation 967
+    POMCPOW: 
+        ADR: -18.387993620517765
+Cumulative Statistics (for 967 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.344289036237257
+Simulation 968
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 968 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.347943272166344
+Simulation 969
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 969 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.351589965812813
+Simulation 970
+    POMCPOW: 
+        ADR: -17.570158675472197
+Cumulative Statistics (for 970 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.352846222214524
+Simulation 971
+    POMCPOW: 
+        ADR: -0.09738706132812691
+Cumulative Statistics (for 971 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.33610527560187
+Simulation 972
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 972 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.339752893029846
+Simulation 973
+    POMCPOW: 
+        ADR: 2.0527567187499987
+Cumulative Statistics (for 973 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.320850005453508
+Simulation 974
+    POMCPOW: 
+        ADR: 3.213428124999999
+Cumulative Statistics (for 974 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.300794278420188
+Simulation 975
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 975 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.304466888817288
+Simulation 976
+    POMCPOW: 
+        ADR: -12.489677307726334
+Cumulative Statistics (for 976 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.300558292935023
+Simulation 977
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 977 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.304223626735084
+Simulation 978
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 978 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.307881464965
+Simulation 979
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 979 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.311531830593836
+Simulation 980
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 980 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.315174746496897
+Simulation 981
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 981 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.318810235456223
+Simulation 982
+    POMCPOW: 
+        ADR: -16.144635303046886
+Cumulative Statistics (for 982 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.318632867907944
+Simulation 983
+    POMCPOW: 
+        ADR: -15.503292378535518
+Cumulative Statistics (for 983 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.317803426921806
+Simulation 984
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 984 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.32142516065013
+Simulation 985
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 985 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.32503954060439
+Simulation 986
+    POMCPOW: 
+        ADR: -18.46859393949188
+Cumulative Statistics (for 986 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.327213530866953
+Simulation 987
+    POMCPOW: 
+        ADR: -17.307655042074458
+Cumulative Statistics (for 987 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.32820688599482
+Simulation 988
+    POMCPOW: 
+        ADR: -10.779293968249277
+Cumulative Statistics (for 988 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.32259057737362
+Simulation 989
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 989 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.326189160627635
+Simulation 990
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 990 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.32978047401649
+Simulation 991
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 991 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.33336453954785
+Simulation 992
+    POMCPOW: 
+        ADR: -2.935997231706203
+Cumulative Statistics (for 992 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.31985912895527
+Simulation 993
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 993 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.323445967108984
+Simulation 994
+    POMCPOW: 
+        ADR: -2.935997231706203
+Cumulative Statistics (for 994 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.309977708823872
+Simulation 995
+    POMCPOW: 
+        ADR: -14.479222692932707
+Cumulative Statistics (for 995 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.308137754034032
+Simulation 996
+    POMCPOW: 
+        ADR: -18.617906030391417
+Cumulative Statistics (for 996 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.310456798488204
+Simulation 997
+    POMCPOW: 
+        ADR: -19.881589415593282
+Cumulative Statistics (for 997 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.314038676740065
+Simulation 998
+    POMCPOW: 
+        ADR: -15.503292378535518
+Cumulative Statistics (for 998 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.31322630569978
+Simulation 999
+    POMCPOW: 
+        ADR: -18.54516424251728
+Cumulative Statistics (for 999 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.315460477808706
+Simulation 1000
+    POMCPOW: 
+        ADR: -19.781934298711583
+Cumulative Statistics (for 1000 simulation)
+    POMCPOW: 
+        AVG_ADR: -16.31892695162961

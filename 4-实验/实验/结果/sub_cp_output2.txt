@@ -1,0 +1,6000 @@
+Simulation 1
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 1 simulation)
+    POMCP: 
+        AVG_ADR: 0.0
+Simulation 2
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 2 simulation)
+    POMCP: 
+        AVG_ADR: 0.0
+Simulation 3
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 3 simulation)
+    POMCP: 
+        AVG_ADR: 0.0
+Simulation 4
+    POMCP: 
+        ADR: 92.274469442792
+Cumulative Statistics (for 4 simulation)
+    POMCP: 
+        AVG_ADR: 23.068617360698
+Simulation 5
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 5 simulation)
+    POMCP: 
+        AVG_ADR: 18.4548938885584
+Simulation 6
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 6 simulation)
+    POMCP: 
+        AVG_ADR: 15.379078240465333
+Simulation 7
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 7 simulation)
+    POMCP: 
+        AVG_ADR: 13.182067063256
+Simulation 8
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 8 simulation)
+    POMCP: 
+        AVG_ADR: 11.534308680349
+Simulation 9
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 9 simulation)
+    POMCP: 
+        AVG_ADR: 10.252718826976889
+Simulation 10
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 10 simulation)
+    POMCP: 
+        AVG_ADR: 9.2274469442792
+Simulation 11
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 11 simulation)
+    POMCP: 
+        AVG_ADR: 8.388588131162908
+Simulation 12
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 12 simulation)
+    POMCP: 
+        AVG_ADR: 7.689539120232666
+Simulation 13
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 13 simulation)
+    POMCP: 
+        AVG_ADR: 7.098036110983999
+Simulation 14
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 14 simulation)
+    POMCP: 
+        AVG_ADR: 6.591033531628
+Simulation 15
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 15 simulation)
+    POMCP: 
+        AVG_ADR: 6.1516312961861335
+Simulation 16
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 16 simulation)
+    POMCP: 
+        AVG_ADR: 5.7671543401745
+Simulation 17
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 17 simulation)
+    POMCP: 
+        AVG_ADR: 5.427909967223059
+Simulation 18
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 18 simulation)
+    POMCP: 
+        AVG_ADR: 5.126359413488444
+Simulation 19
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 19 simulation)
+    POMCP: 
+        AVG_ADR: 4.856551023304842
+Simulation 20
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 20 simulation)
+    POMCP: 
+        AVG_ADR: 4.6137234721396
+Simulation 21
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 21 simulation)
+    POMCP: 
+        AVG_ADR: 4.3940223544186665
+Simulation 22
+    POMCP: 
+        ADR: 92.274469442792
+Cumulative Statistics (for 22 simulation)
+    POMCP: 
+        AVG_ADR: 8.388588131162908
+Simulation 23
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 23 simulation)
+    POMCP: 
+        AVG_ADR: 8.02386690806887
+Simulation 24
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 24 simulation)
+    POMCP: 
+        AVG_ADR: 7.689539120232666
+Simulation 25
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 25 simulation)
+    POMCP: 
+        AVG_ADR: 7.38195755542336
+Simulation 26
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 26 simulation)
+    POMCP: 
+        AVG_ADR: 7.098036110983999
+Simulation 27
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 27 simulation)
+    POMCP: 
+        AVG_ADR: 6.835145884651259
+Simulation 28
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 28 simulation)
+    POMCP: 
+        AVG_ADR: 6.591033531628
+Simulation 29
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 29 simulation)
+    POMCP: 
+        AVG_ADR: 6.363756513296
+Simulation 30
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 30 simulation)
+    POMCP: 
+        AVG_ADR: 6.1516312961861335
+Simulation 31
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 31 simulation)
+    POMCP: 
+        AVG_ADR: 5.953191576954322
+Simulation 32
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 32 simulation)
+    POMCP: 
+        AVG_ADR: 5.7671543401745
+Simulation 33
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 33 simulation)
+    POMCP: 
+        AVG_ADR: 5.592392087441939
+Simulation 34
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 34 simulation)
+    POMCP: 
+        AVG_ADR: 5.427909967223059
+Simulation 35
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 35 simulation)
+    POMCP: 
+        AVG_ADR: 5.2728268253024
+Simulation 36
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 36 simulation)
+    POMCP: 
+        AVG_ADR: 5.126359413488444
+Simulation 37
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 37 simulation)
+    POMCP: 
+        AVG_ADR: 4.987809159069838
+Simulation 38
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 38 simulation)
+    POMCP: 
+        AVG_ADR: 4.856551023304842
+Simulation 39
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 39 simulation)
+    POMCP: 
+        AVG_ADR: 4.732024073989333
+Simulation 40
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 40 simulation)
+    POMCP: 
+        AVG_ADR: 4.6137234721396
+Simulation 41
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 41 simulation)
+    POMCP: 
+        AVG_ADR: 4.501193631355707
+Simulation 42
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 42 simulation)
+    POMCP: 
+        AVG_ADR: 4.3940223544186665
+Simulation 43
+    POMCP: 
+        ADR: 92.274469442792
+Cumulative Statistics (for 43 simulation)
+    POMCP: 
+        AVG_ADR: 6.437753682055256
+Simulation 44
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 44 simulation)
+    POMCP: 
+        AVG_ADR: 6.291441098372181
+Simulation 45
+    POMCP: 
+        ADR: 94.14801494009998
+Cumulative Statistics (for 45 simulation)
+    POMCP: 
+        AVG_ADR: 8.243809405966132
+Simulation 46
+    POMCP: 
+        ADR: 96.059601
+Cumulative Statistics (for 46 simulation)
+    POMCP: 
+        AVG_ADR: 10.15284835366252
+Simulation 47
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 47 simulation)
+    POMCP: 
+        AVG_ADR: 9.936830303584594
+Simulation 48
+    POMCP: 
+        ADR: 96.059601
+Cumulative Statistics (for 48 simulation)
+    POMCP: 
+        AVG_ADR: 11.731054693093249
+Simulation 49
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 49 simulation)
+    POMCP: 
+        AVG_ADR: 11.491645413642367
+Simulation 50
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 50 simulation)
+    POMCP: 
+        AVG_ADR: 11.26181250536952
+Simulation 51
+    POMCP: 
+        ADR: 97.0299
+Cumulative Statistics (for 51 simulation)
+    POMCP: 
+        AVG_ADR: 12.943539711146586
+Simulation 52
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 52 simulation)
+    POMCP: 
+        AVG_ADR: 12.69462548593223
+Simulation 53
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 53 simulation)
+    POMCP: 
+        AVG_ADR: 12.455104250348603
+Simulation 54
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 54 simulation)
+    POMCP: 
+        AVG_ADR: 12.224454171638444
+Simulation 55
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 55 simulation)
+    POMCP: 
+        AVG_ADR: 12.002191368517744
+Simulation 56
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 56 simulation)
+    POMCP: 
+        AVG_ADR: 11.787866522651356
+Simulation 57
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 57 simulation)
+    POMCP: 
+        AVG_ADR: 11.581061846815368
+Simulation 58
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 58 simulation)
+    POMCP: 
+        AVG_ADR: 11.38138836669786
+Simulation 59
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 59 simulation)
+    POMCP: 
+        AVG_ADR: 11.188483479126711
+Simulation 60
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 60 simulation)
+    POMCP: 
+        AVG_ADR: 11.002008754474598
+Simulation 61
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 61 simulation)
+    POMCP: 
+        AVG_ADR: 10.821647955220918
+Simulation 62
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 62 simulation)
+    POMCP: 
+        AVG_ADR: 10.647105246265742
+Simulation 63
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 63 simulation)
+    POMCP: 
+        AVG_ADR: 10.478103575690094
+Simulation 64
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 64 simulation)
+    POMCP: 
+        AVG_ADR: 10.314383207319937
+Simulation 65
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 65 simulation)
+    POMCP: 
+        AVG_ADR: 10.155700388745784
+Simulation 66
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 66 simulation)
+    POMCP: 
+        AVG_ADR: 10.001826140431454
+Simulation 67
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 67 simulation)
+    POMCP: 
+        AVG_ADR: 9.852545153260834
+Simulation 68
+    POMCP: 
+        ADR: 96.059601
+Cumulative Statistics (for 68 simulation)
+    POMCP: 
+        AVG_ADR: 11.120295974536411
+Simulation 69
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 69 simulation)
+    POMCP: 
+        AVG_ADR: 10.959132264760521
+Simulation 70
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 70 simulation)
+    POMCP: 
+        AVG_ADR: 10.8025732324068
+Simulation 71
+    POMCP: 
+        ADR: 89.53382542587163
+Cumulative Statistics (for 71 simulation)
+    POMCP: 
+        AVG_ADR: 11.911464108371094
+Simulation 72
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 72 simulation)
+    POMCP: 
+        AVG_ADR: 11.74602710686594
+Simulation 73
+    POMCP: 
+        ADR: 93.206534790699
+Cumulative Statistics (for 73 simulation)
+    POMCP: 
+        AVG_ADR: 12.8619244723979
+Simulation 74
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 74 simulation)
+    POMCP: 
+        AVG_ADR: 12.68811468223036
+Simulation 75
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 75 simulation)
+    POMCP: 
+        AVG_ADR: 12.518939819800623
+Simulation 76
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 76 simulation)
+    POMCP: 
+        AVG_ADR: 12.354216927434825
+Simulation 77
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 77 simulation)
+    POMCP: 
+        AVG_ADR: 12.193772551753852
+Simulation 78
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 78 simulation)
+    POMCP: 
+        AVG_ADR: 12.037442134423676
+Simulation 79
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 79 simulation)
+    POMCP: 
+        AVG_ADR: 11.885069449177806
+Simulation 80
+    POMCP: 
+        ADR: 92.274469442792
+Cumulative Statistics (for 80 simulation)
+    POMCP: 
+        AVG_ADR: 12.889936949097983
+Simulation 81
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 81 simulation)
+    POMCP: 
+        AVG_ADR: 12.730801925035045
+Simulation 82
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 82 simulation)
+    POMCP: 
+        AVG_ADR: 12.575548243022423
+Simulation 83
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 83 simulation)
+    POMCP: 
+        AVG_ADR: 12.424035613588417
+Simulation 84
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 84 simulation)
+    POMCP: 
+        AVG_ADR: 12.276130427712365
+Simulation 85
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 85 simulation)
+    POMCP: 
+        AVG_ADR: 12.131705363856925
+Simulation 86
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 86 simulation)
+    POMCP: 
+        AVG_ADR: 11.99063902241673
+Simulation 87
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 87 simulation)
+    POMCP: 
+        AVG_ADR: 11.852815585377456
+Simulation 88
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 88 simulation)
+    POMCP: 
+        AVG_ADR: 11.718124499179986
+Simulation 89
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 89 simulation)
+    POMCP: 
+        AVG_ADR: 11.58646017896448
+Simulation 90
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 90 simulation)
+    POMCP: 
+        AVG_ADR: 11.45772173253154
+Simulation 91
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 91 simulation)
+    POMCP: 
+        AVG_ADR: 11.331812702503722
+Simulation 92
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 92 simulation)
+    POMCP: 
+        AVG_ADR: 11.208640825302595
+Simulation 93
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 93 simulation)
+    POMCP: 
+        AVG_ADR: 11.088117805675685
+Simulation 94
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 94 simulation)
+    POMCP: 
+        AVG_ADR: 10.970159105615306
+Simulation 95
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 95 simulation)
+    POMCP: 
+        AVG_ADR: 10.854683746608828
+Simulation 96
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 96 simulation)
+    POMCP: 
+        AVG_ADR: 10.74161412424832
+Simulation 97
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 97 simulation)
+    POMCP: 
+        AVG_ADR: 10.630875834307615
+Simulation 98
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 98 simulation)
+    POMCP: 
+        AVG_ADR: 10.522397509467742
+Simulation 99
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 99 simulation)
+    POMCP: 
+        AVG_ADR: 10.416110665937765
+Simulation 100
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 100 simulation)
+    POMCP: 
+        AVG_ADR: 10.311949559278387
+Simulation 101
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 101 simulation)
+    POMCP: 
+        AVG_ADR: 10.209851048790481
+Simulation 102
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 102 simulation)
+    POMCP: 
+        AVG_ADR: 10.109754469880771
+Simulation 103
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 103 simulation)
+    POMCP: 
+        AVG_ADR: 10.011601513862512
+Simulation 104
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 104 simulation)
+    POMCP: 
+        AVG_ADR: 9.915336114690756
+Simulation 105
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 105 simulation)
+    POMCP: 
+        AVG_ADR: 9.820904342169893
+Simulation 106
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 106 simulation)
+    POMCP: 
+        AVG_ADR: 9.728254301206025
+Simulation 107
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 107 simulation)
+    POMCP: 
+        AVG_ADR: 9.637336036708772
+Simulation 108
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 108 simulation)
+    POMCP: 
+        AVG_ADR: 9.548101443776284
+Simulation 109
+    POMCP: 
+        ADR: 89.53382542587163
+Cumulative Statistics (for 109 simulation)
+    POMCP: 
+        AVG_ADR: 10.281915425263398
+Simulation 110
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 110 simulation)
+    POMCP: 
+        AVG_ADR: 10.188443466851911
+Simulation 111
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 111 simulation)
+    POMCP: 
+        AVG_ADR: 10.096655687871264
+Simulation 112
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 112 simulation)
+    POMCP: 
+        AVG_ADR: 10.006506976372412
+Simulation 113
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 113 simulation)
+    POMCP: 
+        AVG_ADR: 9.91795381728947
+Simulation 114
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 114 simulation)
+    POMCP: 
+        AVG_ADR: 9.830954222400967
+Simulation 115
+    POMCP: 
+        ADR: 95.09900499
+Cumulative Statistics (for 115 simulation)
+    POMCP: 
+        AVG_ADR: 10.572415533423566
+Simulation 116
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 116 simulation)
+    POMCP: 
+        AVG_ADR: 10.481274020204397
+Simulation 117
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 117 simulation)
+    POMCP: 
+        AVG_ADR: 10.391690481570173
+Simulation 118
+    POMCP: 
+        ADR: 94.14801494009998
+Cumulative Statistics (for 118 simulation)
+    POMCP: 
+        AVG_ADR: 11.101489841388222
+Simulation 119
+    POMCP: 
+        ADR: 91.35172474836408
+Cumulative Statistics (for 119 simulation)
+    POMCP: 
+        AVG_ADR: 11.775861563295582
+Simulation 120
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 120 simulation)
+    POMCP: 
+        AVG_ADR: 11.677729383601452
+Simulation 121
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 121 simulation)
+    POMCP: 
+        AVG_ADR: 11.5812192234064
+Simulation 122
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 122 simulation)
+    POMCP: 
+        AVG_ADR: 11.486291196985036
+Simulation 123
+    POMCP: 
+        ADR: 92.274469442792
+Cumulative Statistics (for 123 simulation)
+    POMCP: 
+        AVG_ADR: 12.14310565426802
+Simulation 124
+    POMCP: 
+        ADR: 92.274469442792
+Cumulative Statistics (for 124 simulation)
+    POMCP: 
+        AVG_ADR: 12.789326329981922
+Simulation 125
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 125 simulation)
+    POMCP: 
+        AVG_ADR: 12.687011719342067
+Simulation 126
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 126 simulation)
+    POMCP: 
+        AVG_ADR: 12.58632115014094
+Simulation 127
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 127 simulation)
+    POMCP: 
+        AVG_ADR: 12.487216259194946
+Simulation 128
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 128 simulation)
+    POMCP: 
+        AVG_ADR: 12.389659882169987
+Simulation 129
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 129 simulation)
+    POMCP: 
+        AVG_ADR: 12.293616007114405
+Simulation 130
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 130 simulation)
+    POMCP: 
+        AVG_ADR: 12.199049730136602
+Simulation 131
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 131 simulation)
+    POMCP: 
+        AVG_ADR: 12.10592721311266
+Simulation 132
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 132 simulation)
+    POMCP: 
+        AVG_ADR: 12.014215643316351
+Simulation 133
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 133 simulation)
+    POMCP: 
+        AVG_ADR: 11.923883194870363
+Simulation 134
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 134 simulation)
+    POMCP: 
+        AVG_ADR: 11.83489899192357
+Simulation 135
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 135 simulation)
+    POMCP: 
+        AVG_ADR: 11.747233073464876
+Simulation 136
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 136 simulation)
+    POMCP: 
+        AVG_ADR: 11.660856359689399
+Simulation 137
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 137 simulation)
+    POMCP: 
+        AVG_ADR: 11.575740619837651
+Simulation 138
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 138 simulation)
+    POMCP: 
+        AVG_ADR: 11.491858441433031
+Simulation 139
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 139 simulation)
+    POMCP: 
+        AVG_ADR: 11.409183200847183
+Simulation 140
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 140 simulation)
+    POMCP: 
+        AVG_ADR: 11.327689035126845
+Simulation 141
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 141 simulation)
+    POMCP: 
+        AVG_ADR: 11.247350815019562
+Simulation 142
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 142 simulation)
+    POMCP: 
+        AVG_ADR: 11.168144119139143
+Simulation 143
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 143 simulation)
+    POMCP: 
+        AVG_ADR: 11.090045209215093
+Simulation 144
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 144 simulation)
+    POMCP: 
+        AVG_ADR: 11.013031006373321
+Simulation 145
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 145 simulation)
+    POMCP: 
+        AVG_ADR: 10.937079068398333
+Simulation 146
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 146 simulation)
+    POMCP: 
+        AVG_ADR: 10.862167567929852
+Simulation 147
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 147 simulation)
+    POMCP: 
+        AVG_ADR: 10.788275271549375
+Simulation 148
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 148 simulation)
+    POMCP: 
+        AVG_ADR: 10.715381519714583
+Simulation 149
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 149 simulation)
+    POMCP: 
+        AVG_ADR: 10.643466207501733
+Simulation 150
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 150 simulation)
+    POMCP: 
+        AVG_ADR: 10.572509766118388
+Simulation 151
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 151 simulation)
+    POMCP: 
+        AVG_ADR: 10.502493145150718
+Simulation 152
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 152 simulation)
+    POMCP: 
+        AVG_ADR: 10.433397795511567
+Simulation 153
+    POMCP: 
+        ADR: 88.63848717161291
+Cumulative Statistics (for 153 simulation)
+    POMCP: 
+        AVG_ADR: 10.944542170518766
+Simulation 154
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 154 simulation)
+    POMCP: 
+        AVG_ADR: 10.873473714866048
+Simulation 155
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 155 simulation)
+    POMCP: 
+        AVG_ADR: 10.803322271544332
+Simulation 156
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 156 simulation)
+    POMCP: 
+        AVG_ADR: 10.734070205701098
+Simulation 157
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 157 simulation)
+    POMCP: 
+        AVG_ADR: 10.665700331779435
+Simulation 158
+    POMCP: 
+        ADR: 92.274469442792
+Cumulative Statistics (for 158 simulation)
+    POMCP: 
+        AVG_ADR: 11.182211528684578
+Simulation 159
+    POMCP: 
+        ADR: 93.206534790699
+Cumulative Statistics (for 159 simulation)
+    POMCP: 
+        AVG_ADR: 11.698087775615486
+Simulation 160
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 160 simulation)
+    POMCP: 
+        AVG_ADR: 11.62497472701789
+Simulation 161
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 161 simulation)
+    POMCP: 
+        AVG_ADR: 11.552769915048833
+Simulation 162
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 162 simulation)
+    POMCP: 
+        AVG_ADR: 11.481456520511495
+Simulation 163
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 163 simulation)
+    POMCP: 
+        AVG_ADR: 11.411018136950075
+Simulation 164
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 164 simulation)
+    POMCP: 
+        AVG_ADR: 11.341438758066232
+Simulation 165
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 165 simulation)
+    POMCP: 
+        AVG_ADR: 11.272702765593104
+Simulation 166
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 166 simulation)
+    POMCP: 
+        AVG_ADR: 11.204794917607604
+Simulation 167
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 167 simulation)
+    POMCP: 
+        AVG_ADR: 11.137700337262649
+Simulation 168
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 168 simulation)
+    POMCP: 
+        AVG_ADR: 11.0714045019218
+Simulation 169
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 169 simulation)
+    POMCP: 
+        AVG_ADR: 11.005893232679657
+Simulation 170
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 170 simulation)
+    POMCP: 
+        AVG_ADR: 10.941152684252131
+Simulation 171
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 171 simulation)
+    POMCP: 
+        AVG_ADR: 10.877169335221417
+Simulation 172
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 172 simulation)
+    POMCP: 
+        AVG_ADR: 10.813929978621292
+Simulation 173
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 173 simulation)
+    POMCP: 
+        AVG_ADR: 10.751421712848915
+Simulation 174
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 174 simulation)
+    POMCP: 
+        AVG_ADR: 10.689631932890013
+Simulation 175
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 175 simulation)
+    POMCP: 
+        AVG_ADR: 10.628548321844926
+Simulation 176
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 176 simulation)
+    POMCP: 
+        AVG_ADR: 10.568158842743536
+Simulation 177
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 177 simulation)
+    POMCP: 
+        AVG_ADR: 10.50845173063764
+Simulation 178
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 178 simulation)
+    POMCP: 
+        AVG_ADR: 10.4494154849599
+Simulation 179
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 179 simulation)
+    POMCP: 
+        AVG_ADR: 10.391038862138895
+Simulation 180
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 180 simulation)
+    POMCP: 
+        AVG_ADR: 10.333310868460346
+Simulation 181
+    POMCP: 
+        ADR: 93.206534790699
+Cumulative Statistics (for 181 simulation)
+    POMCP: 
+        AVG_ADR: 10.791173984052824
+Simulation 182
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 182 simulation)
+    POMCP: 
+        AVG_ADR: 10.731881819305281
+Simulation 183
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 183 simulation)
+    POMCP: 
+        AVG_ADR: 10.673237656358257
+Simulation 184
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 184 simulation)
+    POMCP: 
+        AVG_ADR: 10.615230929965007
+Simulation 185
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 185 simulation)
+    POMCP: 
+        AVG_ADR: 10.557851303316546
+Simulation 186
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 186 simulation)
+    POMCP: 
+        AVG_ADR: 10.501088661900866
+Simulation 187
+    POMCP: 
+        ADR: 95.09900499
+Cumulative Statistics (for 187 simulation)
+    POMCP: 
+        AVG_ADR: 10.95348393638268
+Simulation 188
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 188 simulation)
+    POMCP: 
+        AVG_ADR: 10.895220723955111
+Simulation 189
+    POMCP: 
+        ADR: 97.0299
+Cumulative Statistics (for 189 simulation)
+    POMCP: 
+        AVG_ADR: 11.35095976774371
+Simulation 190
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 190 simulation)
+    POMCP: 
+        AVG_ADR: 11.291217874229268
+Simulation 191
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 191 simulation)
+    POMCP: 
+        AVG_ADR: 11.232101550280424
+Simulation 192
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 192 simulation)
+    POMCP: 
+        AVG_ADR: 11.173601021372713
+Simulation 193
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 193 simulation)
+    POMCP: 
+        AVG_ADR: 11.115706715562492
+Simulation 194
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 194 simulation)
+    POMCP: 
+        AVG_ADR: 11.058409258265778
+Simulation 195
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 195 simulation)
+    POMCP: 
+        AVG_ADR: 11.00169946719775
+Simulation 196
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 196 simulation)
+    POMCP: 
+        AVG_ADR: 10.945568347467148
+Simulation 197
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 197 simulation)
+    POMCP: 
+        AVG_ADR: 10.890007086820107
+Simulation 198
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 198 simulation)
+    POMCP: 
+        AVG_ADR: 10.835007051028086
+Simulation 199
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 199 simulation)
+    POMCP: 
+        AVG_ADR: 10.78055977941488
+Simulation 200
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 200 simulation)
+    POMCP: 
+        AVG_ADR: 10.726656980517806
+Simulation 201
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 201 simulation)
+    POMCP: 
+        AVG_ADR: 10.673290527878413
+Simulation 202
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 202 simulation)
+    POMCP: 
+        AVG_ADR: 10.620452455958223
+Simulation 203
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 203 simulation)
+    POMCP: 
+        AVG_ADR: 10.568134956175177
+Simulation 204
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 204 simulation)
+    POMCP: 
+        AVG_ADR: 10.516330373056672
+Simulation 205
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 205 simulation)
+    POMCP: 
+        AVG_ADR: 10.465031200505175
+Simulation 206
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 206 simulation)
+    POMCP: 
+        AVG_ADR: 10.414230078172626
+Simulation 207
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 207 simulation)
+    POMCP: 
+        AVG_ADR: 10.363919787939908
+Simulation 208
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 208 simulation)
+    POMCP: 
+        AVG_ADR: 10.314093250497889
+Simulation 209
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 209 simulation)
+    POMCP: 
+        AVG_ADR: 10.264743522026608
+Simulation 210
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 210 simulation)
+    POMCP: 
+        AVG_ADR: 10.215863790969339
+Simulation 211
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 211 simulation)
+    POMCP: 
+        AVG_ADR: 10.167447374898394
+Simulation 212
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 212 simulation)
+    POMCP: 
+        AVG_ADR: 10.119487717469628
+Simulation 213
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 213 simulation)
+    POMCP: 
+        AVG_ADR: 10.071978385462728
+Simulation 214
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 214 simulation)
+    POMCP: 
+        AVG_ADR: 10.02491306590449
+Simulation 215
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 215 simulation)
+    POMCP: 
+        AVG_ADR: 9.978285563272378
+Simulation 216
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 216 simulation)
+    POMCP: 
+        AVG_ADR: 9.932089796775745
+Simulation 217
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 217 simulation)
+    POMCP: 
+        AVG_ADR: 9.886319797712263
+Simulation 218
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 218 simulation)
+    POMCP: 
+        AVG_ADR: 9.840969706897068
+Simulation 219
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 219 simulation)
+    POMCP: 
+        AVG_ADR: 9.79603377216238
+Simulation 220
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 220 simulation)
+    POMCP: 
+        AVG_ADR: 9.751506345925277
+Simulation 221
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 221 simulation)
+    POMCP: 
+        AVG_ADR: 9.707381882821544
+Simulation 222
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 222 simulation)
+    POMCP: 
+        AVG_ADR: 9.663654937403429
+Simulation 223
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 223 simulation)
+    POMCP: 
+        AVG_ADR: 9.620320161899377
+Simulation 224
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 224 simulation)
+    POMCP: 
+        AVG_ADR: 9.577372304033755
+Simulation 225
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 225 simulation)
+    POMCP: 
+        AVG_ADR: 9.534806204904715
+Simulation 226
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 226 simulation)
+    POMCP: 
+        AVG_ADR: 9.492616796918412
+Simulation 227
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 227 simulation)
+    POMCP: 
+        AVG_ADR: 9.450799101777802
+Simulation 228
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 228 simulation)
+    POMCP: 
+        AVG_ADR: 9.40934822852439
+Simulation 229
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 229 simulation)
+    POMCP: 
+        AVG_ADR: 9.368259371631272
+Simulation 230
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 230 simulation)
+    POMCP: 
+        AVG_ADR: 9.327527809145918
+Simulation 231
+    POMCP: 
+        ADR: 94.14801494009998
+Cumulative Statistics (for 231 simulation)
+    POMCP: 
+        AVG_ADR: 9.694716065124073
+Simulation 232
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 232 simulation)
+    POMCP: 
+        AVG_ADR: 9.652928495877848
+Simulation 233
+    POMCP: 
+        ADR: 95.09900499
+Cumulative Statistics (for 233 simulation)
+    POMCP: 
+        AVG_ADR: 10.019649854221722
+Simulation 234
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 234 simulation)
+    POMCP: 
+        AVG_ADR: 9.976830837750688
+Simulation 235
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 235 simulation)
+    POMCP: 
+        AVG_ADR: 9.93437623844111
+Simulation 236
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 236 simulation)
+    POMCP: 
+        AVG_ADR: 9.892281423871445
+Simulation 237
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 237 simulation)
+    POMCP: 
+        AVG_ADR: 9.850541839804478
+Simulation 238
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 238 simulation)
+    POMCP: 
+        AVG_ADR: 9.809153008544795
+Simulation 239
+    POMCP: 
+        ADR: 95.09900499
+Cumulative Statistics (for 239 simulation)
+    POMCP: 
+        AVG_ADR: 10.166014313906533
+Simulation 240
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 240 simulation)
+    POMCP: 
+        AVG_ADR: 10.123655920931922
+Simulation 241
+    POMCP: 
+        ADR: 91.35172474836408
+Cumulative Statistics (for 241 simulation)
+    POMCP: 
+        AVG_ADR: 10.460701849676454
+Simulation 242
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 242 simulation)
+    POMCP: 
+        AVG_ADR: 10.417475808975311
+Simulation 243
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 243 simulation)
+    POMCP: 
+        AVG_ADR: 10.374605538156484
+Simulation 244
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 244 simulation)
+    POMCP: 
+        AVG_ADR: 10.332086663000105
+Simulation 245
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 245 simulation)
+    POMCP: 
+        AVG_ADR: 10.289914880702145
+Simulation 246
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 246 simulation)
+    POMCP: 
+        AVG_ADR: 10.248085958422868
+Simulation 247
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 247 simulation)
+    POMCP: 
+        AVG_ADR: 10.206595731870548
+Simulation 248
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 248 simulation)
+    POMCP: 
+        AVG_ADR: 10.165440103919458
+Simulation 249
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 249 simulation)
+    POMCP: 
+        AVG_ADR: 10.124615043261146
+Simulation 250
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 250 simulation)
+    POMCP: 
+        AVG_ADR: 10.084116583088102
+Simulation 251
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 251 simulation)
+    POMCP: 
+        AVG_ADR: 10.043940819808867
+Simulation 252
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 252 simulation)
+    POMCP: 
+        AVG_ADR: 10.004083911793751
+Simulation 253
+    POMCP: 
+        ADR: 93.206534790699
+Cumulative Statistics (for 253 simulation)
+    POMCP: 
+        AVG_ADR: 10.332947354002863
+Simulation 254
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 254 simulation)
+    POMCP: 
+        AVG_ADR: 10.292266458908365
+Simulation 255
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 255 simulation)
+    POMCP: 
+        AVG_ADR: 10.251904629657744
+Simulation 256
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 256 simulation)
+    POMCP: 
+        AVG_ADR: 10.211858127198143
+Simulation 257
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 257 simulation)
+    POMCP: 
+        AVG_ADR: 10.17212327067208
+Simulation 258
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 258 simulation)
+    POMCP: 
+        AVG_ADR: 10.13269643628963
+Simulation 259
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 259 simulation)
+    POMCP: 
+        AVG_ADR: 10.093574056226736
+Simulation 260
+    POMCP: 
+        ADR: 90.43820750088042
+Cumulative Statistics (for 260 simulation)
+    POMCP: 
+        AVG_ADR: 10.40259187716771
+Simulation 261
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 261 simulation)
+    POMCP: 
+        AVG_ADR: 10.36273520330883
+Simulation 262
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 262 simulation)
+    POMCP: 
+        AVG_ADR: 10.323182778868722
+Simulation 263
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 263 simulation)
+    POMCP: 
+        AVG_ADR: 10.283931133321692
+Simulation 264
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 264 simulation)
+    POMCP: 
+        AVG_ADR: 10.244976848725775
+Simulation 265
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 265 simulation)
+    POMCP: 
+        AVG_ADR: 10.206316558730585
+Simulation 266
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 266 simulation)
+    POMCP: 
+        AVG_ADR: 10.167946947607538
+Simulation 267
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 267 simulation)
+    POMCP: 
+        AVG_ADR: 10.129864749301891
+Simulation 268
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 268 simulation)
+    POMCP: 
+        AVG_ADR: 10.092066746505989
+Simulation 269
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 269 simulation)
+    POMCP: 
+        AVG_ADR: 10.054549769753178
+Simulation 270
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 270 simulation)
+    POMCP: 
+        AVG_ADR: 10.01731069653187
+Simulation 271
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 271 simulation)
+    POMCP: 
+        AVG_ADR: 9.980346450419207
+Simulation 272
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 272 simulation)
+    POMCP: 
+        AVG_ADR: 9.943654000233842
+Simulation 273
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 273 simulation)
+    POMCP: 
+        AVG_ADR: 9.907230359207343
+Simulation 274
+    POMCP: 
+        ADR: 93.206534790699
+Cumulative Statistics (for 274 simulation)
+    POMCP: 
+        AVG_ADR: 10.211242419176292
+Simulation 275
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 275 simulation)
+    POMCP: 
+        AVG_ADR: 10.174110628561106
+Simulation 276
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 276 simulation)
+    POMCP: 
+        AVG_ADR: 10.137247908892405
+Simulation 277
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 277 simulation)
+    POMCP: 
+        AVG_ADR: 10.100651346044419
+Simulation 278
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 278 simulation)
+    POMCP: 
+        AVG_ADR: 10.064318067821237
+Simulation 279
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 279 simulation)
+    POMCP: 
+        AVG_ADR: 10.02824524320539
+Simulation 280
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 280 simulation)
+    POMCP: 
+        AVG_ADR: 9.992430081622514
+Simulation 281
+    POMCP: 
+        ADR: 96.059601
+Cumulative Statistics (for 281 simulation)
+    POMCP: 
+        AVG_ADR: 10.298718946100726
+Simulation 282
+    POMCP: 
+        ADR: 94.14801494009998
+Cumulative Statistics (for 282 simulation)
+    POMCP: 
+        AVG_ADR: 10.59605687515746
+Simulation 283
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 283 simulation)
+    POMCP: 
+        AVG_ADR: 10.558614978072098
+Simulation 284
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 284 simulation)
+    POMCP: 
+        AVG_ADR: 10.521436756318323
+Simulation 285
+    POMCP: 
+        ADR: 86.87458127689781
+Cumulative Statistics (for 285 simulation)
+    POMCP: 
+        AVG_ADR: 10.78934252656597
+Simulation 286
+    POMCP: 
+        ADR: 94.14801494009998
+Cumulative Statistics (for 286 simulation)
+    POMCP: 
+        AVG_ADR: 11.080806416123783
+Simulation 287
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 287 simulation)
+    POMCP: 
+        AVG_ADR: 11.042197334534501
+Simulation 288
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 288 simulation)
+    POMCP: 
+        AVG_ADR: 11.003856371567368
+Simulation 289
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 289 simulation)
+    POMCP: 
+        AVG_ADR: 10.965780743984089
+Simulation 290
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 290 simulation)
+    POMCP: 
+        AVG_ADR: 10.927967706935869
+Simulation 291
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 291 simulation)
+    POMCP: 
+        AVG_ADR: 10.890414553303787
+Simulation 292
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 292 simulation)
+    POMCP: 
+        AVG_ADR: 10.853118613052747
+Simulation 293
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 293 simulation)
+    POMCP: 
+        AVG_ADR: 10.81607725259864
+Simulation 294
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 294 simulation)
+    POMCP: 
+        AVG_ADR: 10.779287874188443
+Simulation 295
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 295 simulation)
+    POMCP: 
+        AVG_ADR: 10.742747915292888
+Simulation 296
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 296 simulation)
+    POMCP: 
+        AVG_ADR: 10.706454848011493
+Simulation 297
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 297 simulation)
+    POMCP: 
+        AVG_ADR: 10.670406178489568
+Simulation 298
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 298 simulation)
+    POMCP: 
+        AVG_ADR: 10.634599446346986
+Simulation 299
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 299 simulation)
+    POMCP: 
+        AVG_ADR: 10.599032224118401
+Simulation 300
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 300 simulation)
+    POMCP: 
+        AVG_ADR: 10.563702116704674
+Simulation 301
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 301 simulation)
+    POMCP: 
+        AVG_ADR: 10.528606760835222
+Simulation 302
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 302 simulation)
+    POMCP: 
+        AVG_ADR: 10.493743824541065
+Simulation 303
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 303 simulation)
+    POMCP: 
+        AVG_ADR: 10.45911100663829
+Simulation 304
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 304 simulation)
+    POMCP: 
+        AVG_ADR: 10.424706036221716
+Simulation 305
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 305 simulation)
+    POMCP: 
+        AVG_ADR: 10.39052667216853
+Simulation 306
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 306 simulation)
+    POMCP: 
+        AVG_ADR: 10.35657070265164
+Simulation 307
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 307 simulation)
+    POMCP: 
+        AVG_ADR: 10.322835944662547
+Simulation 308
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 308 simulation)
+    POMCP: 
+        AVG_ADR: 10.289320243543512
+Simulation 309
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 309 simulation)
+    POMCP: 
+        AVG_ADR: 10.25602147252881
+Simulation 310
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 310 simulation)
+    POMCP: 
+        AVG_ADR: 10.222937532294845
+Simulation 311
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 311 simulation)
+    POMCP: 
+        AVG_ADR: 10.190066350518977
+Simulation 312
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 312 simulation)
+    POMCP: 
+        AVG_ADR: 10.1574058814468
+Simulation 313
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 313 simulation)
+    POMCP: 
+        AVG_ADR: 10.124954105467738
+Simulation 314
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 314 simulation)
+    POMCP: 
+        AVG_ADR: 10.092709028698732
+Simulation 315
+    POMCP: 
+        ADR: 93.206534790699
+Cumulative Statistics (for 315 simulation)
+    POMCP: 
+        AVG_ADR: 10.356562443816193
+Simulation 316
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 316 simulation)
+    POMCP: 
+        AVG_ADR: 10.323788512031966
+Simulation 317
+    POMCP: 
+        ADR: 95.09900499
+Cumulative Statistics (for 317 simulation)
+    POMCP: 
+        AVG_ADR: 10.591218217009782
+Simulation 318
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 318 simulation)
+    POMCP: 
+        AVG_ADR: 10.55791249934623
+Simulation 319
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 319 simulation)
+    POMCP: 
+        AVG_ADR: 10.524815594959565
+Simulation 320
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 320 simulation)
+    POMCP: 
+        AVG_ADR: 10.491925546225316
+Simulation 321
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 321 simulation)
+    POMCP: 
+        AVG_ADR: 10.459240419913089
+Simulation 322
+    POMCP: 
+        ADR: 94.14801494009998
+Cumulative Statistics (for 322 simulation)
+    POMCP: 
+        AVG_ADR: 10.719143446373295
+Simulation 323
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 323 simulation)
+    POMCP: 
+        AVG_ADR: 10.685957243752945
+Simulation 324
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 324 simulation)
+    POMCP: 
+        AVG_ADR: 10.652975894235189
+Simulation 325
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 325 simulation)
+    POMCP: 
+        AVG_ADR: 10.620197506868312
+Simulation 326
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 326 simulation)
+    POMCP: 
+        AVG_ADR: 10.587620213902458
+Simulation 327
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 327 simulation)
+    POMCP: 
+        AVG_ADR: 10.555242170434866
+Simulation 328
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 328 simulation)
+    POMCP: 
+        AVG_ADR: 10.52306155406159
+Simulation 329
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 329 simulation)
+    POMCP: 
+        AVG_ADR: 10.491076564535566
+Simulation 330
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 330 simulation)
+    POMCP: 
+        AVG_ADR: 10.459285423430913
+Simulation 331
+    POMCP: 
+        ADR: 94.14801494009998
+Cumulative Statistics (for 331 simulation)
+    POMCP: 
+        AVG_ADR: 10.71212146426677
+Simulation 332
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 332 simulation)
+    POMCP: 
+        AVG_ADR: 10.679856038169582
+Simulation 333
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 333 simulation)
+    POMCP: 
+        AVG_ADR: 10.647784398415318
+Simulation 334
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 334 simulation)
+    POMCP: 
+        AVG_ADR: 10.615904804408087
+Simulation 335
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 335 simulation)
+    POMCP: 
+        AVG_ADR: 10.584215536335227
+Simulation 336
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 336 simulation)
+    POMCP: 
+        AVG_ADR: 10.552714894858038
+Simulation 337
+    POMCP: 
+        ADR: 96.059601
+Cumulative Statistics (for 337 simulation)
+    POMCP: 
+        AVG_ADR: 10.806444527217511
+Simulation 338
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 338 simulation)
+    POMCP: 
+        AVG_ADR: 10.774472797847045
+Simulation 339
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 339 simulation)
+    POMCP: 
+        AVG_ADR: 10.742689692248677
+Simulation 340
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 340 simulation)
+    POMCP: 
+        AVG_ADR: 10.711093546095004
+Simulation 341
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 341 simulation)
+    POMCP: 
+        AVG_ADR: 10.679682714581528
+Simulation 342
+    POMCP: 
+        ADR: 95.09900499
+Cumulative Statistics (for 342 simulation)
+    POMCP: 
+        AVG_ADR: 10.926522838193863
+Simulation 343
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 343 simulation)
+    POMCP: 
+        AVG_ADR: 10.894667086479012
+Simulation 344
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 344 simulation)
+    POMCP: 
+        AVG_ADR: 10.862996542622968
+Simulation 345
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 345 simulation)
+    POMCP: 
+        AVG_ADR: 10.831509596122611
+Simulation 346
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 346 simulation)
+    POMCP: 
+        AVG_ADR: 10.800204655093356
+Simulation 347
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 347 simulation)
+    POMCP: 
+        AVG_ADR: 10.769080146000867
+Simulation 348
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 348 simulation)
+    POMCP: 
+        AVG_ADR: 10.738134513397418
+Simulation 349
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 349 simulation)
+    POMCP: 
+        AVG_ADR: 10.707366219662754
+Simulation 350
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 350 simulation)
+    POMCP: 
+        AVG_ADR: 10.676773744749433
+Simulation 351
+    POMCP: 
+        ADR: 92.274469442792
+Cumulative Statistics (for 351 simulation)
+    POMCP: 
+        AVG_ADR: 10.909245812265222
+Simulation 352
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 352 simulation)
+    POMCP: 
+        AVG_ADR: 10.878253636662196
+Simulation 353
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 353 simulation)
+    POMCP: 
+        AVG_ADR: 10.847437054122077
+Simulation 354
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 354 simulation)
+    POMCP: 
+        AVG_ADR: 10.81679457656806
+Simulation 355
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 355 simulation)
+    POMCP: 
+        AVG_ADR: 10.786324732690403
+Simulation 356
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 356 simulation)
+    POMCP: 
+        AVG_ADR: 10.756026067710936
+Simulation 357
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 357 simulation)
+    POMCP: 
+        AVG_ADR: 10.725897143151522
+Simulation 358
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 358 simulation)
+    POMCP: 
+        AVG_ADR: 10.695936536606405
+Simulation 359
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 359 simulation)
+    POMCP: 
+        AVG_ADR: 10.666142841518365
+Simulation 360
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 360 simulation)
+    POMCP: 
+        AVG_ADR: 10.636514666958591
+Simulation 361
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 361 simulation)
+    POMCP: 
+        AVG_ADR: 10.60705063741023
+Simulation 362
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 362 simulation)
+    POMCP: 
+        AVG_ADR: 10.577749392555505
+Simulation 363
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 363 simulation)
+    POMCP: 
+        AVG_ADR: 10.548609587066373
+Simulation 364
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 364 simulation)
+    POMCP: 
+        AVG_ADR: 10.519629890398608
+Simulation 365
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 365 simulation)
+    POMCP: 
+        AVG_ADR: 10.490808986589297
+Simulation 366
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 366 simulation)
+    POMCP: 
+        AVG_ADR: 10.462145574057631
+Simulation 367
+    POMCP: 
+        ADR: 96.059601
+Cumulative Statistics (for 367 simulation)
+    POMCP: 
+        AVG_ADR: 10.695381147425321
+Simulation 368
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 368 simulation)
+    POMCP: 
+        AVG_ADR: 10.666317611698622
+Simulation 369
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 369 simulation)
+    POMCP: 
+        AVG_ADR: 10.637411601910822
+Simulation 370
+    POMCP: 
+        ADR: 93.206534790699
+Cumulative Statistics (for 370 simulation)
+    POMCP: 
+        AVG_ADR: 10.860571394312952
+Simulation 371
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 371 simulation)
+    POMCP: 
+        AVG_ADR: 10.83129761696979
+Simulation 372
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 372 simulation)
+    POMCP: 
+        AVG_ADR: 10.802181225526324
+Simulation 373
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 373 simulation)
+    POMCP: 
+        AVG_ADR: 10.773220954144215
+Simulation 374
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 374 simulation)
+    POMCP: 
+        AVG_ADR: 10.74441555052351
+Simulation 375
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 375 simulation)
+    POMCP: 
+        AVG_ADR: 10.715763775722113
+Simulation 376
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 376 simulation)
+    POMCP: 
+        AVG_ADR: 10.68726440397817
+Simulation 377
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 377 simulation)
+    POMCP: 
+        AVG_ADR: 10.658916222535257
+Simulation 378
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 378 simulation)
+    POMCP: 
+        AVG_ADR: 10.63071803147035
+Simulation 379
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 379 simulation)
+    POMCP: 
+        AVG_ADR: 10.602668643524519
+Simulation 380
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 380 simulation)
+    POMCP: 
+        AVG_ADR: 10.574766883936295
+Simulation 381
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 381 simulation)
+    POMCP: 
+        AVG_ADR: 10.54701159027767
+Simulation 382
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 382 simulation)
+    POMCP: 
+        AVG_ADR: 10.51940161229265
+Simulation 383
+    POMCP: 
+        ADR: 98.00999999999999
+Cumulative Statistics (for 383 simulation)
+    POMCP: 
+        AVG_ADR: 10.747836595028177
+Simulation 384
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 384 simulation)
+    POMCP: 
+        AVG_ADR: 10.719847437228625
+Simulation 385
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 385 simulation)
+    POMCP: 
+        AVG_ADR: 10.692003677651408
+Simulation 386
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 386 simulation)
+    POMCP: 
+        AVG_ADR: 10.664304186258528
+Simulation 387
+    POMCP: 
+        ADR: 96.059601
+Cumulative Statistics (for 387 simulation)
+    POMCP: 
+        AVG_ADR: 10.884963867947782
+Simulation 388
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 388 simulation)
+    POMCP: 
+        AVG_ADR: 10.85690983736029
+Simulation 389
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 389 simulation)
+    POMCP: 
+        AVG_ADR: 10.829000043433913
+Simulation 390
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 390 simulation)
+    POMCP: 
+        AVG_ADR: 10.801233376655876
+Simulation 391
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 391 simulation)
+    POMCP: 
+        AVG_ADR: 10.773608738863919
+Simulation 392
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 392 simulation)
+    POMCP: 
+        AVG_ADR: 10.746125043101511
+Simulation 393
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 393 simulation)
+    POMCP: 
+        AVG_ADR: 10.718781213475298
+Simulation 394
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 394 simulation)
+    POMCP: 
+        AVG_ADR: 10.6915761850147
+Simulation 395
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 395 simulation)
+    POMCP: 
+        AVG_ADR: 10.664508903533651
+Simulation 396
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 396 simulation)
+    POMCP: 
+        AVG_ADR: 10.637578325494424
+Simulation 397
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 397 simulation)
+    POMCP: 
+        AVG_ADR: 10.610783417873531
+Simulation 398
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 398 simulation)
+    POMCP: 
+        AVG_ADR: 10.584123158029628
+Simulation 399
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 399 simulation)
+    POMCP: 
+        AVG_ADR: 10.557596533573413
+Simulation 400
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 400 simulation)
+    POMCP: 
+        AVG_ADR: 10.53120254223948
+Simulation 401
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 401 simulation)
+    POMCP: 
+        AVG_ADR: 10.50494019176008
+Simulation 402
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 402 simulation)
+    POMCP: 
+        AVG_ADR: 10.478808499740776
+Simulation 403
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 403 simulation)
+    POMCP: 
+        AVG_ADR: 10.452806493537945
+Simulation 404
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 404 simulation)
+    POMCP: 
+        AVG_ADR: 10.426933210138099
+Simulation 405
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 405 simulation)
+    POMCP: 
+        AVG_ADR: 10.401187696038992
+Simulation 406
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 406 simulation)
+    POMCP: 
+        AVG_ADR: 10.375569007132492
+Simulation 407
+    POMCP: 
+        ADR: 95.09900499
+Cumulative Statistics (for 407 simulation)
+    POMCP: 
+        AVG_ADR: 10.583734697508088
+Simulation 408
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 408 simulation)
+    POMCP: 
+        AVG_ADR: 10.557794171288705
+Simulation 409
+    POMCP: 
+        ADR: 95.09900499
+Cumulative Statistics (for 409 simulation)
+    POMCP: 
+        AVG_ADR: 10.764496398229321
+Simulation 410
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 410 simulation)
+    POMCP: 
+        AVG_ADR: 10.738241528965347
+Simulation 411
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 411 simulation)
+    POMCP: 
+        AVG_ADR: 10.712114420622365
+Simulation 412
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 412 simulation)
+    POMCP: 
+        AVG_ADR: 10.686114142902408
+Simulation 413
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 413 simulation)
+    POMCP: 
+        AVG_ADR: 10.660239774517656
+Simulation 414
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 414 simulation)
+    POMCP: 
+        AVG_ADR: 10.634490403081625
+Simulation 415
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 415 simulation)
+    POMCP: 
+        AVG_ADR: 10.608865125001909
+Simulation 416
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 416 simulation)
+    POMCP: 
+        AVG_ADR: 10.583363045374501
+Simulation 417
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 417 simulation)
+    POMCP: 
+        AVG_ADR: 10.557983277879599
+Simulation 418
+    POMCP: 
+        ADR: 88.63848717161291
+Cumulative Statistics (for 418 simulation)
+    POMCP: 
+        AVG_ADR: 10.744778741740204
+Simulation 419
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 419 simulation)
+    POMCP: 
+        AVG_ADR: 10.719134878394762
+Simulation 420
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 420 simulation)
+    POMCP: 
+        AVG_ADR: 10.693613128684298
+Simulation 421
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 421 simulation)
+    POMCP: 
+        AVG_ADR: 10.668212622440391
+Simulation 422
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 422 simulation)
+    POMCP: 
+        AVG_ADR: 10.642932497742667
+Simulation 423
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 423 simulation)
+    POMCP: 
+        AVG_ADR: 10.617771900821289
+Simulation 424
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 424 simulation)
+    POMCP: 
+        AVG_ADR: 10.592729985960862
+Simulation 425
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 425 simulation)
+    POMCP: 
+        AVG_ADR: 10.567805915405659
+Simulation 426
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 426 simulation)
+    POMCP: 
+        AVG_ADR: 10.54299885926621
+Simulation 427
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 427 simulation)
+    POMCP: 
+        AVG_ADR: 10.518307995427177
+Simulation 428
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 428 simulation)
+    POMCP: 
+        AVG_ADR: 10.493732509456553
+Simulation 429
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 429 simulation)
+    POMCP: 
+        AVG_ADR: 10.469271594516096
+Simulation 430
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 430 simulation)
+    POMCP: 
+        AVG_ADR: 10.444924451273035
+Simulation 431
+    POMCP: 
+        ADR: 96.059601
+Cumulative Statistics (for 431 simulation)
+    POMCP: 
+        AVG_ADR: 10.643566392221357
+Simulation 432
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 432 simulation)
+    POMCP: 
+        AVG_ADR: 10.618928507054179
+Simulation 433
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 433 simulation)
+    POMCP: 
+        AVG_ADR: 10.594404422742274
+Simulation 434
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 434 simulation)
+    POMCP: 
+        AVG_ADR: 10.56999335264379
+Simulation 435
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 435 simulation)
+    POMCP: 
+        AVG_ADR: 10.545694517350356
+Simulation 436
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 436 simulation)
+    POMCP: 
+        AVG_ADR: 10.52150714460414
+Simulation 437
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 437 simulation)
+    POMCP: 
+        AVG_ADR: 10.49743046921603
+Simulation 438
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 438 simulation)
+    POMCP: 
+        AVG_ADR: 10.473463732984943
+Simulation 439
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 439 simulation)
+    POMCP: 
+        AVG_ADR: 10.449606184618235
+Simulation 440
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 440 simulation)
+    POMCP: 
+        AVG_ADR: 10.425857079653193
+Simulation 441
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 441 simulation)
+    POMCP: 
+        AVG_ADR: 10.402215680379603
+Simulation 442
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 442 simulation)
+    POMCP: 
+        AVG_ADR: 10.37868125576336
+Simulation 443
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 443 simulation)
+    POMCP: 
+        AVG_ADR: 10.355253081371117
+Simulation 444
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 444 simulation)
+    POMCP: 
+        AVG_ADR: 10.331930439295958
+Simulation 445
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 445 simulation)
+    POMCP: 
+        AVG_ADR: 10.308712618084057
+Simulation 446
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 446 simulation)
+    POMCP: 
+        AVG_ADR: 10.285598912662342
+Simulation 447
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 447 simulation)
+    POMCP: 
+        AVG_ADR: 10.262588624267124
+Simulation 448
+    POMCP: 
+        ADR: 92.274469442792
+Cumulative Statistics (for 448 simulation)
+    POMCP: 
+        AVG_ADR: 10.445650858237046
+Simulation 449
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 449 simulation)
+    POMCP: 
+        AVG_ADR: 10.422386602428055
+Simulation 450
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 450 simulation)
+    POMCP: 
+        AVG_ADR: 10.399225743311549
+Simulation 451
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 451 simulation)
+    POMCP: 
+        AVG_ADR: 10.376167593104649
+Simulation 452
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 452 simulation)
+    POMCP: 
+        AVG_ADR: 10.353211470111056
+Simulation 453
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 453 simulation)
+    POMCP: 
+        AVG_ADR: 10.330356698653857
+Simulation 454
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 454 simulation)
+    POMCP: 
+        AVG_ADR: 10.307602609009244
+Simulation 455
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 455 simulation)
+    POMCP: 
+        AVG_ADR: 10.284948537341092
+Simulation 456
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 456 simulation)
+    POMCP: 
+        AVG_ADR: 10.262393825636396
+Simulation 457
+    POMCP: 
+        ADR: 88.63848717161291
+Cumulative Statistics (for 457 simulation)
+    POMCP: 
+        AVG_ADR: 10.433895123986455
+Simulation 458
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 458 simulation)
+    POMCP: 
+        AVG_ADR: 10.411113693584737
+Simulation 459
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 459 simulation)
+    POMCP: 
+        AVG_ADR: 10.388431528674966
+Simulation 460
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 460 simulation)
+    POMCP: 
+        AVG_ADR: 10.365847981873499
+Simulation 461
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 461 simulation)
+    POMCP: 
+        AVG_ADR: 10.343362411413903
+Simulation 462
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 462 simulation)
+    POMCP: 
+        AVG_ADR: 10.320974181086168
+Simulation 463
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 463 simulation)
+    POMCP: 
+        AVG_ADR: 10.298682660176695
+Simulation 464
+    POMCP: 
+        ADR: 94.14801494009998
+Cumulative Statistics (for 464 simulation)
+    POMCP: 
+        AVG_ADR: 10.479392428021356
+Simulation 465
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 465 simulation)
+    POMCP: 
+        AVG_ADR: 10.45685610021916
+Simulation 466
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 466 simulation)
+    POMCP: 
+        AVG_ADR: 10.434416494853883
+Simulation 467
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 467 simulation)
+    POMCP: 
+        AVG_ADR: 10.412072990582246
+Simulation 468
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 468 simulation)
+    POMCP: 
+        AVG_ADR: 10.3898249713716
+Simulation 469
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 469 simulation)
+    POMCP: 
+        AVG_ADR: 10.367671826443303
+Simulation 470
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 470 simulation)
+    POMCP: 
+        AVG_ADR: 10.345612950216829
+Simulation 471
+    POMCP: 
+        ADR: 93.206534790699
+Cumulative Statistics (for 471 simulation)
+    POMCP: 
+        AVG_ADR: 10.521538474294285
+Simulation 472
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 472 simulation)
+    POMCP: 
+        AVG_ADR: 10.499247079221627
+Simulation 473
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 473 simulation)
+    POMCP: 
+        AVG_ADR: 10.477049939519256
+Simulation 474
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 474 simulation)
+    POMCP: 
+        AVG_ADR: 10.454946458634195
+Simulation 475
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 475 simulation)
+    POMCP: 
+        AVG_ADR: 10.43293604503707
+Simulation 476
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 476 simulation)
+    POMCP: 
+        AVG_ADR: 10.411018112169344
+Simulation 477
+    POMCP: 
+        ADR: 92.274469442792
+Cumulative Statistics (for 477 simulation)
+    POMCP: 
+        AVG_ADR: 10.582639603428513
+Simulation 478
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 478 simulation)
+    POMCP: 
+        AVG_ADR: 10.560500190032219
+Simulation 479
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 479 simulation)
+    POMCP: 
+        AVG_ADR: 10.538453216775366
+Simulation 480
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 480 simulation)
+    POMCP: 
+        AVG_ADR: 10.516498105907084
+Simulation 481
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 481 simulation)
+    POMCP: 
+        AVG_ADR: 10.494634284481082
+Simulation 482
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 482 simulation)
+    POMCP: 
+        AVG_ADR: 10.47286118430581
+Simulation 483
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 483 simulation)
+    POMCP: 
+        AVG_ADR: 10.451178241895239
+Simulation 484
+    POMCP: 
+        ADR: 89.53382542587163
+Cumulative Statistics (for 484 simulation)
+    POMCP: 
+        AVG_ADR: 10.614572141035685
+Simulation 485
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 485 simulation)
+    POMCP: 
+        AVG_ADR: 10.592686425280972
+Simulation 486
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 486 simulation)
+    POMCP: 
+        AVG_ADR: 10.570890774200148
+Simulation 487
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 487 simulation)
+    POMCP: 
+        AVG_ADR: 10.549184632980024
+Simulation 488
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 488 simulation)
+    POMCP: 
+        AVG_ADR: 10.527567451355065
+Simulation 489
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 489 simulation)
+    POMCP: 
+        AVG_ADR: 10.506038683560883
+Simulation 490
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 490 simulation)
+    POMCP: 
+        AVG_ADR: 10.48459778828831
+Simulation 491
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 491 simulation)
+    POMCP: 
+        AVG_ADR: 10.463244228638027
+Simulation 492
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 492 simulation)
+    POMCP: 
+        AVG_ADR: 10.441977472075756
+Simulation 493
+    POMCP: 
+        ADR: 93.206534790699
+Cumulative Statistics (for 493 simulation)
+    POMCP: 
+        AVG_ADR: 10.609856898685539
+Simulation 494
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 494 simulation)
+    POMCP: 
+        AVG_ADR: 10.588379455570792
+Simulation 495
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 495 simulation)
+    POMCP: 
+        AVG_ADR: 10.56698879000398
+Simulation 496
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 496 simulation)
+    POMCP: 
+        AVG_ADR: 10.545684377120908
+Simulation 497
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 497 simulation)
+    POMCP: 
+        AVG_ADR: 10.52446569628163
+Simulation 498
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 498 simulation)
+    POMCP: 
+        AVG_ADR: 10.503332231028054
+Simulation 499
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 499 simulation)
+    POMCP: 
+        AVG_ADR: 10.482283469042025
+Simulation 500
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 500 simulation)
+    POMCP: 
+        AVG_ADR: 10.461318902103942
+Simulation 501
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 501 simulation)
+    POMCP: 
+        AVG_ADR: 10.440438026051838
+Simulation 502
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 502 simulation)
+    POMCP: 
+        AVG_ADR: 10.419640340740978
+Simulation 503
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 503 simulation)
+    POMCP: 
+        AVG_ADR: 10.398925350003918
+Simulation 504
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 504 simulation)
+    POMCP: 
+        AVG_ADR: 10.378292561611053
+Simulation 505
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 505 simulation)
+    POMCP: 
+        AVG_ADR: 10.357741487231625
+Simulation 506
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 506 simulation)
+    POMCP: 
+        AVG_ADR: 10.3372716423952
+Simulation 507
+    POMCP: 
+        ADR: 90.43820750088042
+Cumulative Statistics (for 507 simulation)
+    POMCP: 
+        AVG_ADR: 10.495261653950397
+Simulation 508
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 508 simulation)
+    POMCP: 
+        AVG_ADR: 10.474601690064668
+Simulation 509
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 509 simulation)
+    POMCP: 
+        AVG_ADR: 10.454022904818961
+Simulation 510
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 510 simulation)
+    POMCP: 
+        AVG_ADR: 10.433524820691865
+Simulation 511
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 511 simulation)
+    POMCP: 
+        AVG_ADR: 10.413106963899905
+Simulation 512
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 512 simulation)
+    POMCP: 
+        AVG_ADR: 10.392768864361038
+Simulation 513
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 513 simulation)
+    POMCP: 
+        AVG_ADR: 10.37251005565858
+Simulation 514
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 514 simulation)
+    POMCP: 
+        AVG_ADR: 10.352330075005547
+Simulation 515
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 515 simulation)
+    POMCP: 
+        AVG_ADR: 10.33222846320942
+Simulation 516
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 516 simulation)
+    POMCP: 
+        AVG_ADR: 10.31220476463731
+Simulation 517
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 517 simulation)
+    POMCP: 
+        AVG_ADR: 10.29225852718153
+Simulation 518
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 518 simulation)
+    POMCP: 
+        AVG_ADR: 10.272389302225582
+Simulation 519
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 519 simulation)
+    POMCP: 
+        AVG_ADR: 10.252596644610504
+Simulation 520
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 520 simulation)
+    POMCP: 
+        AVG_ADR: 10.232880112601638
+Simulation 521
+    POMCP: 
+        ADR: 95.09900499
+Cumulative Statistics (for 521 simulation)
+    POMCP: 
+        AVG_ADR: 10.39577094729914
+Simulation 522
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 522 simulation)
+    POMCP: 
+        AVG_ADR: 10.375855677285156
+Simulation 523
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 523 simulation)
+    POMCP: 
+        AVG_ADR: 10.356016565091494
+Simulation 524
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 524 simulation)
+    POMCP: 
+        AVG_ADR: 10.336253174700099
+Simulation 525
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 525 simulation)
+    POMCP: 
+        AVG_ADR: 10.316565073414955
+Simulation 526
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 526 simulation)
+    POMCP: 
+        AVG_ADR: 10.296951831830516
+Simulation 527
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 527 simulation)
+    POMCP: 
+        AVG_ADR: 10.277413023800477
+Simulation 528
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 528 simulation)
+    POMCP: 
+        AVG_ADR: 10.257948226406915
+Simulation 529
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 529 simulation)
+    POMCP: 
+        AVG_ADR: 10.238557019929777
+Simulation 530
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 530 simulation)
+    POMCP: 
+        AVG_ADR: 10.219238987816702
+Simulation 531
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 531 simulation)
+    POMCP: 
+        AVG_ADR: 10.199993716653205
+Simulation 532
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 532 simulation)
+    POMCP: 
+        AVG_ADR: 10.18082079613318
+Simulation 533
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 533 simulation)
+    POMCP: 
+        AVG_ADR: 10.16171981902974
+Simulation 534
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 534 simulation)
+    POMCP: 
+        AVG_ADR: 10.142690381166389
+Simulation 535
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 535 simulation)
+    POMCP: 
+        AVG_ADR: 10.123732081388507
+Simulation 536
+    POMCP: 
+        ADR: 96.059601
+Cumulative Statistics (for 536 simulation)
+    POMCP: 
+        AVG_ADR: 10.284060195042633
+Simulation 537
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 537 simulation)
+    POMCP: 
+        AVG_ADR: 10.264909244958755
+Simulation 538
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 538 simulation)
+    POMCP: 
+        AVG_ADR: 10.245829487997865
+Simulation 539
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 539 simulation)
+    POMCP: 
+        AVG_ADR: 10.226820527908815
+Simulation 540
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 540 simulation)
+    POMCP: 
+        AVG_ADR: 10.20788197137565
+Simulation 541
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 541 simulation)
+    POMCP: 
+        AVG_ADR: 10.189013427990483
+Simulation 542
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 542 simulation)
+    POMCP: 
+        AVG_ADR: 10.170214510226664
+Simulation 543
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 543 simulation)
+    POMCP: 
+        AVG_ADR: 10.15148483341225
+Simulation 544
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 544 simulation)
+    POMCP: 
+        AVG_ADR: 10.132824015703772
+Simulation 545
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 545 simulation)
+    POMCP: 
+        AVG_ADR: 10.114231678060278
+Simulation 546
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 546 simulation)
+    POMCP: 
+        AVG_ADR: 10.095707444217677
+Simulation 547
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 547 simulation)
+    POMCP: 
+        AVG_ADR: 10.07725094066335
+Simulation 548
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 548 simulation)
+    POMCP: 
+        AVG_ADR: 10.058861796611042
+Simulation 549
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 549 simulation)
+    POMCP: 
+        AVG_ADR: 10.04053964397605
+Simulation 550
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 550 simulation)
+    POMCP: 
+        AVG_ADR: 10.022284117350639
+Simulation 551
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 551 simulation)
+    POMCP: 
+        AVG_ADR: 10.004094853979767
+Simulation 552
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 552 simulation)
+    POMCP: 
+        AVG_ADR: 9.98597149373705
+Simulation 553
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 553 simulation)
+    POMCP: 
+        AVG_ADR: 9.967913679100997
+Simulation 554
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 554 simulation)
+    POMCP: 
+        AVG_ADR: 9.949921055131501
+Simulation 555
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 555 simulation)
+    POMCP: 
+        AVG_ADR: 9.93199326944658
+Simulation 556
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 556 simulation)
+    POMCP: 
+        AVG_ADR: 9.914129972199373
+Simulation 557
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 557 simulation)
+    POMCP: 
+        AVG_ADR: 9.89633081605539
+Simulation 558
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 558 simulation)
+    POMCP: 
+        AVG_ADR: 9.878595456169984
+Simulation 559
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 559 simulation)
+    POMCP: 
+        AVG_ADR: 9.860923550166103
+Simulation 560
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 560 simulation)
+    POMCP: 
+        AVG_ADR: 9.843314758112236
+Simulation 561
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 561 simulation)
+    POMCP: 
+        AVG_ADR: 9.825768742500626
+Simulation 562
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 562 simulation)
+    POMCP: 
+        AVG_ADR: 9.808285168225714
+Simulation 563
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 563 simulation)
+    POMCP: 
+        AVG_ADR: 9.790863702562792
+Simulation 564
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 564 simulation)
+    POMCP: 
+        AVG_ADR: 9.7735040151469
+Simulation 565
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 565 simulation)
+    POMCP: 
+        AVG_ADR: 9.75620577795195
+Simulation 566
+    POMCP: 
+        ADR: 91.35172474836408
+Cumulative Statistics (for 566 simulation)
+    POMCP: 
+        AVG_ADR: 9.900367472245964
+Simulation 567
+    POMCP: 
+        ADR: 92.274469442792
+Cumulative Statistics (for 567 simulation)
+    POMCP: 
+        AVG_ADR: 10.04564807536862
+Simulation 568
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 568 simulation)
+    POMCP: 
+        AVG_ADR: 10.02796207523593
+Simulation 569
+    POMCP: 
+        ADR: 89.53382542587163
+Cumulative Statistics (for 569 simulation)
+    POMCP: 
+        AVG_ADR: 10.167691184815252
+Simulation 570
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 570 simulation)
+    POMCP: 
+        AVG_ADR: 10.14985313010505
+Simulation 571
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 571 simulation)
+    POMCP: 
+        AVG_ADR: 10.132077555446374
+Simulation 572
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 572 simulation)
+    POMCP: 
+        AVG_ADR: 10.114364133146642
+Simulation 573
+    POMCP: 
+        ADR: 93.206534790699
+Cumulative Statistics (for 573 simulation)
+    POMCP: 
+        AVG_ADR: 10.259376647383208
+Simulation 574
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 574 simulation)
+    POMCP: 
+        AVG_ADR: 10.241503168903446
+Simulation 575
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 575 simulation)
+    POMCP: 
+        AVG_ADR: 10.223691859044484
+Simulation 576
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 576 simulation)
+    POMCP: 
+        AVG_ADR: 10.205942394011421
+Simulation 577
+    POMCP: 
+        ADR: 98.00999999999999
+Cumulative Statistics (for 577 simulation)
+    POMCP: 
+        AVG_ADR: 10.358115804073792
+Simulation 578
+    POMCP: 
+        ADR: 96.059601
+Cumulative Statistics (for 578 simulation)
+    POMCP: 
+        AVG_ADR: 10.506388269810689
+Simulation 579
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 579 simulation)
+    POMCP: 
+        AVG_ADR: 10.48824252150359
+Simulation 580
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 580 simulation)
+    POMCP: 
+        AVG_ADR: 10.470159344742376
+Simulation 581
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 581 simulation)
+    POMCP: 
+        AVG_ADR: 10.452138416438173
+Simulation 582
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 582 simulation)
+    POMCP: 
+        AVG_ADR: 10.434179415722642
+Simulation 583
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 583 simulation)
+    POMCP: 
+        AVG_ADR: 10.41628202392895
+Simulation 584
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 584 simulation)
+    POMCP: 
+        AVG_ADR: 10.398445924572908
+Simulation 585
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 585 simulation)
+    POMCP: 
+        AVG_ADR: 10.380670803334322
+Simulation 586
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 586 simulation)
+    POMCP: 
+        AVG_ADR: 10.36295634803853
+Simulation 587
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 587 simulation)
+    POMCP: 
+        AVG_ADR: 10.345302248638124
+Simulation 588
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 588 simulation)
+    POMCP: 
+        AVG_ADR: 10.32770819719486
+Simulation 589
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 589 simulation)
+    POMCP: 
+        AVG_ADR: 10.310173887861763
+Simulation 590
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 590 simulation)
+    POMCP: 
+        AVG_ADR: 10.292699016865386
+Simulation 591
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 591 simulation)
+    POMCP: 
+        AVG_ADR: 10.275283282488289
+Simulation 592
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 592 simulation)
+    POMCP: 
+        AVG_ADR: 10.257926385051652
+Simulation 593
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 593 simulation)
+    POMCP: 
+        AVG_ADR: 10.240628026898108
+Simulation 594
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 594 simulation)
+    POMCP: 
+        AVG_ADR: 10.223387912374712
+Simulation 595
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 595 simulation)
+    POMCP: 
+        AVG_ADR: 10.206205747816098
+Simulation 596
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 596 simulation)
+    POMCP: 
+        AVG_ADR: 10.189081241527816
+Simulation 597
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 597 simulation)
+    POMCP: 
+        AVG_ADR: 10.172014103769813
+Simulation 598
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 598 simulation)
+    POMCP: 
+        AVG_ADR: 10.155004046740098
+Simulation 599
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 599 simulation)
+    POMCP: 
+        AVG_ADR: 10.138050784558562
+Simulation 600
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 600 simulation)
+    POMCP: 
+        AVG_ADR: 10.121154033250964
+Simulation 601
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 601 simulation)
+    POMCP: 
+        AVG_ADR: 10.104313510733075
+Simulation 602
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 602 simulation)
+    POMCP: 
+        AVG_ADR: 10.08752893679498
+Simulation 603
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 603 simulation)
+    POMCP: 
+        AVG_ADR: 10.070800033085536
+Simulation 604
+    POMCP: 
+        ADR: 94.14801494009998
+Cumulative Statistics (for 604 simulation)
+    POMCP: 
+        AVG_ADR: 10.21000072001768
+Simulation 605
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 605 simulation)
+    POMCP: 
+        AVG_ADR: 10.193124685769718
+Simulation 606
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 606 simulation)
+    POMCP: 
+        AVG_ADR: 10.17630434800442
+Simulation 607
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 607 simulation)
+    POMCP: 
+        AVG_ADR: 10.159539431450872
+Simulation 608
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 608 simulation)
+    POMCP: 
+        AVG_ADR: 10.142829662649143
+Simulation 609
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 609 simulation)
+    POMCP: 
+        AVG_ADR: 10.126174769935433
+Simulation 610
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 610 simulation)
+    POMCP: 
+        AVG_ADR: 10.109574483427343
+Simulation 611
+    POMCP: 
+        ADR: 95.09900499
+Cumulative Statistics (for 611 simulation)
+    POMCP: 
+        AVG_ADR: 10.248673387693419
+Simulation 612
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 612 simulation)
+    POMCP: 
+        AVG_ADR: 10.231927189347514
+Simulation 613
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 613 simulation)
+    POMCP: 
+        AVG_ADR: 10.215235627864077
+Simulation 614
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 614 simulation)
+    POMCP: 
+        AVG_ADR: 10.198598436287751
+Simulation 615
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 615 simulation)
+    POMCP: 
+        AVG_ADR: 10.182015349399478
+Simulation 616
+    POMCP: 
+        ADR: 96.059601
+Cumulative Statistics (for 616 simulation)
+    POMCP: 
+        AVG_ADR: 10.321427014416686
+Simulation 617
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 617 simulation)
+    POMCP: 
+        AVG_ADR: 10.30469860758619
+Simulation 618
+    POMCP: 
+        ADR: 94.14801494009998
+Cumulative Statistics (for 618 simulation)
+    POMCP: 
+        AVG_ADR: 10.440367404240742
+Simulation 619
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 619 simulation)
+    POMCP: 
+        AVG_ADR: 10.423500897933407
+Simulation 620
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 620 simulation)
+    POMCP: 
+        AVG_ADR: 10.406688799710933
+Simulation 621
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 621 simulation)
+    POMCP: 
+        AVG_ADR: 10.389930846732332
+Simulation 622
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 622 simulation)
+    POMCP: 
+        AVG_ADR: 10.373226777846911
+Simulation 623
+    POMCP: 
+        ADR: 91.35172474836408
+Cumulative Statistics (for 623 simulation)
+    POMCP: 
+        AVG_ADR: 10.503208315520293
+Simulation 624
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 624 simulation)
+    POMCP: 
+        AVG_ADR: 10.486376250912087
+Simulation 625
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 625 simulation)
+    POMCP: 
+        AVG_ADR: 10.469598048910628
+Simulation 626
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 626 simulation)
+    POMCP: 
+        AVG_ADR: 10.452873451388406
+Simulation 627
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 627 simulation)
+    POMCP: 
+        AVG_ADR: 10.436202201864662
+Simulation 628
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 628 simulation)
+    POMCP: 
+        AVG_ADR: 10.419584045492265
+Simulation 629
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 629 simulation)
+    POMCP: 
+        AVG_ADR: 10.403018729044742
+Simulation 630
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 630 simulation)
+    POMCP: 
+        AVG_ADR: 10.3865060009034
+Simulation 631
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 631 simulation)
+    POMCP: 
+        AVG_ADR: 10.370045611044599
+Simulation 632
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 632 simulation)
+    POMCP: 
+        AVG_ADR: 10.353637311027125
+Simulation 633
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 633 simulation)
+    POMCP: 
+        AVG_ADR: 10.337280853979689
+Simulation 634
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 634 simulation)
+    POMCP: 
+        AVG_ADR: 10.320975994588553
+Simulation 635
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 635 simulation)
+    POMCP: 
+        AVG_ADR: 10.304722489085265
+Simulation 636
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 636 simulation)
+    POMCP: 
+        AVG_ADR: 10.288520095234501
+Simulation 637
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 637 simulation)
+    POMCP: 
+        AVG_ADR: 10.272368572322044
+Simulation 638
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 638 simulation)
+    POMCP: 
+        AVG_ADR: 10.256267681142857
+Simulation 639
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 639 simulation)
+    POMCP: 
+        AVG_ADR: 10.240217183989268
+Simulation 640
+    POMCP: 
+        ADR: 90.43820750088042
+Cumulative Statistics (for 640 simulation)
+    POMCP: 
+        AVG_ADR: 10.365526543859412
+Simulation 641
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 641 simulation)
+    POMCP: 
+        AVG_ADR: 10.34935567561626
+Simulation 642
+    POMCP: 
+        ADR: 90.43820750088042
+Cumulative Statistics (for 642 simulation)
+    POMCP: 
+        AVG_ADR: 10.474104665998293
+Simulation 643
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 643 simulation)
+    POMCP: 
+        AVG_ADR: 10.457815234169368
+Simulation 644
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 644 simulation)
+    POMCP: 
+        AVG_ADR: 10.44157639063805
+Simulation 645
+    POMCP: 
+        ADR: 91.35172474836408
+Cumulative Statistics (for 645 simulation)
+    POMCP: 
+        AVG_ADR: 10.567018481115145
+Simulation 646
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 646 simulation)
+    POMCP: 
+        AVG_ADR: 10.550660867367288
+Simulation 647
+    POMCP: 
+        ADR: 93.206534790699
+Cumulative Statistics (for 647 simulation)
+    POMCP: 
+        AVG_ADR: 10.678413377295158
+Simulation 648
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 648 simulation)
+    POMCP: 
+        AVG_ADR: 10.661934344305505
+Simulation 649
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 649 simulation)
+    POMCP: 
+        AVG_ADR: 10.645506094160195
+Simulation 650
+    POMCP: 
+        ADR: 93.206534790699
+Cumulative Statistics (for 650 simulation)
+    POMCP: 
+        AVG_ADR: 10.772523061385641
+Simulation 651
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 651 simulation)
+    POMCP: 
+        AVG_ADR: 10.755975406913466
+Simulation 652
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 652 simulation)
+    POMCP: 
+        AVG_ADR: 10.739478512117586
+Simulation 653
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 653 simulation)
+    POMCP: 
+        AVG_ADR: 10.723032143798877
+Simulation 654
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 654 simulation)
+    POMCP: 
+        AVG_ADR: 10.706636070184505
+Simulation 655
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 655 simulation)
+    POMCP: 
+        AVG_ADR: 10.690290060917048
+Simulation 656
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 656 simulation)
+    POMCP: 
+        AVG_ADR: 10.673993887043698
+Simulation 657
+    POMCP: 
+        ADR: 92.274469442792
+Cumulative Statistics (for 657 simulation)
+    POMCP: 
+        AVG_ADR: 10.798195524114853
+Simulation 658
+    POMCP: 
+        ADR: 91.35172474836408
+Cumulative Statistics (for 658 simulation)
+    POMCP: 
+        AVG_ADR: 10.920617301051402
+Simulation 659
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 659 simulation)
+    POMCP: 
+        AVG_ADR: 10.904045802870748
+Simulation 660
+    POMCP: 
+        ADR: 91.35172474836408
+Cumulative Statistics (for 660 simulation)
+    POMCP: 
+        AVG_ADR: 11.025936225515435
+Simulation 661
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 661 simulation)
+    POMCP: 
+        AVG_ADR: 11.00925553531042
+Simulation 662
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 662 simulation)
+    POMCP: 
+        AVG_ADR: 10.992625239939859
+Simulation 663
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 663 simulation)
+    POMCP: 
+        AVG_ADR: 10.97604511137283
+Simulation 664
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 664 simulation)
+    POMCP: 
+        AVG_ADR: 10.959514922952089
+Simulation 665
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 665 simulation)
+    POMCP: 
+        AVG_ADR: 10.94303444938374
+Simulation 666
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 666 simulation)
+    POMCP: 
+        AVG_ADR: 10.926603466727007
+Simulation 667
+    POMCP: 
+        ADR: 97.0299
+Cumulative Statistics (for 667 simulation)
+    POMCP: 
+        AVG_ADR: 11.055693866327116
+Simulation 668
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 668 simulation)
+    POMCP: 
+        AVG_ADR: 11.039143426407467
+Simulation 669
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 669 simulation)
+    POMCP: 
+        AVG_ADR: 11.022642464634062
+Simulation 670
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 670 simulation)
+    POMCP: 
+        AVG_ADR: 11.006190759462966
+Simulation 671
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 671 simulation)
+    POMCP: 
+        AVG_ADR: 10.98978809067092
+Simulation 672
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 672 simulation)
+    POMCP: 
+        AVG_ADR: 10.973434239345517
+Simulation 673
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 673 simulation)
+    POMCP: 
+        AVG_ADR: 10.957128987875464
+Simulation 674
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 674 simulation)
+    POMCP: 
+        AVG_ADR: 10.94087211994093
+Simulation 675
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 675 simulation)
+    POMCP: 
+        AVG_ADR: 10.92466342050398
+Simulation 676
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 676 simulation)
+    POMCP: 
+        AVG_ADR: 10.908502675799093
+Simulation 677
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 677 simulation)
+    POMCP: 
+        AVG_ADR: 10.892389673323763
+Simulation 678
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 678 simulation)
+    POMCP: 
+        AVG_ADR: 10.876324201829185
+Simulation 679
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 679 simulation)
+    POMCP: 
+        AVG_ADR: 10.860306051311026
+Simulation 680
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 680 simulation)
+    POMCP: 
+        AVG_ADR: 10.844335013000276
+Simulation 681
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 681 simulation)
+    POMCP: 
+        AVG_ADR: 10.828410879354166
+Simulation 682
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 682 simulation)
+    POMCP: 
+        AVG_ADR: 10.812533444047196
+Simulation 683
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 683 simulation)
+    POMCP: 
+        AVG_ADR: 10.796702501962207
+Simulation 684
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 684 simulation)
+    POMCP: 
+        AVG_ADR: 10.780917849181561
+Simulation 685
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 685 simulation)
+    POMCP: 
+        AVG_ADR: 10.765179282978375
+Simulation 686
+    POMCP: 
+        ADR: 94.14801494009998
+Cumulative Statistics (for 686 simulation)
+    POMCP: 
+        AVG_ADR: 10.886728606093712
+Simulation 687
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 687 simulation)
+    POMCP: 
+        AVG_ADR: 10.870881839563737
+Simulation 688
+    POMCP: 
+        ADR: 93.206534790699
+Cumulative Statistics (for 688 simulation)
+    POMCP: 
+        AVG_ADR: 10.990555753736897
+Simulation 689
+    POMCP: 
+        ADR: 92.274469442792
+Cumulative Statistics (for 689 simulation)
+    POMCP: 
+        AVG_ADR: 11.108529503648445
+Simulation 690
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 690 simulation)
+    POMCP: 
+        AVG_ADR: 11.092430185527215
+Simulation 691
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 691 simulation)
+    POMCP: 
+        AVG_ADR: 11.076377464564079
+Simulation 692
+    POMCP: 
+        ADR: 92.274469442792
+Cumulative Statistics (for 692 simulation)
+    POMCP: 
+        AVG_ADR: 11.193715747769609
+Simulation 693
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 693 simulation)
+    POMCP: 
+        AVG_ADR: 11.17756319979303
+Simulation 694
+    POMCP: 
+        ADR: 95.09900499
+Cumulative Statistics (for 694 simulation)
+    POMCP: 
+        AVG_ADR: 11.298487467502262
+Simulation 695
+    POMCP: 
+        ADR: 94.14801494009998
+Cumulative Statistics (for 695 simulation)
+    POMCP: 
+        AVG_ADR: 11.417695420700245
+Simulation 696
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 696 simulation)
+    POMCP: 
+        AVG_ADR: 11.401290685900388
+Simulation 697
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 697 simulation)
+    POMCP: 
+        AVG_ADR: 11.384933023510287
+Simulation 698
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 698 simulation)
+    POMCP: 
+        AVG_ADR: 11.368622231212996
+Simulation 699
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 699 simulation)
+    POMCP: 
+        AVG_ADR: 11.352358107849314
+Simulation 700
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 700 simulation)
+    POMCP: 
+        AVG_ADR: 11.336140453409529
+Simulation 701
+    POMCP: 
+        ADR: 88.63848717161291
+Cumulative Statistics (for 701 simulation)
+    POMCP: 
+        AVG_ADR: 11.446414842451189
+Simulation 702
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 702 simulation)
+    POMCP: 
+        AVG_ADR: 11.430109408202682
+Simulation 703
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 703 simulation)
+    POMCP: 
+        AVG_ADR: 11.41385036210282
+Simulation 704
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 704 simulation)
+    POMCP: 
+        AVG_ADR: 11.397637506474835
+Simulation 705
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 705 simulation)
+    POMCP: 
+        AVG_ADR: 11.381470644763523
+Simulation 706
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 706 simulation)
+    POMCP: 
+        AVG_ADR: 11.365349581527314
+Simulation 707
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 707 simulation)
+    POMCP: 
+        AVG_ADR: 11.349274122430387
+Simulation 708
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 708 simulation)
+    POMCP: 
+        AVG_ADR: 11.333244074234864
+Simulation 709
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 709 simulation)
+    POMCP: 
+        AVG_ADR: 11.317259244793066
+Simulation 710
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 710 simulation)
+    POMCP: 
+        AVG_ADR: 11.301319443039835
+Simulation 711
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 711 simulation)
+    POMCP: 
+        AVG_ADR: 11.285424478984927
+Simulation 712
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 712 simulation)
+    POMCP: 
+        AVG_ADR: 11.269574163705453
+Simulation 713
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 713 simulation)
+    POMCP: 
+        AVG_ADR: 11.253768309338406
+Simulation 714
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 714 simulation)
+    POMCP: 
+        AVG_ADR: 11.238006729073225
+Simulation 715
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 715 simulation)
+    POMCP: 
+        AVG_ADR: 11.222289237144452
+Simulation 716
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 716 simulation)
+    POMCP: 
+        AVG_ADR: 11.206615648824418
+Simulation 717
+    POMCP: 
+        ADR: 93.206534790699
+Cumulative Statistics (for 717 simulation)
+    POMCP: 
+        AVG_ADR: 11.32098094748812
+Simulation 718
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 718 simulation)
+    POMCP: 
+        AVG_ADR: 11.3052135645529
+Simulation 719
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 719 simulation)
+    POMCP: 
+        AVG_ADR: 11.28949004081917
+Simulation 720
+    POMCP: 
+        ADR: 93.206534790699
+Cumulative Statistics (for 720 simulation)
+    POMCP: 
+        AVG_ADR: 11.403263714082891
+Simulation 721
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 721 simulation)
+    POMCP: 
+        AVG_ADR: 11.387447814340751
+Simulation 722
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 722 simulation)
+    POMCP: 
+        AVG_ADR: 11.371675725955237
+Simulation 723
+    POMCP: 
+        ADR: 92.274469442792
+Cumulative Statistics (for 723 simulation)
+    POMCP: 
+        AVG_ADR: 11.483574472451552
+Simulation 724
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 724 simulation)
+    POMCP: 
+        AVG_ADR: 11.467713181743747
+Simulation 725
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 725 simulation)
+    POMCP: 
+        AVG_ADR: 11.451895646320652
+Simulation 726
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 726 simulation)
+    POMCP: 
+        AVG_ADR: 11.436121685375307
+Simulation 727
+    POMCP: 
+        ADR: 89.53382542587163
+Cumulative Statistics (for 727 simulation)
+    POMCP: 
+        AVG_ADR: 11.543546312253568
+Simulation 728
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 728 simulation)
+    POMCP: 
+        AVG_ADR: 11.527689792593879
+Simulation 729
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 729 simulation)
+    POMCP: 
+        AVG_ADR: 11.511876775045739
+Simulation 730
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 730 simulation)
+    POMCP: 
+        AVG_ADR: 11.496107080833347
+Simulation 731
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 731 simulation)
+    POMCP: 
+        AVG_ADR: 11.480380532159158
+Simulation 732
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 732 simulation)
+    POMCP: 
+        AVG_ADR: 11.46469695219719
+Simulation 733
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 733 simulation)
+    POMCP: 
+        AVG_ADR: 11.449056165086418
+Simulation 734
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 734 simulation)
+    POMCP: 
+        AVG_ADR: 11.433457995924174
+Simulation 735
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 735 simulation)
+    POMCP: 
+        AVG_ADR: 11.417902270759651
+Simulation 736
+    POMCP: 
+        ADR: 94.14801494009998
+Cumulative Statistics (for 736 simulation)
+    POMCP: 
+        AVG_ADR: 11.530307315147342
+Simulation 737
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 737 simulation)
+    POMCP: 
+        AVG_ADR: 11.514662393417156
+Simulation 738
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 738 simulation)
+    POMCP: 
+        AVG_ADR: 11.499059869848839
+Simulation 739
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 739 simulation)
+    POMCP: 
+        AVG_ADR: 11.483499572325364
+Simulation 740
+    POMCP: 
+        ADR: 96.059601
+Cumulative Statistics (for 740 simulation)
+    POMCP: 
+        AVG_ADR: 11.597791601281681
+Simulation 741
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 741 simulation)
+    POMCP: 
+        AVG_ADR: 11.58214006065917
+Simulation 742
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 742 simulation)
+    POMCP: 
+        AVG_ADR: 11.566530707477687
+Simulation 743
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 743 simulation)
+    POMCP: 
+        AVG_ADR: 11.550963371397637
+Simulation 744
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 744 simulation)
+    POMCP: 
+        AVG_ADR: 11.535437882995222
+Simulation 745
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 745 simulation)
+    POMCP: 
+        AVG_ADR: 11.5199540737563
+Simulation 746
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 746 simulation)
+    POMCP: 
+        AVG_ADR: 11.5045117760703
+Simulation 747
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 747 simulation)
+    POMCP: 
+        AVG_ADR: 11.489110823224156
+Simulation 748
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 748 simulation)
+    POMCP: 
+        AVG_ADR: 11.473751049396316
+Simulation 749
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 749 simulation)
+    POMCP: 
+        AVG_ADR: 11.458432289650794
+Simulation 750
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 750 simulation)
+    POMCP: 
+        AVG_ADR: 11.44315437993126
+Simulation 751
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 751 simulation)
+    POMCP: 
+        AVG_ADR: 11.427917157055186
+Simulation 752
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 752 simulation)
+    POMCP: 
+        AVG_ADR: 11.412720458708037
+Simulation 753
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 753 simulation)
+    POMCP: 
+        AVG_ADR: 11.397564123437508
+Simulation 754
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 754 simulation)
+    POMCP: 
+        AVG_ADR: 11.382447990647805
+Simulation 755
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 755 simulation)
+    POMCP: 
+        AVG_ADR: 11.367371900593966
+Simulation 756
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 756 simulation)
+    POMCP: 
+        AVG_ADR: 11.352335694376249
+Simulation 757
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 757 simulation)
+    POMCP: 
+        AVG_ADR: 11.337339213934536
+Simulation 758
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 758 simulation)
+    POMCP: 
+        AVG_ADR: 11.322382302042802
+Simulation 759
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 759 simulation)
+    POMCP: 
+        AVG_ADR: 11.307464802303615
+Simulation 760
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 760 simulation)
+    POMCP: 
+        AVG_ADR: 11.29258655914269
+Simulation 761
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 761 simulation)
+    POMCP: 
+        AVG_ADR: 11.277747417803475
+Simulation 762
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 762 simulation)
+    POMCP: 
+        AVG_ADR: 11.26294722434179
+Simulation 763
+    POMCP: 
+        ADR: 94.14801494009998
+Cumulative Statistics (for 763 simulation)
+    POMCP: 
+        AVG_ADR: 11.371577719382103
+Simulation 764
+    POMCP: 
+        ADR: 93.206534790699
+Cumulative Statistics (for 764 simulation)
+    POMCP: 
+        AVG_ADR: 11.478691537538277
+Simulation 765
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 765 simulation)
+    POMCP: 
+        AVG_ADR: 11.46368671199901
+Simulation 766
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 766 simulation)
+    POMCP: 
+        AVG_ADR: 11.448721063549925
+Simulation 767
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 767 simulation)
+    POMCP: 
+        AVG_ADR: 11.433794438955989
+Simulation 768
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 768 simulation)
+    POMCP: 
+        AVG_ADR: 11.418906685780264
+Simulation 769
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 769 simulation)
+    POMCP: 
+        AVG_ADR: 11.404057652378729
+Simulation 770
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 770 simulation)
+    POMCP: 
+        AVG_ADR: 11.389247187895121
+Simulation 771
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 771 simulation)
+    POMCP: 
+        AVG_ADR: 11.374475142255827
+Simulation 772
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 772 simulation)
+    POMCP: 
+        AVG_ADR: 11.359741366164823
+Simulation 773
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 773 simulation)
+    POMCP: 
+        AVG_ADR: 11.345045711098633
+Simulation 774
+    POMCP: 
+        ADR: 93.206534790699
+Cumulative Statistics (for 774 simulation)
+    POMCP: 
+        AVG_ADR: 11.450809908875895
+Simulation 775
+    POMCP: 
+        ADR: 95.09900499
+Cumulative Statistics (for 775 simulation)
+    POMCP: 
+        AVG_ADR: 11.558743063819279
+Simulation 776
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 776 simulation)
+    POMCP: 
+        AVG_ADR: 11.543847776365904
+Simulation 777
+    POMCP: 
+        ADR: 94.14801494009998
+Cumulative Statistics (for 777 simulation)
+    POMCP: 
+        AVG_ADR: 11.650159445817298
+Simulation 778
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 778 simulation)
+    POMCP: 
+        AVG_ADR: 11.635184947814963
+Simulation 779
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 779 simulation)
+    POMCP: 
+        AVG_ADR: 11.620248895250374
+Simulation 780
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 780 simulation)
+    POMCP: 
+        AVG_ADR: 11.605351140256463
+Simulation 781
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 781 simulation)
+    POMCP: 
+        AVG_ADR: 11.590491535723483
+Simulation 782
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 782 simulation)
+    POMCP: 
+        AVG_ADR: 11.57566993529417
+Simulation 783
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 783 simulation)
+    POMCP: 
+        AVG_ADR: 11.560886193358929
+Simulation 784
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 784 simulation)
+    POMCP: 
+        AVG_ADR: 11.546140165051073
+Simulation 785
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 785 simulation)
+    POMCP: 
+        AVG_ADR: 11.53143170624209
+Simulation 786
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 786 simulation)
+    POMCP: 
+        AVG_ADR: 11.516760673536949
+Simulation 787
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 787 simulation)
+    POMCP: 
+        AVG_ADR: 11.50212692426943
+Simulation 788
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 788 simulation)
+    POMCP: 
+        AVG_ADR: 11.487530316497514
+Simulation 789
+    POMCP: 
+        ADR: 90.43820750088042
+Cumulative Statistics (for 789 simulation)
+    POMCP: 
+        AVG_ADR: 11.587594546135515
+Simulation 790
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 790 simulation)
+    POMCP: 
+        AVG_ADR: 11.572926704937874
+Simulation 791
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 791 simulation)
+    POMCP: 
+        AVG_ADR: 11.558295950570065
+Simulation 792
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 792 simulation)
+    POMCP: 
+        AVG_ADR: 11.543702142551668
+Simulation 793
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 793 simulation)
+    POMCP: 
+        AVG_ADR: 11.52914514111087
+Simulation 794
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 794 simulation)
+    POMCP: 
+        AVG_ADR: 11.51462480718
+Simulation 795
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 795 simulation)
+    POMCP: 
+        AVG_ADR: 11.500141002391095
+Simulation 796
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 796 simulation)
+    POMCP: 
+        AVG_ADR: 11.48569358907151
+Simulation 797
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 797 simulation)
+    POMCP: 
+        AVG_ADR: 11.47128243023955
+Simulation 798
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 798 simulation)
+    POMCP: 
+        AVG_ADR: 11.45690738960015
+Simulation 799
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 799 simulation)
+    POMCP: 
+        AVG_ADR: 11.442568331540576
+Simulation 800
+    POMCP: 
+        ADR: 94.14801494009998
+Cumulative Statistics (for 800 simulation)
+    POMCP: 
+        AVG_ADR: 11.545950139801276
+Simulation 801
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 801 simulation)
+    POMCP: 
+        AVG_ADR: 11.531535720151087
+Simulation 802
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 802 simulation)
+    POMCP: 
+        AVG_ADR: 11.517157246684564
+Simulation 803
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 803 simulation)
+    POMCP: 
+        AVG_ADR: 11.502814585107124
+Simulation 804
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 804 simulation)
+    POMCP: 
+        AVG_ADR: 11.488507601792314
+Simulation 805
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 805 simulation)
+    POMCP: 
+        AVG_ADR: 11.474236163777665
+Simulation 806
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 806 simulation)
+    POMCP: 
+        AVG_ADR: 11.460000138760572
+Simulation 807
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 807 simulation)
+    POMCP: 
+        AVG_ADR: 11.445799395094202
+Simulation 808
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 808 simulation)
+    POMCP: 
+        AVG_ADR: 11.431633801783441
+Simulation 809
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 809 simulation)
+    POMCP: 
+        AVG_ADR: 11.417503228480866
+Simulation 810
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 810 simulation)
+    POMCP: 
+        AVG_ADR: 11.403407545482741
+Simulation 811
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 811 simulation)
+    POMCP: 
+        AVG_ADR: 11.389346623725055
+Simulation 812
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 812 simulation)
+    POMCP: 
+        AVG_ADR: 11.375320334779582
+Simulation 813
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 813 simulation)
+    POMCP: 
+        AVG_ADR: 11.361328550849963
+Simulation 814
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 814 simulation)
+    POMCP: 
+        AVG_ADR: 11.347371144767838
+Simulation 815
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 815 simulation)
+    POMCP: 
+        AVG_ADR: 11.333447989988981
+Simulation 816
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 816 simulation)
+    POMCP: 
+        AVG_ADR: 11.319558960589486
+Simulation 817
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 817 simulation)
+    POMCP: 
+        AVG_ADR: 11.30570393126196
+Simulation 818
+    POMCP: 
+        ADR: 92.274469442792
+Cumulative Statistics (for 818 simulation)
+    POMCP: 
+        AVG_ADR: 11.4046877521807
+Simulation 819
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 819 simulation)
+    POMCP: 
+        AVG_ADR: 11.39076261451015
+Simulation 820
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 820 simulation)
+    POMCP: 
+        AVG_ADR: 11.376871440590016
+Simulation 821
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 821 simulation)
+    POMCP: 
+        AVG_ADR: 11.363014106314024
+Simulation 822
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 822 simulation)
+    POMCP: 
+        AVG_ADR: 11.349190488179822
+Simulation 823
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 823 simulation)
+    POMCP: 
+        AVG_ADR: 11.335400463285314
+Simulation 824
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 824 simulation)
+    POMCP: 
+        AVG_ADR: 11.321643909325015
+Simulation 825
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 825 simulation)
+    POMCP: 
+        AVG_ADR: 11.30792070458644
+Simulation 826
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 826 simulation)
+    POMCP: 
+        AVG_ADR: 11.294230727946506
+Simulation 827
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 827 simulation)
+    POMCP: 
+        AVG_ADR: 11.280573858867973
+Simulation 828
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 828 simulation)
+    POMCP: 
+        AVG_ADR: 11.26694997739591
+Simulation 829
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 829 simulation)
+    POMCP: 
+        AVG_ADR: 11.253358964154177
+Simulation 830
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 830 simulation)
+    POMCP: 
+        AVG_ADR: 11.239800700341943
+Simulation 831
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 831 simulation)
+    POMCP: 
+        AVG_ADR: 11.22627506773022
+Simulation 832
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 832 simulation)
+    POMCP: 
+        AVG_ADR: 11.21278194865843
+Simulation 833
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 833 simulation)
+    POMCP: 
+        AVG_ADR: 11.199321226030989
+Simulation 834
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 834 simulation)
+    POMCP: 
+        AVG_ADR: 11.185892783313925
+Simulation 835
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 835 simulation)
+    POMCP: 
+        AVG_ADR: 11.172496504531512
+Simulation 836
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 836 simulation)
+    POMCP: 
+        AVG_ADR: 11.159132274262934
+Simulation 837
+    POMCP: 
+        ADR: 94.14801494009998
+Cumulative Statistics (for 837 simulation)
+    POMCP: 
+        AVG_ADR: 11.258282671713157
+Simulation 838
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 838 simulation)
+    POMCP: 
+        AVG_ADR: 11.24484796685431
+Simulation 839
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 839 simulation)
+    POMCP: 
+        AVG_ADR: 11.231445287513603
+Simulation 840
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 840 simulation)
+    POMCP: 
+        AVG_ADR: 11.218074519314182
+Simulation 841
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 841 simulation)
+    POMCP: 
+        AVG_ADR: 11.204735548423201
+Simulation 842
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 842 simulation)
+    POMCP: 
+        AVG_ADR: 11.19142826154859
+Simulation 843
+    POMCP: 
+        ADR: 93.206534790699
+Cumulative Statistics (for 843 simulation)
+    POMCP: 
+        AVG_ADR: 11.288717830385067
+Simulation 844
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 844 simulation)
+    POMCP: 
+        AVG_ADR: 11.275342572292194
+Simulation 845
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 845 simulation)
+    POMCP: 
+        AVG_ADR: 11.261998971614926
+Simulation 846
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 846 simulation)
+    POMCP: 
+        AVG_ADR: 11.248686916092922
+Simulation 847
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 847 simulation)
+    POMCP: 
+        AVG_ADR: 11.235406293996
+Simulation 848
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 848 simulation)
+    POMCP: 
+        AVG_ADR: 11.222156994121004
+Simulation 849
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 849 simulation)
+    POMCP: 
+        AVG_ADR: 11.208938905788706
+Simulation 850
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 850 simulation)
+    POMCP: 
+        AVG_ADR: 11.19575191884072
+Simulation 851
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 851 simulation)
+    POMCP: 
+        AVG_ADR: 11.182595923636441
+Simulation 852
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 852 simulation)
+    POMCP: 
+        AVG_ADR: 11.169470811050013
+Simulation 853
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 853 simulation)
+    POMCP: 
+        AVG_ADR: 11.156376472467306
+Simulation 854
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 854 simulation)
+    POMCP: 
+        AVG_ADR: 11.143312799782917
+Simulation 855
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 855 simulation)
+    POMCP: 
+        AVG_ADR: 11.130279685397207
+Simulation 856
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 856 simulation)
+    POMCP: 
+        AVG_ADR: 11.117277022213331
+Simulation 857
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 857 simulation)
+    POMCP: 
+        AVG_ADR: 11.10430470363432
+Simulation 858
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 858 simulation)
+    POMCP: 
+        AVG_ADR: 11.091362623560153
+Simulation 859
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 859 simulation)
+    POMCP: 
+        AVG_ADR: 11.07845067638488
+Simulation 860
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 860 simulation)
+    POMCP: 
+        AVG_ADR: 11.065568756993734
+Simulation 861
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 861 simulation)
+    POMCP: 
+        AVG_ADR: 11.052716760760292
+Simulation 862
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 862 simulation)
+    POMCP: 
+        AVG_ADR: 11.039894583543633
+Simulation 863
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 863 simulation)
+    POMCP: 
+        AVG_ADR: 11.027102121685529
+Simulation 864
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 864 simulation)
+    POMCP: 
+        AVG_ADR: 11.014339272007653
+Simulation 865
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 865 simulation)
+    POMCP: 
+        AVG_ADR: 11.0016059318088
+Simulation 866
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 866 simulation)
+    POMCP: 
+        AVG_ADR: 10.988901998862138
+Simulation 867
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 867 simulation)
+    POMCP: 
+        AVG_ADR: 10.97622737141247
+Simulation 868
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 868 simulation)
+    POMCP: 
+        AVG_ADR: 10.963581948173516
+Simulation 869
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 869 simulation)
+    POMCP: 
+        AVG_ADR: 10.950965628325214
+Simulation 870
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 870 simulation)
+    POMCP: 
+        AVG_ADR: 10.938378311511048
+Simulation 871
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 871 simulation)
+    POMCP: 
+        AVG_ADR: 10.925819897835375
+Simulation 872
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 872 simulation)
+    POMCP: 
+        AVG_ADR: 10.913290287860793
+Simulation 873
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 873 simulation)
+    POMCP: 
+        AVG_ADR: 10.900789382605511
+Simulation 874
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 874 simulation)
+    POMCP: 
+        AVG_ADR: 10.888317083540747
+Simulation 875
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 875 simulation)
+    POMCP: 
+        AVG_ADR: 10.875873292588128
+Simulation 876
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 876 simulation)
+    POMCP: 
+        AVG_ADR: 10.863457912117136
+Simulation 877
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 877 simulation)
+    POMCP: 
+        AVG_ADR: 10.851070844942544
+Simulation 878
+    POMCP: 
+        ADR: 97.0299
+Cumulative Statistics (for 878 simulation)
+    POMCP: 
+        AVG_ADR: 10.949224408900468
+Simulation 879
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 879 simulation)
+    POMCP: 
+        AVG_ADR: 10.936767953372708
+Simulation 880
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 880 simulation)
+    POMCP: 
+        AVG_ADR: 10.92433980797115
+Simulation 881
+    POMCP: 
+        ADR: 88.63848717161291
+Cumulative Statistics (for 881 simulation)
+    POMCP: 
+        AVG_ADR: 11.012551098962797
+Simulation 882
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 882 simulation)
+    POMCP: 
+        AVG_ADR: 11.000065213363065
+Simulation 883
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 883 simulation)
+    POMCP: 
+        AVG_ADR: 10.98760760836492
+Simulation 884
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 884 simulation)
+    POMCP: 
+        AVG_ADR: 10.975178187993466
+Simulation 885
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 885 simulation)
+    POMCP: 
+        AVG_ADR: 10.962776856707597
+Simulation 886
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 886 simulation)
+    POMCP: 
+        AVG_ADR: 10.950403519397543
+Simulation 887
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 887 simulation)
+    POMCP: 
+        AVG_ADR: 10.93805808138244
+Simulation 888
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 888 simulation)
+    POMCP: 
+        AVG_ADR: 10.92574044840791
+Simulation 889
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 889 simulation)
+    POMCP: 
+        AVG_ADR: 10.913450526643672
+Simulation 890
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 890 simulation)
+    POMCP: 
+        AVG_ADR: 10.901188222681151
+Simulation 891
+    POMCP: 
+        ADR: 90.43820750088042
+Cumulative Statistics (for 891 simulation)
+    POMCP: 
+        AVG_ADR: 10.990455359918187
+Simulation 892
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 892 simulation)
+    POMCP: 
+        AVG_ADR: 10.978134221622314
+Simulation 893
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 893 simulation)
+    POMCP: 
+        AVG_ADR: 10.965840678261035
+Simulation 894
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 894 simulation)
+    POMCP: 
+        AVG_ADR: 10.953574637233897
+Simulation 895
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 895 simulation)
+    POMCP: 
+        AVG_ADR: 10.941336006354305
+Simulation 896
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 896 simulation)
+    POMCP: 
+        AVG_ADR: 10.929124693847214
+Simulation 897
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 897 simulation)
+    POMCP: 
+        AVG_ADR: 10.916940608346827
+Simulation 898
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 898 simulation)
+    POMCP: 
+        AVG_ADR: 10.904783658894326
+Simulation 899
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 899 simulation)
+    POMCP: 
+        AVG_ADR: 10.8926537549356
+Simulation 900
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 900 simulation)
+    POMCP: 
+        AVG_ADR: 10.880550806319004
+Simulation 901
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 901 simulation)
+    POMCP: 
+        AVG_ADR: 10.868474723293122
+Simulation 902
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 902 simulation)
+    POMCP: 
+        AVG_ADR: 10.85642541650455
+Simulation 903
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 903 simulation)
+    POMCP: 
+        AVG_ADR: 10.844402796995686
+Simulation 904
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 904 simulation)
+    POMCP: 
+        AVG_ADR: 10.832406776202548
+Simulation 905
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 905 simulation)
+    POMCP: 
+        AVG_ADR: 10.8204372659526
+Simulation 906
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 906 simulation)
+    POMCP: 
+        AVG_ADR: 10.808494178462587
+Simulation 907
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 907 simulation)
+    POMCP: 
+        AVG_ADR: 10.796577426336388
+Simulation 908
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 908 simulation)
+    POMCP: 
+        AVG_ADR: 10.784686922562889
+Simulation 909
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 909 simulation)
+    POMCP: 
+        AVG_ADR: 10.772822580513866
+Simulation 910
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 910 simulation)
+    POMCP: 
+        AVG_ADR: 10.760984313941872
+Simulation 911
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 911 simulation)
+    POMCP: 
+        AVG_ADR: 10.74917203697816
+Simulation 912
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 912 simulation)
+    POMCP: 
+        AVG_ADR: 10.737385664130596
+Simulation 913
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 913 simulation)
+    POMCP: 
+        AVG_ADR: 10.725625110281603
+Simulation 914
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 914 simulation)
+    POMCP: 
+        AVG_ADR: 10.713890290686109
+Simulation 915
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 915 simulation)
+    POMCP: 
+        AVG_ADR: 10.702181120969513
+Simulation 916
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 916 simulation)
+    POMCP: 
+        AVG_ADR: 10.690497517125658
+Simulation 917
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 917 simulation)
+    POMCP: 
+        AVG_ADR: 10.678839395514835
+Simulation 918
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 918 simulation)
+    POMCP: 
+        AVG_ADR: 10.667206672861768
+Simulation 919
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 919 simulation)
+    POMCP: 
+        AVG_ADR: 10.655599266253649
+Simulation 920
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 920 simulation)
+    POMCP: 
+        AVG_ADR: 10.644017093138157
+Simulation 921
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 921 simulation)
+    POMCP: 
+        AVG_ADR: 10.632460071321503
+Simulation 922
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 922 simulation)
+    POMCP: 
+        AVG_ADR: 10.620928118966491
+Simulation 923
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 923 simulation)
+    POMCP: 
+        AVG_ADR: 10.609421154590578
+Simulation 924
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 924 simulation)
+    POMCP: 
+        AVG_ADR: 10.597939097063966
+Simulation 925
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 925 simulation)
+    POMCP: 
+        AVG_ADR: 10.58648186560768
+Simulation 926
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 926 simulation)
+    POMCP: 
+        AVG_ADR: 10.57504937979169
+Simulation 927
+    POMCP: 
+        ADR: 93.206534790699
+Cumulative Statistics (for 927 simulation)
+    POMCP: 
+        AVG_ADR: 10.66418798325545
+Simulation 928
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 928 simulation)
+    POMCP: 
+        AVG_ADR: 10.652696401376943
+Simulation 929
+    POMCP: 
+        ADR: 92.274469442792
+Cumulative Statistics (for 929 simulation)
+    POMCP: 
+        AVG_ADR: 10.740556221658338
+Simulation 930
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 930 simulation)
+    POMCP: 
+        AVG_ADR: 10.729007236473759
+Simulation 931
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 931 simulation)
+    POMCP: 
+        AVG_ADR: 10.7174830611392
+Simulation 932
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 932 simulation)
+    POMCP: 
+        AVG_ADR: 10.705983615794631
+Simulation 933
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 933 simulation)
+    POMCP: 
+        AVG_ADR: 10.694508820922396
+Simulation 934
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 934 simulation)
+    POMCP: 
+        AVG_ADR: 10.683058597345392
+Simulation 935
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 935 simulation)
+    POMCP: 
+        AVG_ADR: 10.671632866225236
+Simulation 936
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 936 simulation)
+    POMCP: 
+        AVG_ADR: 10.660231549060466
+Simulation 937
+    POMCP: 
+        ADR: 95.09900499
+Cumulative Statistics (for 937 simulation)
+    POMCP: 
+        AVG_ADR: 10.750347635977157
+Simulation 938
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 938 simulation)
+    POMCP: 
+        AVG_ADR: 10.738886710992105
+Simulation 939
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 939 simulation)
+    POMCP: 
+        AVG_ADR: 10.727450196922891
+Simulation 940
+    POMCP: 
+        ADR: 95.09900499
+Cumulative Statistics (for 940 simulation)
+    POMCP: 
+        AVG_ADR: 10.817207170107014
+Simulation 941
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 941 simulation)
+    POMCP: 
+        AVG_ADR: 10.80571173209415
+Simulation 942
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 942 simulation)
+    POMCP: 
+        AVG_ADR: 10.794240700531416
+Simulation 943
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 943 simulation)
+    POMCP: 
+        AVG_ADR: 10.782793997773695
+Simulation 944
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 944 simulation)
+    POMCP: 
+        AVG_ADR: 10.771371546504867
+Simulation 945
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 945 simulation)
+    POMCP: 
+        AVG_ADR: 10.75997326973608
+Simulation 946
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 946 simulation)
+    POMCP: 
+        AVG_ADR: 10.748599090804012
+Simulation 947
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 947 simulation)
+    POMCP: 
+        AVG_ADR: 10.73724893336916
+Simulation 948
+    POMCP: 
+        ADR: 94.14801494009998
+Cumulative Statistics (for 948 simulation)
+    POMCP: 
+        AVG_ADR: 10.825234973460647
+Simulation 949
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 949 simulation)
+    POMCP: 
+        AVG_ADR: 10.81382798191854
+Simulation 950
+    POMCP: 
+        ADR: 92.274469442792
+Cumulative Statistics (for 950 simulation)
+    POMCP: 
+        AVG_ADR: 10.899576025561565
+Simulation 951
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 951 simulation)
+    POMCP: 
+        AVG_ADR: 10.888114852033109
+Simulation 952
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 952 simulation)
+    POMCP: 
+        AVG_ADR: 10.876677756600301
+Simulation 953
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 953 simulation)
+    POMCP: 
+        AVG_ADR: 10.865264663466409
+Simulation 954
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 954 simulation)
+    POMCP: 
+        AVG_ADR: 10.853875497152503
+Simulation 955
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 955 simulation)
+    POMCP: 
+        AVG_ADR: 10.842510182495797
+Simulation 956
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 956 simulation)
+    POMCP: 
+        AVG_ADR: 10.831168644647999
+Simulation 957
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 957 simulation)
+    POMCP: 
+        AVG_ADR: 10.819850809073653
+Simulation 958
+    POMCP: 
+        ADR: 97.0299
+Cumulative Statistics (for 958 simulation)
+    POMCP: 
+        AVG_ADR: 10.909840422007814
+Simulation 959
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 959 simulation)
+    POMCP: 
+        AVG_ADR: 10.898464154623031
+Simulation 960
+    POMCP: 
+        ADR: 97.0299
+Cumulative Statistics (for 960 simulation)
+    POMCP: 
+        AVG_ADR: 10.988184400295298
+Simulation 961
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 961 simulation)
+    POMCP: 
+        AVG_ADR: 10.976750285414658
+Simulation 962
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 962 simulation)
+    POMCP: 
+        AVG_ADR: 10.965339942082625
+Simulation 963
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 963 simulation)
+    POMCP: 
+        AVG_ADR: 10.953953296244533
+Simulation 964
+    POMCP: 
+        ADR: 90.43820750088042
+Cumulative Statistics (for 964 simulation)
+    POMCP: 
+        AVG_ADR: 11.036405842099965
+Simulation 965
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 965 simulation)
+    POMCP: 
+        AVG_ADR: 11.02496915210815
+Simulation 966
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 966 simulation)
+    POMCP: 
+        AVG_ADR: 11.013556140563526
+Simulation 967
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 967 simulation)
+    POMCP: 
+        AVG_ADR: 11.002166734006583
+Simulation 968
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 968 simulation)
+    POMCP: 
+        AVG_ADR: 10.99080085928137
+Simulation 969
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 969 simulation)
+    POMCP: 
+        AVG_ADR: 10.979458443533916
+Simulation 970
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 970 simulation)
+    POMCP: 
+        AVG_ADR: 10.968139414210686
+Simulation 971
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 971 simulation)
+    POMCP: 
+        AVG_ADR: 10.95684369905702
+Simulation 972
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 972 simulation)
+    POMCP: 
+        AVG_ADR: 10.945571226115602
+Simulation 973
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 973 simulation)
+    POMCP: 
+        AVG_ADR: 10.934321923724939
+Simulation 974
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 974 simulation)
+    POMCP: 
+        AVG_ADR: 10.923095720517829
+Simulation 975
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 975 simulation)
+    POMCP: 
+        AVG_ADR: 10.911892545419862
+Simulation 976
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 976 simulation)
+    POMCP: 
+        AVG_ADR: 10.900712327647916
+Simulation 977
+    POMCP: 
+        ADR: 94.14801494009998
+Cumulative Statistics (for 977 simulation)
+    POMCP: 
+        AVG_ADR: 10.985919392757896
+Simulation 978
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 978 simulation)
+    POMCP: 
+        AVG_ADR: 10.974686346344035
+Simulation 979
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 979 simulation)
+    POMCP: 
+        AVG_ADR: 10.963476247931016
+Simulation 980
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 980 simulation)
+    POMCP: 
+        AVG_ADR: 10.952289027269863
+Simulation 981
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 981 simulation)
+    POMCP: 
+        AVG_ADR: 10.941124614398028
+Simulation 982
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 982 simulation)
+    POMCP: 
+        AVG_ADR: 10.929982939637949
+Simulation 983
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 983 simulation)
+    POMCP: 
+        AVG_ADR: 10.91886393359559
+Simulation 984
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 984 simulation)
+    POMCP: 
+        AVG_ADR: 10.90776752715901
+Simulation 985
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 985 simulation)
+    POMCP: 
+        AVG_ADR: 10.89669365149692
+Simulation 986
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 986 simulation)
+    POMCP: 
+        AVG_ADR: 10.885642238057267
+Simulation 987
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 987 simulation)
+    POMCP: 
+        AVG_ADR: 10.874613218565822
+Simulation 988
+    POMCP: 
+        ADR: 94.14801494009998
+Cumulative Statistics (for 988 simulation)
+    POMCP: 
+        AVG_ADR: 10.95889803812203
+Simulation 989
+    POMCP: 
+        ADR: 97.0299
+Cumulative Statistics (for 989 simulation)
+    POMCP: 
+        AVG_ADR: 11.04592635153141
+Simulation 990
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 990 simulation)
+    POMCP: 
+        AVG_ADR: 11.034768850166227
+Simulation 991
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 991 simulation)
+    POMCP: 
+        AVG_ADR: 11.02363386646273
+Simulation 992
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 992 simulation)
+    POMCP: 
+        AVG_ADR: 11.01252133232315
+Simulation 993
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 993 simulation)
+    POMCP: 
+        AVG_ADR: 11.001431179924033
+Simulation 994
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 994 simulation)
+    POMCP: 
+        AVG_ADR: 10.990363341714854
+Simulation 995
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 995 simulation)
+    POMCP: 
+        AVG_ADR: 10.979317750416648
+Simulation 996
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 996 simulation)
+    POMCP: 
+        AVG_ADR: 10.968294339020646
+Simulation 997
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 997 simulation)
+    POMCP: 
+        AVG_ADR: 10.957293040786926
+Simulation 998
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 998 simulation)
+    POMCP: 
+        AVG_ADR: 10.946313789243051
+Simulation 999
+    POMCP: 
+        ADR: 94.14801494009998
+Cumulative Statistics (for 999 simulation)
+    POMCP: 
+        AVG_ADR: 11.029598775380045
+Simulation 1000
+    POMCP: 
+        ADR: 0.0
+Cumulative Statistics (for 1000 simulation)
+    POMCP: 
+        AVG_ADR: 11.018569176604665
